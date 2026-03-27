@@ -1,2579 +1,2579 @@
 #separator:Semicolon
 #html:false
 #deck column:
-#columns:Front;Back;Tags
-nom;der Name-n;identité, informations personnelles
-adresse;die Adresse-n;identité, informations personnelles
-adresse;die Anschrift-en;identité, informations personnelles
-numéro;die Nummer-n;identité, informations personnelles
-numéro de téléphone;die Telefonnummer-n;identité, informations personnelles
-date de naissance;das Geburtsdatum-/en;identité, informations personnelles
-lieu de naissance;der Geburtsort-e;identité, informations personnelles
-age;das Alter-;identité, informations personnelles
-genre/sexe;das Geschlecht-er;identité, informations personnelles
-statut marital;der Familienstand-″e;identité, informations personnelles
-relation (personnelle);die Beziehung-en;identité, informations personnelles
-nationalité;die Staatsangehörigkeit-en;identité, informations personnelles
-origine;die Herkunft-″e;identité, informations personnelles
-apparence;das Aussehen;identité, informations personnelles
-habitude;die Gewohnheit-en;identité, informations personnelles
-habitation;die Wohnung-en;logement
-masse, prise de terre;die Erdung-en;logement
-maison;das Haus-″er;logement
-maison d'habitation;das Wohnhaus-″er;logement
-pièce (d'un bâtiment);das Zimmer-;logement
-éclairer;leuchten;logement
-mur, partition (de l’intérieur);die Wand-″e;logement
-mur (pierre ou ciment);die Mauer-n;logement
-équipement;die Einrichtung-en;logement
-meuble;das Möbel-;logement
-pièce de mobilier;das Möbelstück-e;logement
-loyer;die Miete-n;logement
-locataire;der Mieter-, die Mieterin-nen;logement
-contrat de location;der Mietvertrag-″e;logement
-propriétaire;der Eigentümer-, die Eigentümerin-nen;logement
-loueur/propriétaire;der Vermieter-, die Vermieterin-nen;logement
-propriété (chose qui appartient);das Eigentum-″er;logement
-déménagement;der Umzug-″e;logement
-déménager;um-ziehen (og-og);logement
-emménager;ein-ziehen (og-og);logement
-animal de companie;das Haustier-e;logement
-ménage (famille);der Haushalt-e;logement
-escalier;die Treppe-n;logement
-marche d'escalier;die Stufe-n;logement
-couloir;der Korridor-e;logement
-cuisine;die Küche-n;logement
-chambre;das Schlafzimmer-;logement
-salle de bain;das Badezimmer-;logement
-entrée de maison;der Hauseingang-″e;logement
-bain;das Bad-″er;logement
-vestibule;der Flur-e, die Diele-n;logement
-salon;das Wohnzimmer-;logement
-toilette (endroit);die Toilette-n;logement
-porte;die Tür-en;logement
-fenêtre;das Fenster-;logement
-jardin;der Garten-″;logement
-portail;das Tor-e;logement
-garage;die Garage-n;logement
-pelouse;der Rasen-;logement
-cloture;der Zaun-″e;logement
-appareil;das Gerät-e;logement
-four;der Ofen-″;logement
-four à microondes;die Mikrowelle-n;logement
-cuisinière/plaques (meuble);das Herd-e;logement
-lit;das Bett-en;logement
-linge;die Wäsche-n;logement
-coussin, oreillet;das Kissen-;logement
-linge de lit;die Bettwäsche-n;logement
-réveil (horloge);der Wecker-;logement
-couverture;die Decke-n;logement
-table;der Tisch-e;logement
-table de nuit;der Nachttisch-e;logement
-placard;der Schrank-″e;logement
-étagères;das Regal-e;logement
-tiroir;die Schublade-n;logement
-chaise;der Stuhl-″e;logement
-miroir;der Spiegel-;logement
-tabouret;der Hocker-;logement
-frigo;der Kühlschrank-″e;logement
-machine à laver;die Waschmaschine-n;logement
-aspirateur;der Staubsauger-;logement
-évier;die Spüle-n, das Spülbecken-;logement
-cafetière;die Kaffeemaschine-n;logement
-bibliothèque (meuble);das Bücherregal-e;logement
-bureau (meuble);der Schreibtisch-e;logement
-congélateur (compartiment & objet);der Gefrierschrank-″e;logement
-lampe;die Lampe-n;logement
-lumière;das Licht-er;logement
-bougie (lumière);die Kerze-n;logement
-ampoule (lumière);die Glühbirne-n;logement
-cloche, sonnette;die Glocke-n;logement
-rideau;der Vorhang-″e;logement
-tapis;der Teppich-e;logement
-tapis, paillasson;die Matte-n;logement
-canapé;das Sofa-s;logement
-fauteuil;der Sessel-;logement
-lampe de bureau;die Schreibtischlampe-n;logement
-radiateur (maison);der Heizkörper-;logement
-cadre;der Rahmen-;logement
-prise de courant;die Steckdose-n;logement
-interrupteur;der Schalter-;logement
-interrupteur d'éclairage;der Lichtschalter-;logement
-clé;der Schlüssel-;logement
-habiter;wohnen;logement
-fermer à clé;ab-schließen (o-o);logement
-allumer;an-machen, ein-schalten;logement
-éteindre;aus-machen, ab-schalten;logement
-sol (parterre);der Boden-″;logement
-carrelage;die Fliese-n;logement
-moquette;der Teppichboden-″;logement
-parquet;das Parkett-e;logement
-plafond;die Decke-n;logement
-lustre (lumière);der Kronleuchter-;logement
-rebord de fenêtre;das Fensterbrett-er;logement
-panneau de verre, vitre;die Scheibe-n;logement
-vitre;die Fensterscheibe-n;logement
-toit;das Dach-″er;logement
-tuile;der Dachziegel-;logement
-brique;der Ziegel-;logement
-grenier;der Dachboden-″;logement
-boite aux lettres;der Briefkasten-″;logement
-coffre;der Kasten-″;logement
-caisse;die Kiste-n;logement
-cave;der Keller-;logement
-visiter (quelqu’un);besuchen;logement
-visite;der Besuch-e;logement
-visiteur;der Besucher-, die Besucherin-nen;logement
-invitation;die Einladung-en;logement
-habitant;der Bewohner-, die Bewohnerin-nen;logement
-grenier, dernier étage;das Dachgeschoss-e;logement
-rez-de-chaussée;das Erdgeschoss-e;logement
-région (environs);die Gegend-en;logement
-terrain (immobilier);das Grundstück-e;logement
-concierge;der Hausmeister-, die Haustmeisterin-nen;logement
-gestion immobilière;die Hausverwaltung-en;logement
-loyer sans les charges;die Kaltmiete-n;logement
-loyer et charges;die Warmmiete-n;logement
-caution;die Kaution-en;logement
-situation (position);die Lage-n;logement
-agent (immmobilier);der Makler-, die Maklerin-nen;logement
-coûts additionnels;(pl.) Nebenkosten;logement
-étage;das Obergeschoss-e;logement
-étage (1er, etc.);der Stock-″e;logement
-commission (charge);die Provision-en;logement
-banlieue;der Vorort-e;logement
-bureau du logement;das Wohnungsamt-″er;logement
-"aide financière pour le paiement du loyer (""allocation de logement"")";das Wohngeld-er;logement
-donner son congé (terminaison de contrat);kündigen;logement
-rénover;renovieren;logement
-ascenseur;der Fahrstuhl-″e;logement
-ascenseur;der Aufzug-″e;logement
-vêtement;die Kleidung-en;vêtements & bijoux
-habillement;die Bekleidung-en;vêtements & bijoux
-ceintre;der Bügel-;vêtements & bijoux
-tache;der Fleck-e;vêtements & bijoux
-bouton de vêtement;der Knopf-″e;vêtements & bijoux
-lacer les chaussures;die Schuhe schnüren;vêtements & bijoux
-pantalon;die Hose-n;vêtements & bijoux
-short;(pl.) Shorts;vêtements & bijoux
-chaussure;der Schuh-e;vêtements & bijoux
-chaussette;die Socke-n;vêtements & bijoux
-collant;die Strumpfhose-n;vêtements & bijoux
-botte;der Stiefel-;vêtements & bijoux
-sandale;die Sandale-n;vêtements & bijoux
-baskets;der Sportschuh-e;vêtements & bijoux
-ceinture;der Gürtel-;vêtements & bijoux
-chemise;das Hemd-en;vêtements & bijoux
-tshirt;das T-shirt-s;vêtements & bijoux
-robe;das Kleid-er;vêtements & bijoux
-jupe;der Rock-″e;vêtements & bijoux
-manteau;der Mantel-″;vêtements & bijoux
-parapluie;der Regenschirm-e;vêtements & bijoux
-hoodie;der Hoodie-s;vêtements & bijoux
-sweatshirt;das Sweatshirt-s;vêtements & bijoux
-pull;der Pullover-;vêtements & bijoux
-collier;die Halskette-n;vêtements & bijoux
-bijou;der Schmuck-e;vêtements & bijoux
-chaine;die Kette-n;vêtements & bijoux
-anneau;der Ring-e;vêtements & bijoux
-pullover;der Pulli-s;vêtements & bijoux
-boucle d'oreille;der Ohrring-e;vêtements & bijoux
-"habit (“fringues"")";die Klamotte-n;vêtements & bijoux
-bague;der Ring-e;vêtements & bijoux
-montre, horloge;die Uhr-en;vêtements & bijoux
-montre-bracelet;die Armbanduhr-en;vêtements & bijoux
-bracelet;das Armband-″er;vêtements & bijoux
-chapeau;der Hut-″e;vêtements & bijoux
-casquette;die Mütze-n;vêtements & bijoux
-rayé (motif);gestreift;vêtements & bijoux
-motif à pois;das Punktmuster-;vêtements & bijoux
-à carreaux;kariert;vêtements & bijoux
-motif;das Muster-;vêtements & bijoux
-jeans;die Jeans-;vêtements & bijoux
-élégant (chic);schick;vêtements & bijoux
-pijama;das/der Pyjama-s;vêtements & bijoux
-porter (habit);tragen (ä-u-a);vêtements & bijoux
-lunettes;die Brille-n;vêtements & bijoux
-lunettes de soleil;die Sonnenbrille-n;vêtements & bijoux
-porter (lunettes, chapeau);haben (auf);vêtements & bijoux
-environnement;die Umwelt-en;nature, environnement
-climat;das Klima-ta;nature, environnement
-temps (météo);das Wetter-;nature, environnement
-vague (masse de fluide);die Welle-n;nature, environnement
-planète;der Planet-en;nature, environnement
-la terre (planète);die Erde-n;nature, environnement
-terre, sol;die Erde-n;nature, environnement
-sol (parterre);der Grund-″e;nature, environnement
-sable;der Sand-e;nature, environnement
-sauvage;wild;nature, environnement
-rocher;der Fels-en;nature, environnement
-caillou;der Stein-e;nature, environnement
-boue;der Match;nature, environnement
-froid;kalt;nature, environnement
-chaud;warm;nature, environnement
-chaud brûlant;heiß;nature, environnement
-nuageux;bewölkt;nature, environnement
-ensoleillé;sonnig;nature, environnement
-briller (emmettre de la lumière);scheinen (ie-ie);nature, environnement
-briller, luire;glühen;nature, environnement
-pluie;der Regen;nature, environnement
-pleuvoir;regnen;nature, environnement
-neige;der Schnee;nature, environnement
-neiger;schneien;nature, environnement
-grêle;der Hagel-;nature, environnement
-lune;der Mond-e;nature, environnement
-soleil;die Sonne;nature, environnement
-ombre;der Schatten-;nature, environnement
-grêler;hageln;nature, environnement
-brumeux;nebelig;nature, environnement
-brume;der Nebel-;nature, environnement
-montagne;der Berg-e;nature, environnement
-colline;der Hügel-;nature, environnement
-prairie;die Wiese-n;nature, environnement
-ruisseau;der Bach-″e;nature, environnement
-rivière;der Fluss-″e;nature, environnement
-désert (endroit);die Wüste-n;nature, environnement
-source;die Quelle-n;nature, environnement
-grotte;die Höhle-n;nature, environnement
-flocon de neige;die Schneeflocke-n;nature, environnement
-ciel;der Himmel-;nature, environnement
-étoile;der Stern-e;nature, environnement
-vallée;das Tal-″er;nature, environnement
-vent;der Wind-e;nature, environnement
-air (gaz);die Luft-″e;nature, environnement
-liquide, fluide (substance);die Flüssigkeit-en;nature, environnement
-résistant, visqueux;zäh;nature, environnement
-feu;das Feuer-;nature, environnement
-glace (eau gelée);das Eis-e;nature, environnement
-nuage;die Wolke-n;nature, environnement
-goutte (objet liquide);der Tropfen-;nature, environnement
-nature (l'environnement naturel);die Natur-e;nature, environnement
-déchet, poubelle (à jeter);der Müll;déchets
-déchet (reste);der Abfall-″e;déchets
-ranger;auf-räumen;déchets
-recycler;recyceln, wieder-verwerten;déchets
-recyclage;das Recycling, die Wiederverwertung;déchets
-corbeille à papier;der Papierkorb-″e;déchets
-papier;das Papier-e;déchets
-carton;der Karton-e;déchets
-métal;das Metall-e;déchets
-verre (matériau);das Glas-″er;déchets
-plastique (matériau);der Kunststoff-e;déchets
-matériau mélangés;der Verbundstoff-e;déchets
-trier (déchets);trennen;déchets
-papier à recycler;das Altpapier-e;déchets
-poubelle (conteneur cylindrique);die Tonne-n;déchets
-(sac jaune);der gelb(e) Sack-″e;déchets
-poussière;der Staub-″e;déchets
-benne (à ordure);der Müllcontainer-;déchets
-déchets organiques;der Biomüll;déchets
-détritus non recyclables;der Restmüll;déchets
-collecte des ordures;die Müllabfuhr-en;déchets
-écologique;ökologisch;déchets
-protection de l'environnement;der Umweltschutz;déchets
-description;die Beschreibung-en;descriptions
-décrire;beschreiben (ie-ie);descriptions
-représenter (de façon graphique);dar-stellen;descriptions
-représentation (graphique);die Darstellung-en;descriptions
-paysage;die Landschaft-en;descriptions
-situation;die Situation-en;descriptions
-atmosphère (psy);die Stimmung-en;descriptions
-comparaison;der Vergleich-e;descriptions
-en comparaison;im Vergleich;descriptions
-il me semble;es scheint mir;descriptions
-sembler;aus-sehen (ie-a-e), scheinen (ie-ie);descriptions
-avant plan;der Vordergrund-″e;descriptions
-arrière plan;der Hintergrund-″e;descriptions
-milieu (centre);die Mitte-n;descriptions
-au milieu;in der Mitte;descriptions
-à droite;rechts;descriptions
-à gauche;links;descriptions
-devant (adv.);vorne;descriptions
-derrière (adv.);hinten;descriptions
-c'est different;es ist anders (als);descriptions
-en particulier;besonders;descriptions
-expérience (vécue);die Erfahrung-en;vécu, habitude
-faire l'expérience, obtenir de l'expérience;erfahren (ä-u-a);vécu, habitude
-faire l'expérience, vivre;erleben;vécu, habitude
-vie de tout les jours;der Alltag;vécu, habitude
-typique;typisch ;vécu, habitude
-normal, ordinaire;gewöhnlich;vécu, habitude
-normal;normal;vécu, habitude
-inhabituel;ungewöhnlich;vécu, habitude
-étrange;seltsam;vécu, habitude
-exceptionnel;außergewöhnlich;vécu, habitude
-remarquable;merkwürdig;vécu, habitude
-rare;selten;vécu, habitude
-régulier (suivant la règle);regelmäßig;vécu, habitude
-surprenant;überraschend;vécu, habitude
-surprendre;überraschen;vécu, habitude
-surprise;die Überraschung-en;vécu, habitude
-incroyable;wahnsinnig;vécu, habitude
-vivre;leben;vécu, habitude
-humeur;die Laune-n;humeur, émotions
-blague;der Witz-e;humeur, émotions
-rage, colère;die Wut;humeur, émotions
-colère (contre quelquechose considéré comme injuste ou contraire à sa volonté);der Zorn;humeur, émotions
-en colère;wütend;humeur, émotions
-faché, amer;sauer;humeur, émotions
-énervé;verärgert;humeur, émotions
-ennuyé, énervé;genervt;humeur, émotions
-passion, ardeur;die Leidenschaft-en;humeur, émotions
-jaloux;eifersüchtig;humeur, émotions
-jalousie;die Eifersucht;humeur, émotions
-reprocher;vor-werfen (i-a-o);humeur, émotions
-grossier;grob;humeur, émotions
-aimer;lieben;humeur, émotions
-aimer (quelquechose), bien aimer;mögen (a-och-och);humeur, émotions
-sourire (verbe);lächeln;humeur, émotions
-déguster, jouir, bénéficier;genießen (o-o);humeur, émotions
-rire;lachen;humeur, émotions
-comportement;das Verhalten-;humeur, émotions
-larme, pleur;die Träne-n;humeur, émotions
-pleurer;weinen;humeur, émotions
-souffrir;leiden (itt-itt);humeur, émotions
-terrible, affreux;schrecklich;humeur, émotions
-beau;schön;humeur, émotions
-joli;hübsch;humeur, émotions
-gentil;nett;humeur, émotions
-fier (adj.);stolz;humeur, émotions
-heureux;froh;humeur, émotions
-laid;hässlich;humeur, émotions
-joyeux;fröhlich;humeur, émotions
-souci, préoccupation;die Sorge-n;humeur, émotions
-s'inquiéter;sich sorgen;humeur, émotions
-heureux;glücklich;humeur, émotions
-relaxé;entspannt;humeur, émotions
-intéressé;interessiert;humeur, émotions
-être intéressé par;sich interessieren (für);humeur, émotions
-enthousiasmé;begeistert;humeur, émotions
-fasciner;faszinieren;humeur, émotions
-triste;traurig;humeur, émotions
-content;zufrieden;humeur, émotions
-stressé;gestresst;humeur, émotions
-ennuyé (qui s'ennuie);gelangweilt;humeur, émotions
-pensif;nachdenklich;humeur, émotions
-déprimé;deprimiert;humeur, émotions
-malheureux;unglücklich;humeur, émotions
-mécontent;unzufrieden;humeur, émotions
-excité;aufgeregt;humeur, émotions
-tendu;gespannt;humeur, émotions
-calme, sans excitation;ruhig;humeur, émotions
-impulsion;der Impuls-e;humeur, émotions
-honte (sentiment);die Scham;humeur, émotions
-honte (objet);die Schande;humeur, émotions
-plaisant;angenehm;humeur, émotions
-plaisir, amusement;der Spaß-″e an+D;humeur, émotions
-drôle, amusant;lustig;humeur, émotions
-drôle, bizarre;komisch;humeur, émotions
-personnel;persönlich;humeur, émotions
-géner (émotion);unangenehm sein;humeur, émotions
-déplaisant;unangenehm;humeur, émotions
-humilier;demütigen;humeur, émotions
-dommage;schade;humeur, émotions
-malheureusement;leider;humeur, émotions
-décevoir (ne pas être à la hauteur);enttäuschen;humeur, émotions
-espérer;hoffen;humeur, émotions
-sérieux;ernst;humeur, émotions
-crier;schreien (ie-geschrien);humeur, émotions
-ressentir, sentir;fühlen;humeur, émotions
-être dans un état émotionnel;sich fühlen;humeur, émotions
-se réjouir;sich freuen;humeur, émotions
-exciter;auf-regen;humeur, émotions
-énerver;nerven;humeur, émotions
-peur (émotion);die Angst-″e;humeur, émotions
-avoir peur (émotion);Angst haben (vor+D);humeur, émotions
-malgrès tout;trotzdem;raisonnement, opinion
-en outre, de plus;ferner;raisonnement, opinion
-pourtant;dennoch;raisonnement, opinion
-pourtant;jedoch;raisonnement, opinion
-en même temps;gleichzeitig;raisonnement, opinion
-lier, combiner;verknüpfen;raisonnement, opinion
-négliger;vernachlässigen;raisonnement, opinion
-probable, vraisemblable;wahrscheinlich;raisonnement, opinion
-nécessaire;notwendig;raisonnement, opinion
-prémisse;die Voraussetzung-en;raisonnement, opinion
-diagramme;das Diagramm-e;raisonnement, opinion
-symbolique;symbolisch;raisonnement, opinion
-esquisser;skizzieren;raisonnement, opinion
-comparer;vergleichen;raisonnement, opinion
-dans le sens où/que;in dem Sinne, dass;raisonnement, opinion
-avis;die Ansicht-en;raisonnement, opinion
-avantage;der Vorteil-e;raisonnement, opinion
-vérité;die Wahrheit-en;raisonnement, opinion
-mensonge;die Lüge-n;raisonnement, opinion
-conscient, réfléchi;bewusst;raisonnement, opinion
-c'est exact;das stimmt;raisonnement, opinion
-exception;die Ausnahme-n;raisonnement, opinion
-relation (lien, rapport);die Beziehung-en;raisonnement, opinion
-réfléchir;nach-denken (ach-ach);raisonnement, opinion
-comprendre;greifen (if-if);raisonnement, opinion
-paraître, sembler;vor-kommen (a-o);raisonnement, opinion
-défaut, inconvénient;der Nachteil-e;raisonnement, opinion
-savoir;wissen (ei-u-u);raisonnement, opinion
-prendre connaissance de;erfahren (ä-u-a);raisonnement, opinion
-se rendre compte;merken;raisonnement, opinion
-connaître;kennen (a-a);raisonnement, opinion
-contradiction (incompatibilité logique);der Widerspruch-″e;raisonnement, opinion
-contradiction (action de contredire);der Widerspruch-″e;raisonnement, opinion
-réel, véritable;wirklich;raisonnement, opinion
-vrai, véritable;wahr;raisonnement, opinion
-faux, erroné;falsch;raisonnement, opinion
-vérifier, examiner;überprüfen;raisonnement, opinion
-sûrement;sicherlich;raisonnement, opinion
-valeur (caractère intrinsèque désirable);der Wert-e;raisonnement, opinion
-s'opposer, resister;sich widersetzen (+D);raisonnement, opinion
-peut-être;vielleicht;raisonnement, opinion
-cause;die Ursache-n;raisonnement, opinion
-possiblement;möglicherweise;raisonnement, opinion
-supposemment;vermutlich;raisonnement, opinion
-présumer;vermuten;raisonnement, opinion
-suspecter;verdächtigen;raisonnement, opinion
-être de l'avis;meinen;raisonnement, opinion
-incertain;unsicher;raisonnement, opinion
-convaincu;überzeugt;raisonnement, opinion
-douter;zweifeln (an+D);raisonnement, opinion
-défendre, justifier;verteidigen;raisonnement, opinion
-justifier;rechtfertigen;raisonnement, opinion
-concerner, porter sur;betreffen (+A) (i-a-o);raisonnement, opinion
-considérer (comme);halten (für, als) (ä-ie-a);raisonnement, opinion
-trouver (opinion);finden (a-u);raisonnement, opinion
-impression;der Eindruck-″e;raisonnement, opinion
-avoir l'impression;den Eindruck haben;raisonnement, opinion
-selon moi;meiner Meinung nach;raisonnement, opinion
-opinion;die Meinung-en;raisonnement, opinion
-croire;glauben;raisonnement, opinion
-il se pourrait;es könnte sein;raisonnement, opinion
-faire l’hypothèse;an-nehmen (im-ah-om);raisonnement, opinion
-supposer;vermuten;raisonnement, opinion
-s’étonner;sich wundern (über);raisonnement, opinion
-celà m’étonne;es wundert mich;raisonnement, opinion
-précisément;genauso (wie);raisonnement, opinion
-idée;die Idee-n, die Ahnung-en;raisonnement, opinion
-oublier;vergessen (i-a-e);raisonnement, opinion
-se souvenir;sich erinnern (an+A);raisonnement, opinion
-clair (visible);klar;raisonnement, opinion
-penser;denken (ach-ach);raisonnement, opinion
-confus (désorienté);verwirrt;raisonnement, opinion
-confondre, dérouter;verwirren;raisonnement, opinion
-sens, signification;der Sinn-e;raisonnement, opinion
-évident, naturel;selbstverständlich;raisonnement, opinion
-faculté de comprendre;das Verständnis-se;raisonnement, opinion
-sensé, rationnel;sinnvoll;raisonnement, opinion
-absurde;sinnlos;raisonnement, opinion
-venir à l'esprit;ein-fallen (+D) (ä-ie-a);raisonnement, opinion
-important;wichtig;raisonnement, opinion
-sans importance;egal;raisonnement, opinion
-cas;der Fall-″e;raisonnement, opinion
-craindre (rationnellement);fürchten;raisonnement, opinion
-faire attention;auf-passen (auf+A);raisonnement, opinion
-imaginer, se représenter;sich vor-stellen;raisonnement, opinion
-sûr;sicher;raisonnement, opinion
-s’attendre;erwarten;raisonnement, opinion
-intéressant;interessant;raisonnement, opinion
-super;super, toll;raisonnement, opinion
-être valable;gelten (i-a-o);raisonnement, opinion
-super;hammer;raisonnement, opinion
-excellent;hervorragend;raisonnement, opinion
-bon;gut;raisonnement, opinion
-indépendant (sans rapport avec);unabhängig;raisonnement, opinion
-super (de première classe);prima;raisonnement, opinion
-prévoir, prédire;vorher-sagen;raisonnement, opinion
-plan (projet);der Plan-″e;raisonnement, opinion
-planifier;planen;raisonnement, opinion
-dépendre de;ab-hängen (von);raisonnement, opinion
-reconnaitre, identifier;erkennen (a-a);raisonnement, opinion
-comprendre;verstehen (and-and);raisonnement, opinion
-ignorer (délibérement);ignorieren;raisonnement, opinion
-raisonnable;vernünftig;raisonnement, opinion
-estimer (évaluer);schätzen;raisonnement, opinion
-sousestimer;unterschätzen, unterbewerten;raisonnement, opinion
-surestimer;überschätzen;raisonnement, opinion
-remarquer, noter, se rendre compte;bemerken;raisonnement, opinion
-évident, apparent;offensichtlich;raisonnement, opinion
-manifeste, évident;offenbar;raisonnement, opinion
-voyager;reisen;transports, voyage
-voyage;die Reise-n;transports, voyage
-moyen de transport;das Verkehrsmittel-;transports, voyage
-transport public;das öffentliche Verkehrsmittel-;transports, voyage
-logement transitoire (hotel, etc);die Unterkunft-″e;transports, voyage
-bagage;das Gepäck-e;transports, voyage
-sac à dos;der Rucksack-″e;transports, voyage
-départ;die Abfahrt-en;transports, voyage
-partir (départ);ab-fahren (ä-u-a);transports, voyage
-arriver;an-kommen (a-o);transports, voyage
-arrivée;die Ankunft-″e;transports, voyage
-avion;das Flugzeug-e;transports, voyage
-vol (avion);der Flug-″e;transports, voyage
-aéroport;der Flughafen-″;transports, voyage
-gare;der Bahnhof-″e;transports, voyage
-train;der Zug-″e;transports, voyage
-wagon;der Wagen-″;transports, voyage
-voie (de chemin de fer);der Gleis-e;transports, voyage
-porte d'embarquement;das Gate-s;transports, voyage
-papier d'identité;der Ausweis-e;transports, voyage
-visiter (tourisme);besichtigen;transports, voyage
-tourisme;der Tourismus;transports, voyage
-réserver;buchen;transports, voyage
-bus;der Bus-se;transports, voyage
-ligne (de bus);die Linie-n;transports, voyage
-camping;das Camping;transports, voyage
-lieu de rassemblement, campement;das Lager-″;transports, voyage
-étranger (adj.);fremd;transports, voyage
-language étrangère;die Fremdsprache-n;transports, voyage
-hotel;das Hotel-s;transports, voyage
-sites d'intérêt;die Sehenswürdigkeit-en;transports, voyage
-musée;das Museum-/en;transports, voyage
-guide (tourisme);der Reiseführer-, die Reiseführerin-nen;transports, voyage
-passeport;der Reisepass-″e;transports, voyage
-plage;der Strand-″e;transports, voyage
-fuseau horaire;die Zeitzone-n;transports, voyage
-tente;das Zelt-e;transports, voyage
-arrêt de bus;die Bushaltestelle-n;transports, voyage
-terminus;die Endstation-en;transports, voyage
-monter (train etc);ein-steigen (ie-ie);transports, voyage
-changer (de train);um-steigen (ie-ie);transports, voyage
-descendre (train etc);aus-steigen (ie-ie);transports, voyage
-voiture;das Auto-s;transports, voyage
-pneu;der Reifen-;transports, voyage
-traffic;der Verkehr-e;transports, voyage
-bouchon (traffic);der Stau-s;transports, voyage
-autoroute;die Autobahn-en;transports, voyage
-route, voie;die Bahn-en;transports, voyage
-chemin de fer;die Bahn-en;transports, voyage
-plateforme (gare);der Bahnsteig-e;transports, voyage
-ferry;die Fähre-n;transports, voyage
-bateau, barque;das Boot-e;transports, voyage
-bateau, navire;der Schiff-e;transports, voyage
-ticket (titre de transport);die Fahrkarte-n;transports, voyage
-véhicule (transport);das Fahrzeug-e;transports, voyage
-permis de conduire;der Führeschein-e;transports, voyage
-arrêt (de bus);die Haltestelle-n;transports, voyage
-ICE (tgv allemand);der ICE-s (Intercity-Express);transports, voyage
-véhicule à moteur;das Kraftfahrzeug-e;transports, voyage
-camion, poid lourd (familier);der Laster-;transports, voyage
-camion;der Lastkraftwagen-″, der LKW-s;transports, voyage
-moto;das Motorrad-″er;transports, voyage
-parking (bâtiment);das Parkhaus-″er;transports, voyage
-véhicule personel;der Personalkraftwagen-″, der PKW-s;transports, voyage
-agence de voyage;das Reisebüro-s;transports, voyage
-retour (voyage);die Rückfahrt-en;transports, voyage
-partir, commencer à voyager;los-fahren (ä-u-a), weg-fahren (ä-u-a);transports, voyage
-aller/venir chercher;ab-holen;transports, voyage
-être en mouvement;sich bewegen;transports, voyage
-s'arrêter, être immobile;an-halten (ä-ie-a) (haben);transports, voyage
-emporter (porter quelquechose);mit-nehmen (im-ah-om);transports, voyage
-se garer;parken;transports, voyage
-atterrir;landen;transports, voyage
-transporter;transportieren;transports, voyage
-rester;bleiben (ie-ie);transports, voyage
-rester en arrière, ne pas accompagner;zurück-bleiben (ie-ie);transports, voyage
-tourner (qqchose);wenden;transports, voyage
-vers le haut (adv.);aufwärts;transports, voyage
-vers le bas (adv.);abwärts;transports, voyage
-en avant (adv.);vorwärts;transports, voyage
-en arrière (adv.);rückwärts;transports, voyage
-en haut;oben;transports, voyage
-en bas;unten;transports, voyage
-tout droit;geradeaus;transports, voyage
-accessible;erreichbar;transports, voyage
-pressé, urgent;eilig;transports, voyage
-manger;essen (i-a-e);manger, boire
-soupe;die Suppe-n;manger, boire
-boire;trinken (a-u);manger, boire
-nourriture, repas;das Essen;manger, boire
-repas;die Mahlzeit-en;manger, boire
-plat (aliment);die Speise-n;manger, boire
-boisson;das Getränk-e;manger, boire
-café (boisson);der Kaffee;manger, boire
-établissement gastronomique;der Lokal-e;manger, boire
-café (endroit);das Café-s;manger, boire
-bistro;die Kneipe-n;manger, boire
-restaurant;das Restaurant-s;manger, boire
-menu (carte);die Speisekarte-n;manger, boire
-acheter;kaufen;argent, commerce
-vendre;verkaufen;argent, commerce
-faire les courses;ein-kaufen;argent, commerce
-magasin;das Geschäft-e;argent, commerce
-magasin (endroit);der Laden-″;argent, commerce
-prix;der Preis-e;argent, commerce
-habit;die Kleindung-en;argent, commerce
-commerce (achat et vente de biens);der Handel-″;argent, commerce
-emballage;die Packung-en;argent, commerce
-louer (mettre à disposition en échange d'argent);vermieten;argent, commerce
-louer (payer pour utiliser);mieten;argent, commerce
-emprunter;leihen (ie-ie);argent, commerce
-donner;geben (i-a-e);argent, commerce
-prêter;leihen (ie-ie);argent, commerce
-recevoir, obtenir;bekommen (a-o);argent, commerce
-recevoir;erhalten (ä-ie-a);argent, commerce
-obtenir (après un effort ou une attente);erlangen;argent, commerce
-recevoir (invité, cadeau);empfangen (ä-i-a);argent, commerce
-coûter;kosten;argent, commerce
-caisse;die Kasse-n;argent, commerce
-reçu;der Beleg-e;argent, commerce
-payer;bezahlen;argent, commerce
-paiement;die Bezahlung-en;argent, commerce
-revenu (argent);das Einkommen-;argent, commerce
-rabat;der Rabatt-e;argent, commerce
-publicité;die Werbung-en;argent, commerce
-monnaie (pièces & billets);das Bargeld-er;argent, commerce
-pièce de monnaie;die Münze-n;argent, commerce
-argent (monnaie);das Geld-er;argent, commerce
-riche;reich;argent, commerce
-pauvre;arm;argent, commerce
-pauvreté;die Armut;argent, commerce
-billet de banque;der Geldschein-e;argent, commerce
-taxe, frais;die Gebühr-en;argent, commerce
-salaire, récompense;der Lohn-″e;argent, commerce
-trésor;der Schatz-″e;argent, commerce
-cher (prix);teuer;argent, commerce
-gratuit;frei;argent, commerce
-gratuitement;umsonst;argent, commerce
-pas cher (prix);billig;argent, commerce
-département (division);die Abteilung-en;argent, commerce
-articles pour la maison;die Haushaltware-n;argent, commerce
-offre (produits disponibles);das Angebot-e;argent, commerce
-zone piétonne;die Fußgängerzone-n;argent, commerce
-ticket de caisse;der Kassenbeleg-e;argent, commerce
-grand magasin;das Kaufhaus-″er;argent, commerce
-denrées alimentaires;das Lebensmittel-;argent, commerce
-marque (TM);die Marke-n;argent, commerce
-facture;die Rechnung-en;argent, commerce
-vitrine;das Schaufenster-;argent, commerce
-fournitures de bureau;(pl.) Schreibwaren;argent, commerce
-offre spéciale;das Sonderangebot-e;argent, commerce
-marché hebdomadaire;der Wochenmarkt-″e;argent, commerce
-qualité;die Qualität-en;argent, commerce
-reçu, quittance;die Quittung-en;argent, commerce
-commander (acheter);bestellen;argent, commerce
-se charger de, procurer;besorgen;argent, commerce
-échanger (achat);um-tauschen;argent, commerce
-rendre, restituer;zurück-geben (i-a-e);argent, commerce
-de bon rapport qualité-prix;preiswert;argent, commerce
-regarder (chercher);um-schauen;argent, commerce
-annonce (petite annonce);die Anzeige-n;argent, commerce
-virement permanent;der Dauerauftrag-″e;argent, commerce
-distributeur automatique de billets;der Geldautomat-en;argent, commerce
-compte courrant;das Girokonto-/en;argent, commerce
-relevé de compte;der Kontoauszug-″e;argent, commerce
-transfer bancaire;die Überweisung-en;argent, commerce
-intérêt (bancaire);der Zins-en;argent, commerce
-transférer (banque);überweisen (ie-ie);argent, commerce
-effectuer un retrait d’argent;ab-heben (o-o);argent, commerce
-telecommunication;die Telekommunikation-en;communication
-poste (courier);die Post-en;communication
-c'est-à-dire;das heißt;communication
-rapporter, annoncer, signaler, déclarer;melden;communication
-lettre (message écrit);der Brief-e;communication
-enveloppe (de lettre);der Umschlag-″e;communication
-déclarer;an-geben (i-a-e);communication
-stylo, crayon;der Stift-e;communication
-crayon;der Bleistift-e;communication
-gomme (pour effacer);das Gummi-s;communication
-admettre, avouer;zu-geben (i-a-e);communication
-livrer (collis);liefern;communication
-annoncer;an-kündigen;communication
-envoyer, expédier;schicken;communication
-envoyer, diffuser;senden;communication
-téléphone;das Telefon-e;communication
-internet;das Internet;communication
-connection;die Verbindung-en;communication
-téléphone portable;das Handy-s;communication
-radio (appareil);der Radio-s;communication
-journal;die Zeitung-en;communication
-presse (journaux & magasines);die Presse;communication
-émission (de tv, radio);die Sendung-en;communication
-magazine, revue;die Zeitschrift-en;communication
-série (tv);die Serie-n;communication
-radio (diffusion);der Rundfunk;communication
-page;die Seite-n;communication
-feuille (page);das Blatt-″er;communication
-ligne (texte);die Zeile-n;communication
-texte;der Text-e;communication
-phrase;der Satz-″e;communication
-lettre (alphabet);der Buchstabe-n;communication
-épeler;buchstabieren;communication
-symbole, caractère, signe;das Zeichen-;communication
-dictionnaire;das Wörterbuch-″er;communication
-instruction (ordre);die Anweisung-en;communication
-section, paragraphe;der Abschnitt-e;communication
-parenthèse, crochet;die Klammer-n;communication
-marquer;markieren;communication
-noter (faire une note);auf-schreiben (ie-ie);communication
-article;der Artikel-;communication
-annonce (radio ou haut-parleur);die Durchsage-n;communication
-détail;die Einzelheit-en;communication
-email;die E-Mail-s;communication
-sujet (d'une lettre, d'un email);der Betreff-e;communication
-conseil, indication, indice;der Hinweis-e;communication
-nouvelle, information;die Nachricht-en;communication
-titre, intitulé;die Überschrift-en;communication
-imprimer;drucken;communication
-imprimante;der Drucker-;communication
-expression;der Ausdruck-″e;communication
-rester silencieux;schweigen (ie-ie);communication
-note, pièce de papier;der Zettel-;communication
-appeler (donner un nom);nennen (a-a);communication
-parler;sprechen (i-a-o);parler, convaincre
-certitude;die Sicherheit-en;parler, convaincre
-renoncer;verzichten (auf+A);parler, convaincre
-droit à quelquechose, exigeance;der Anspruch-″e (auf+A);parler, convaincre
-demander, prier;bitten (a-e);parler, convaincre
-souligner (accentuer);betonen;parler, convaincre
-convaincre (logiquement);überzeugen;parler, convaincre
-convaincre, persuader (en parlant beaucoup);überreden;parler, convaincre
-au contraire, plutôt;vielmehr;parler, convaincre
-en tout cas;auf jeden Fall;parler, convaincre
-de toute façon, de toute manière;ohnehin;parler, convaincre
-analogie;die Analogie-n;parler, convaincre
-avoir raison;recht haben;parler, convaincre
-promettre;versprechen (i-a-o);parler, convaincre
-retour (=réponse);die Rückmeldung-en;parler, convaincre
-dire;sagen;parler, convaincre
-parler, converser;reden;parler, convaincre
-influence, impact;der Einfluss-″e;parler, convaincre
-avoir une conversation;besprechen (i-a-o);parler, convaincre
-discuter;besprechen (i-a-o);parler, convaincre
-prononciation;die Aussprache-n;parler, convaincre
-signifier;bedeuten;parler, convaincre
-exagérer (l'importance);übertreiben (ie-ie);parler, convaincre
-signification;die Bedeutung-en;parler, convaincre
-clair, considérable;deutlich;parler, convaincre
-offre (proposition);das Angebot-e;parler, convaincre
-absolu;unbedingt;parler, convaincre
-offrir, proposer;an-bieten (o-o);parler, convaincre
-d'ailleurs;übrigens;parler, convaincre
-motiver;motivieren;parler, convaincre
-plaire;gefallen (ä-ie-a);parler, convaincre
-mutuel;gegenseitig;parler, convaincre
-répondre à (tr.);beantworten;parler, convaincre
-discuter, conseiller;beraten (ä-ie-a);parler, convaincre
-exhorter, admonester;ermahnen (zu);parler, convaincre
-avertir;warnen (+A, vor);parler, convaincre
-s’excuser (de);sich entschuldigen (bei);parler, convaincre
-plutôt;eher;parler, convaincre
-même, voire;sogar;parler, convaincre
-option, possibilité;die Möglichkeit-en;parler, convaincre
-choisir, opter;aus-wählen, wählen, aus-suchen;parler, convaincre
-se décider;sich beschließen (o-o), sich entscheiden;parler, convaincre
-décision;die Entscheidung-en;parler, convaincre
-option;die Option-en;parler, convaincre
-choix;die Wahl-en;parler, convaincre
-choisir, sélectionner;wählen;parler, convaincre
-proposer;vor-schlagen (ä-u-a);parler, convaincre
-proposition;der Vorschlag-″e;parler, convaincre
-accepter;zu-stimmen (+D);parler, convaincre
-refuser;ab-lehnen;parler, convaincre
-contre-proposition;der Gegenvorschlag-″e;parler, convaincre
-convenir d'une activité/rdv;sich verabreden;parler, convaincre
-se mettre d’accord;sich einigen;parler, convaincre
-fixer, convenir;aus-machen;parler, convaincre
-d'accord (adj.);einverstanden;parler, convaincre
-considérer;überlegen;parler, convaincre
-avoir envie;Lust haben (auf+A/zu);parler, convaincre
-envie (désir);die Lust-″e;parler, convaincre
-plutôt (adv. opposition);lieber;parler, convaincre
-convenir (être compatible);passen;parler, convaincre
-aller bien, marcher;klappen;parler, convaincre
-parfait;perfekt;parler, convaincre
-à cause de moi;meinetwegen;parler, convaincre
-demander (question);fragen (+A, +A, nach, zu);parler, convaincre
-répondre (intr.);antworten;parler, convaincre
-réponse;die Antwort-en;parler, convaincre
-mentir;lügen (o-o);parler, convaincre
-recommander;empfehlen (ie-a-o);parler, convaincre
-alléguer, formuler;vor-bringen (ach-ach);parler, convaincre
-faire pression;unter Druck setzen;parler, convaincre
-exprimer;äußern;parler, convaincre
-informer, rapporter;berichten;parler, convaincre
-inciter, encourager, inspirer à;an-regen (+A, zu);parler, convaincre
-démontrer, prouver;beweisen (ie-ie);parler, convaincre
-faire confiance;vertrauen;parler, convaincre
-se fier;sich verlassen (auf+A);parler, convaincre
-maintenir (que);behaupten;parler, convaincre
-confier (secret);an-vertrauen (+A, +D);parler, convaincre
-communiquer (informer);mit-teilen;parler, convaincre
-contredire;widersprechen (i-a-o);parler, convaincre
-nier ce qui a été dit par quelqu'un d'autre;leugnen;parler, convaincre
-démentir officiellement;dementieren;parler, convaincre
-supposer;an-nehmen (im-ah-om);parler, convaincre
-question;die Frage-n;parler, convaincre
-se disputer;streiten (it-it);parler, convaincre
-se plaindre (auprès de qqun);sich beschweren;parler, convaincre
-insister;beharren (auf+D);parler, convaincre
-confronter;gegenüber-stellen;parler, convaincre
-raconter;erzählen;parler, convaincre
-expliquer;erklären;parler, convaincre
-répéter;wiederholen;parler, convaincre
-traduire;übertragen (ä-u-a);parler, convaincre
-traduire;übersetzen;parler, convaincre
-service, secteur tertiaire;die Dienstleistung-en;services publics
-banque;die Bank-en;services publics
-guichet;der Schalter-;services publics
-police;die Polizei-en;services publics
-commissariat;das Revier-e;services publics
-mairie;das Rathaus-″er;services publics
-administration;das Amt-″er;services publics
-collecte des ordures;die Abfuhr-en;services publics
-bibliothèque (service/lieu);die Bibliothek-en;services publics
-éducation;die Erziehung-en;éducation
-remarque;die Anmerkung-en;éducation
-définir;definieren;éducation
-élever (éduquer);erziehen (og-og);éducation
-s'exercer;üben;éducation
-test, épeuvre, contrôle;die Prüfung-en;éducation
-faire passer un test, épouvrer;prüfen;éducation
-exercice;die Übung-en;éducation
-formation (éducation);die Ausbildung-en zu;éducation
-corriger (une erreur);korrigieren;éducation
-apprendre;lernen;éducation
-enseigner;lehren;éducation
-enseignant;der Lehrer-, die Lehrerin-nen;éducation
-garde d’enfant;die Kinderbetreuung-en;éducation
-rater (exam);durch-fallen (bei/in+D) (ä-ie-a) (sein);éducation
-réussir (exam);bestehen (and-and) (haben);éducation
-école;die Schule-n;éducation
-tableau (surface pour écrire);die Tafel-n;éducation
-craie (pour écrire sur le tableau);die Kreide-n;éducation
-université;die Universität-en;éducation
-étudiant;der Student-en, die Studentin-nen;éducation
-cours (ensemble d'heures);der Kurs-e;éducation
-classe (groupe d'élèves);die Klasse-n;éducation
-étudier;studieren;éducation
-lycée, collège;das Gymnasium-/en;éducation
-baccalauréat (équivalent);das Abitur-e;éducation
-terminaison, en part. fin d’études;der Abschluss-″e;éducation
-école professionnelle;die Berufsschule-n;éducation
-prise en charge, soin;die Betreuung-en;éducation
-éducateur;der Erzieher-, die Erzieherin-nen;éducation
-école primaire, école élémentaire;die Grundschule-n;éducation
-garderie, école maternelle;der Kindergarten-″;éducation
-garderie, crèche;die Kita-s;éducation
-note (d’examen);die Note-n;éducation
-pause;die Pause-n;éducation
-école secondaire;die Realschule-n;éducation
-emploi du temps;der Stundenplan-″e;éducation
-babysitter;der Tagesvater-″, die Tagesmutter-″;éducation
-garderie, crèche;die Tagesstätte-n;éducation
-leçon;der Unterricht-e;éducation
-s’enroler;sich an-melden;éducation
-être absent;fehlen;éducation
-présent (présence);anwesend;éducation
-attentif;aufmerksam;éducation
-intelligent;schlau, intelligent;éducation
-programme;das Programm-e;éducation
-semestre;das Semester-;éducation
-étude (le fait d'étudier, études supérieures);das Studium-/en;éducation
-présenter, faire une présentation;präsentieren;éducation
-solution (de problème);die Lösung-en;éducation
-problème;das Problem-e;éducation
-travail;die Arbeit-en;travail
-occupé (avec des activités);beschäftigt;travail
-être occupé (avec une tâche);sich beschäftigen (mit);travail
-remplacer (quelqu'un au travail);vertreten (itt-a-e);travail
-métier;der Beruf-e;travail
-emploi, poste;die Arbeitsstelle-n;travail
-participer;teil-nehmen (im-ah-om);travail
-bureau;das Büro-s;travail
-contrat;der Vertrag-″e;travail
-faire, effectuer, fabriquer;machen;travail
-faire;tun (a-a);travail
-créer;schaffen (u-a);travail
-contrat de travail;der Arbeitsvertrag-″e;travail
-temps complet;die Vollzeit-en;travail
-temps partiel;die Teilzeit-en;travail
-à durée indéterminée, permanent;unbefristet;travail
-à durée déterminée;befristet;travail
-sans emploi;arbeitslos;travail
-se préparer;sich vor-bereiten;travail
-préparer;vor-bereiten;travail
-prêt (adj.);bereit;travail
-employeur;der Arbeitgeber-, die Arbeitgeberin-nen;travail
-employé, travailleur;der Arbeitnehmer-, die Arbeitnehmerin-nen;travail
-employé, agent;der Angestellter--, die Angestellte--;travail
-tâche (de travail);die Aufgabe-n;travail
-postuler;sich bewerben (bei, für) (i-a-o);travail
-application (emploi);die Bewerbung-en;travail
-entreprise;das Unternehmen;travail
-patron;der Chef-s, die Chefin-nen;travail
-service (restaurant...);die Bedienung-en;travail
-expérience (professionnelle);die Erfahrung-en;travail
-firme;die Firma-/en;travail
-salaire;der Gehalt-e;travail
-commerce (entreprise commerciale);das Geschäft-e;travail
-interview;das Vorstellungsgespräch-e;travail
-job;der Job-s;travail
-stage (de fin d'étude);das Praktikum-/a;travail
-client;der Kunde-n, die Kundin-nen;travail
-indépendant (emploi), autonome;selbstständig;travail
-hopital;das Krankenhaus-″er;travail
-industrie;die Industrie-n;travail
-agriculture;die Landwirtschaft-en;travail
-ordinateur;der Computer;travail
-écran (de TV, d'ordinateur);der Bildschirm-e;travail
-clavier;die Tastatur-en;travail
-touche de clavier;die Taste-n;travail
-cahier;das Heft-e;travail
-travail à domicile;die Telearbeit-en;travail
-mine;die Grube-n;travail
-réunion;die Besprechung-en;travail
-site de production, entreprise;der Betrieb-e;travail
-fonctionnement, opération;der Betrieb-e;travail
-fin de journée (congé, fin de travail);der Feierabend-e;travail
-formation continue;die Fortbildung-en;travail
-syndicat (organisation);die Gewerkschaft-en;travail
-produire;erzeugen;travail
-ingénieur;der Ingenieur-e, die Ingenieurin-nen;travail
-collègue;der Kollege-n, die Kollegin-nen;travail
-prestation, performance;die Leistung-en;travail
-employé, collaborateur;der Mitarbeiter-, die Mitarbeiterin-nen;travail
-département des ressources humaines;die Personalabteilung-en;travail
-qualification;die Qualifikation-en;travail
-retraite (travail);die Rente-n;travail
-poste, durée de travail accomplie;die Schicht-en;travail
-poste de travail;die Stelle-n;travail
-heure supplémentaire;die Überstunde-n;travail
-supérieur hiérarchique;der Vorgesetzter--, die Vorgesetzte--;travail
-éditer, travailler sur quelquechose;bearbeiten;travail
-employer, embaucher;ein-stellen;travail
-virer, renvoyer;entlassen (ä-ie-a);travail
-faire un petit boulot, travailler;jobben;travail
-mettre en congé maladie (note écrite par le dr);krank-schreiben (ie-ie);travail
-se déclarer en congé maladie;sich krank-melden;travail
-gagner de l’argent (en travaillant), mériter (tr.);verdienen;travail
-employé, actif, ayant un travail;berufstätig;travail
-spécialiste, expert;der Fachmann-″er, die Fachfrau-en, (pl.) Fachleute;travail
-carrière (professionnelle);die Karriere-n;travail
-projet;das Projekt-s;travail
-industrieux;fleißig;travail
-soigneux, minutieux;sorgfällig;travail
-paraisseux;faul;travail
-vacance;der Urlaub-e;temps libre
-temps libre;die Freizeit-en;temps libre
-intérêt;das Interesse-n an+D;temps libre
-faire du sport;Sport treiben (ie-ie);temps libre
-sport;der Sport-e;temps libre
-yoga;das Yoga;temps libre
-radio;das Radio-s;temps libre
-télé;der Fernseher-;temps libre
-regarder la télé;fern-sehen (ie-a-e);temps libre
-lecture;die Lektüre-n;temps libre
-jouet;das Spielzeug-e;temps libre
-tricher (jeu);schummeln;temps libre
-amusement, divertissement;die Unterhaltung-en;temps libre
-excursion;der Ausflug-″e;temps libre
-jeu de société;das Brettspiel-e;temps libre
-livre;das Buch-″er;temps libre
-jeu vidéo;das Computerspiel-e;temps libre
-vélo;das Fahrrad-″er;temps libre
-nager;schwimmen (a-o);temps libre
-piscine (extérieur);das Freibad-″er;temps libre
-piscine (intérieur);das Schwimmbad-″er;temps libre
-FKK;die Freikörperkultur-en;temps libre
-football;der Fußball-″e;temps libre
-guitare;die Gitarre-n;temps libre
-violon;die Geige-n;temps libre
-handball;der Handball-″e;temps libre
-intrument de musique;das Instrument-s;temps libre
-carte (à jouer);die Spielkarte-n;temps libre
-cinéma;das Kino-s;temps libre
-lire;lesen (ie-a-e);temps libre
-entrée, admission (exposition, concert...);der Eintritt-e;temps libre
-musique;die Musik-en;temps libre
-piano;das Piano-s;temps libre
-aller se promener;spazieren gehen;temps libre
-promenade;der Spaziergang-″e;temps libre
-jouer;spielen;temps libre
-streaming;das Streaming-s;temps libre
-tennis;das Tennis;temps libre
-dé;der Würfel-;temps libre
-congés et jours fériés, vacances (temps);(pl.) Ferien;temps libre
-fête;das Fest-e;temps libre
-fêter;feiern;temps libre
-temps;die Zeit-en;concepts temporels
-constant;stetig;concepts temporels
-à chaque fois;jeweils;concepts temporels
-en même temps, simultané (adj.);gleichzeitig;raisonnement, opinion
-ultérieur, à postériori;nachträglich;concepts temporels
-entre temps, depuis lors;inzwischen;concepts temporels
-fois (point dans le temps);das Mal-e;concepts temporels
-aujourd'hui;heute;concepts temporels
-avant-hier;vorgestern;concepts temporels
-régulier (dans le temps);regelmäßig;concepts temporels
-ponctuel;pünktlich;concepts temporels
-immédiatement;sofort;concepts temporels
-abrupt, soudain;plötzlich;concepts temporels
-d'aujourd'hui (=maintenant, ce jour);heutig;concepts temporels
-actuel (d'aujourd'hui);heutig;concepts temporels
-de l'époque;damalig;concepts temporels
-d'avance;im Voraus;concepts temporels
-finalement;schließlich;concepts temporels
-calendrier (système);der Kalender-;concepts temporels
-calendrier (document);der Kalender-;concepts temporels
-heure (durée);die Stunde-n;concepts temporels
-heure (horloge);die Uhr-en;concepts temporels
-seconde;die Sekunde-n;concepts temporels
-évènement;das Ereignis-se;concepts temporels
-suivant, prochain;nächst;concepts temporels
-minute;die Minute-n;concepts temporels
-jour;der Tag-e;concepts temporels
-semaine;die Woche-n;concepts temporels
-mois;der Monat-e;concepts temporels
-année;das Jahr-e;concepts temporels
-jour de la semaine;der Wochentag-e;concepts temporels
-lundi;der Montag-e;concepts temporels
-mardi;der Dienstag-e;concepts temporels
-mercredi;der Mittwoch-e;concepts temporels
-jeudi;der Donnerstag-e;concepts temporels
-vendredi;der Freitag-e;concepts temporels
-samedi;der Samstag-e;concepts temporels
-dimanche;der Sonntag-e;concepts temporels
-soir;der Abend-e;concepts temporels
-matin;der Morgen-;concepts temporels
-démarrer (processus de commencement);starten;concepts temporels
-commencer;beginnen (a-o), an-fangen (ä-i-a);concepts temporels
-s’arrêter;enden;concepts temporels
-passer du temps;verbringen (ach-ach);concepts temporels
-midi;der Mittag-e;concepts temporels
-après-midi;der Nachmittag-e;concepts temporels
-fin de semaine;das Wochenende-n;concepts temporels
-demain;morgen;concepts temporels
-hier;gestern;concepts temporels
-après demain;übermorgen;concepts temporels
-nuit;die Nacht-″er;concepts temporels
-janvier;der Januar-e;concepts temporels
-février;der Februar-e;concepts temporels
-mars;der März-e;concepts temporels
-avril;der April-e;concepts temporels
-mai;der Mai-e;concepts temporels
-juin;der Juni-s;concepts temporels
-juillet;der Juli-s;concepts temporels
-aout;der August-e;concepts temporels
-septembre;der September-;concepts temporels
-octobre;der Oktober-;concepts temporels
-novembre;der November-;concepts temporels
-décembre;der Dezember-;concepts temporels
-printemps;der Frühling-e;concepts temporels
-automne;der Herbst-e;concepts temporels
-durer;dauern;concepts temporels
-intervalle de temps;der Zeitraum-″e;concepts temporels
-saison;die Jahreszeit-en;concepts temporels
-hivers;der Winter-;concepts temporels
-été;der Sommer-;concepts temporels
-délai, terme;die Frist-en;concepts temporels
-passé (temps);die Vergangenheit-en;concepts temporels
-futur (temps);die Zukunft-″e;concepts temporels
-présent (temps);die Gegenwart;concepts temporels
-éternel;ewig;concepts temporels
-éternité;die Ewigkeit-en;concepts temporels
-temporaire;zeitweilig;concepts temporels
-à nouveau;wieder;concepts temporels
-permanent;ständig;concepts temporels
-constamment;stets;concepts temporels
-avoir lieu (de façon organisée);statt-finden (a-u);concepts temporels
-se passer, avoir lieu;geschehen (ie-a-e), sich ereignen;concepts temporels
-arriver, survenir, se produire (inattendu);vor-kommen (a-o);concepts temporels
-se passer (quelquechose d'involontaire ou de déplaisant, etc.);passieren;concepts temporels
-actuel;aktuell;concepts temporels
-dernier;letzt;concepts temporels
-ancien, précédent;ehemalig;concepts temporels
-reporter (à plus tard);verschieben (o-o);concepts temporels
-avoir le temps;Zeit haben;concepts temporels
-unité de mesure;die Einheit-en, das Maß-e;mesures
-mesure (processus);die Vermessung-en;mesures
-mètre;der Meter-;mesures
-longueur mesurée;die Länge-n;mesures
-température;die Temperatur-en;mesures
-degré (centigrade);der Grad-e;mesures
-thermomètre;das Thermometer-;mesures
-poid;das Gewicht-e;mesures
-peser;wiegen (o-o);mesures
-centimètre;das/der Zentimeter-;mesures
-mètre carré;das/der Quadratmeter-;mesures
-moins (degré négatif);minus;mesures
-plus (addition);plus;mesures
-pour cent;das Prozent-e;mesures
-litre;der Liter-;mesures
-gramme;das Gramm-e;mesures
-kilogramme;das Kilogramm-e;mesures
-pays;das Land-″er;géographie
-carte (géo);die Karte-n, die Landkarte-n;géographie
-mer;das Meer-e;géographie
-lac;der See-n;géographie
-étang, mare;der Teich-e;géographie
-océan;der Ozean-e;géographie
-frontière;die Grenze-n;géographie
-continent;der Kontinent-e;géographie
-rive, bord;das Ufer-;géographie
-région;das Gebiet-e;géographie
-Europe;das Europa;géographie
-Asie;das Asien;géographie
-île;die Insel-n;géographie
-Afrique;das Afrika;géographie
-Océanie;das Ozeanien;géographie
-Amérique;das Amerika-;géographie
-Amérique du Nord;das Nordamerika;géographie
-Amérique du Sud;das Südamerika;géographie
-européen;europäisch;géographie
-Nord;der Nord;géographie
-Sud;der Süd;géographie
-Est;der Ost;géographie
-Ouest;der West;géographie
-côte (littoral);die Küste-n;géographie
-couleur;die Farbe-n;couleurs
-blanc;weiß;couleurs
-monochromatique;monochromatisch;couleurs
-noir;schwarz;couleurs
-voilet;lila;couleurs
-pâle;blass;couleurs
-rose (couleur);rosa;couleurs
-rouge;rot;couleurs
-orange (adj.);orange;couleurs
-jaune;gelb;couleurs
-vert;grün;couleurs
-cyan (nom);das Cyan;couleurs
-bleu;blau;couleurs
-transparent;durchsichtig;couleurs
-gris;grau;couleurs
-brun;braun;couleurs
-sombre;dunkel;couleurs
-clair;hell;couleurs
-personne;die Person-en;personnes, famille
-gens;(pl.) Leute;personnes, famille
-seul;allein;personnes, famille
-personne, humain;der Mensch-en;personnes, famille
-ensemble;zusammen;personnes, famille
-jumeau;der Zwilling-e;personnes, famille
-enfant;das Kind-er;personnes, famille
-adulte;der Erwachsener--, die Erwachsenere--;personnes, famille
-vieux;alt;personnes, famille
-jeune;jung;personnes, famille
-type, mec;der Kerl-e;personnes, famille
-femme;die Frau-en;personnes, famille
-s'occuper, prendre soin;sich kümmern (um), sorgen (für);personnes, famille
-homme;der Mann-″er;personnes, famille
-garçon;der Junge-n;personnes, famille
-fille (jeune personne du sexe féminin);das Mädchen-;personnes, famille
-enfance;die Kindheit-en;personnes, famille
-durant mon enfance;in meiner Kindheit;personnes, famille
-famille;die Familie-n;personnes, famille
-bébé;das Baby-s;personnes, famille
-frère;der Bruder-″;personnes, famille
-cousin;der Cousin-s;personnes, famille
-cousine;die Cousine-n;personnes, famille
-épouse;die Ehefrau-en, die Gattin-nen;personnes, famille
-époux;der Ehemann-″er, der Gatte-n;personnes, famille
-parents;(pl.) Eltern;personnes, famille
-élever (enfants);erziehen;personnes, famille
-petit-fils;der Enkel-;personnes, famille
-petite-fille;die Enkelin-nen;personnes, famille
-fils;der Sohn-″e;personnes, famille
-fille (descendante directe);die Tochter-″;personnes, famille
-hériter;erben;personnes, famille
-frère ou soeur;das Geschwister-;personnes, famille
-séparé (mariage);getrennt;personnes, famille
-mariage;die Ehe-n;personnes, famille
-célibataire;ledig;personnes, famille
-dans une relation (en couple);in einer Beziegung;personnes, famille
-mère;die Mutter-″;personnes, famille
-grand-mère;die Oma-s;personnes, famille
-grand-père;der Opa-s;personnes, famille
-enceinte;schwanger;personnes, famille
-soeur;die Schwester-n;personnes, famille
-tante;die Tante-n;personnes, famille
-père;der Vater-″;personnes, famille
-oncle;der Onkel-;personnes, famille
-se marier;verheiraten;personnes, famille
-marié;verheiratet (mit);personnes, famille
-parent, apparenté;der Verwandter, die Verwandte;personnes, famille
-allergie;die Allergie-n;santé
-cellule;die Zelle-n;santé
-assurance maladie;die Krankenversicherung-en;santé
-virus;das Virus-/en;santé
-circulation (sanguine);der Kreislauf;santé
-faible;schwach;santé
-bactérie;die Bakterie-n;santé
-toucher, affecter;betreffen (+A) (i-a-o);santé
-pharmacie;die Apotheke-n;santé
-se reposer;sich aus-ruhen;santé
-pharmacien;der Apother-, die Apothekerin-nen;santé
-docteur (méd.);der Arzt-″e, die Ärztin-nen;santé
-respirer;atmen;santé
-sang;das Blut-e;santé
-saigner;bluten;santé
-attraper (maladie);ein-fangen (ä-i-a);santé
-rhume;die Erkältung-en;santé
-urgence (méd.);der Notfall-″e;santé
-pansement;das Heftpflaster-, das Pflaster-;santé
-soins (care);die Pflege;santé
-traiter (soigner);behandeln;santé
-traitement;die Behandlung-en;santé
-médicamment;das Medikament-e;santé
-poul;der Puls-e;santé
-fumer;rauchen;santé
-désinfecter;desinfizieren;santé
-douleur;der Schmerz-en;santé
-faire mal;schmerzen, weh tun (a-a);santé
-accident;der Unfall-″e;santé
-bandage;der Verband-″e;santé
-blessé;verletzt;santé
-blessure;die Wunde-n;santé
-dentiste;der Zahnarzt-″e, die Zahnärztin-nen;santé
-alimentation;die Ernährung-en;santé
-grippe;die Grippe-n;santé
-toux;der Husten-;santé
-certificat de maladie;der Krankenschein-e;santé
-infirmier;der Krankenpfleger-, die Krankenpflegerin-nen;santé
-médecine;die Medizin-en;santé
-appel d’urgence (112);der Notruf-e;santé
-notice (de médicament);die Packungsbeilage-n;santé
-patient (de docteur);der Patient-en, die Patientin-nen;santé
-cabinet de médecin;die Praxis-/en;santé
-prescription;das Rezept-e;santé
-pommade;die Salbe-n;santé
-faim;der Hunger;santé
-rassasié;satt;santé
-soif;der Durst;santé
-avoir faim;Hunger haben;santé
-avoir soif;Durst haben;santé
-rhume;der Schnupfen-;santé
-examen (médical);die Untersuchung-en;santé
-perdre du poids;ab-nehmen (im-ah-om);santé
-prendre un médicament;ein-nehmen (im-ah-om);santé
-guérir;heilen;santé
-tousser;husten;santé
-opérer (méd.);operieren;santé
-soigner, prendre soin;pflegen;santé
-examiner (méd.);untersuchen;santé
-prescrire (méd.);verschreiben (ie-ie);santé
-prendre du poid;zu-nehmen (im-ah-om);santé
-sain, en forme;gesund;santé
-santé;die Gesundheit;santé
-canne;der Stock-″e;santé
-dormir;schlafen (ä-ie-a);santé
-s'endormir;ein-schlafen (ä-ie-a) (sein);santé
-réveiller (tr.);wecken, auf-wecken;santé
-se réveiller;auf-wachen;santé
-éveillé;wach;santé
-bruit (nuisance);der Lärm;santé
-malade;krank;santé
-vacciner;imfpen;santé
-maladie;die Krankheit-en;santé
-comprimé, caché;die Tablette-n;santé
-diarrhée;der Durchfall-″e;santé
-vomir;(sich) erbrechen (i-a-o);santé
-cheveu, poil;das Haar-e;corps
-uriner;urinieren;corps
-boucle de cheveux;die Locke-n;corps
-esprit;der Geist-er;corps
-cheveu (coiffe);das Haar-e;corps
-long (cheveux);lang;corps
-court (cheveux);kurz;corps
-mordre;beißen (i-i);corps
-blond;blond;corps
-brun, noir (couleur de cheveux);dunkel;corps
-brun (couleur de cheveux);braun;corps
-jambe;das Bein-e;corps
-cou;der Hals-″e;corps
-doigt;der Finger-;corps
-pied;der Fuß-″e;corps
-hanche;die Hüfte-n;corps
-membre (partie du corps);das Glied-er;corps
-tête;der Kopf-″e;corps
-mince (adj.);schlank;corps
-orteil;der Zeh-en;corps
-visage;das Gesicht-er;corps
-ongle;der Nagel-″;corps
-main;die Hand-″e;corps
-pouce;der Daumen-;corps
-poing;die Faust-″e;corps
-oreille;das Ohr-en;corps
-bouche;der Mund-″er;corps
-dent;der Zahn-″e;corps
-langue (bouche);die Zunge-n;corps
-nez;die Nase-n;corps
-narine;das Nasenloch-″er;corps
-joue;die Wange-n;corps
-lèvre;die Lippe-n;corps
-oeil;das Auge-n;corps
-sourcil;die Augenbraue-n;corps
-cil;die Wimper-n;corps
-tempe;die Schläfe-n;corps
-machoîre;der Kiefer-;corps
-front (visage);die Stirn-en;corps
-menton;das Kinn-e;corps
-frange;die Franse-n;corps
-poignet;das Handgelenk-e;corps
-cheville;der Enkel-;corps
-genou;das Knie-e;corps
-coude;der Ellbogen-;corps
-ventre;der Bauch-″e;corps
-estomac;der Magen-″;corps
-dos;der Rücken-;corps
-poitrine;die Brust-″e;corps
-nuque;der Nacken-;corps
-épaule;die Schulter-n;corps
-coeur;das Herz-en;corps
-foie;die Leber-n;corps
-intestin;der Darm-″e;corps
-poumon;die Lunge-n;corps
-rein;die Niere-n;corps
-gorge;die Kehle-n;corps
-voix (sons produit par les cordes vocales);die Stimme-n;corps
-cerveau;das Gehirn-e;corps
-peau;die Haut-″e;corps
-corps;der Körper-;corps
-rapport sexuel;der Geschlechtsverkehr;corps
-organe (partir du corps ayant une fonction spécifique);das Organ-e;corps
-organe sexuel;das Geschlechtsorgan-e;corps
-vulve;das weibliche-- Geschlechtsorgan-e;corps
-vagin;die Vagina-/en;corps
-clitoris;der Kitzler-;corps
-testicule;der Hoden-;corps
-veine (vaisseau sanguin);die Vene-n;corps
-penis;der Penis-se;corps
-séant, derrière;das Gesäß-e;corps
-sur les genoux;auf dem Schoß;corps
-exténuant;anstrengend;corps
-fort (costaud);kräftig;corps
-force;die Kraft-″e;corps
-nu;nackt;corps
-cadavre;die Leiche-n;corps
-os (élément & matériau);der Knochen-;corps
-squelette;das Skelett-e;corps
-crâne;der Schädel-;corps
-adn;die DNS;corps
-gène (adn);das Gen-e;corps
-muscle;der Muskel-n;corps
-odeur;der Geruch-″e;perceptions
-symétrique;symmetrisch;perceptions
-imprécis, flou;unscharf;perceptions
-percevoir, discerner;wahr-nehmen (im-ah-om);perceptions
-point de vue;der Punkt-e der Sicht;perceptions
-visible;sichtbar;perceptions
-parfum;das Parfüm-s;perceptions
-sonner, retentir;klingen;perceptions
-silence;die Stille;perceptions
-bruit;das Geräusch-e;perceptions
-fort (pour le son), bruyant;laut;perceptions
-de faible intensité sonore;leise;perceptions
-calme, sans bruit;ruhig;perceptions
-percevoir un goût;schmecken;perceptions
-avoir un goût;schmecken;perceptions
-sens (perception);der Sinn-e;perceptions
-avoir un bon goût (saveur, intr.);schmecken;perceptions
-goût (saveur);der Geschmack-″er;perceptions
-délicieux;lecker;perceptions
-odorat;der Geruch-″e;perceptions
-doux, tendre;sanft;perceptions
-mou, mouelleux, doux;weich;perceptions
-délicat, tendre;zart;perceptions
-dur;hart;perceptions
-rêver;träumen;perceptions
-rêve;der Traum-″e;perceptions
-cauchemar;der Albtraum-″e;perceptions
-regarder (=diriger le regard);blicken;perceptions
-regarder;an-schauen, an-sehen (ie-a-e);perceptions
-voir, regarder dans une direction;schauen;perceptions
-examiner, analyser;betrachten;perceptions
-regarder, contempler;betrachten;perceptions
-observer;beobachten;perceptions
-regard;der Blick-e;perceptions
-vue, panomara;der Ausblick-e;perceptions
-voir;sehen (ie-a-e);perceptions
-montrer;zeigen;perceptions
-entendre;hören;perceptions
-écouter;zu-hören;perceptions
-sentir (percevoir odeur);riechen (+A) (o-o);perceptions
-sentir (émettre odeur);riechen (adv./nach) (o-o);perceptions
-puer;stinken (a-u);perceptions
-ressentir (sens);spüren, fühlen;perceptions
-trace;die Spur-en;perceptions
-pressentir;ahnen;perceptions
-ville;die Stadt-″e;ville, architecture
-rue;die Straße-n;ville, architecture
-intersection, croisement;die Kreuzung-en;ville, architecture
-village;das Dorf-″er;ville, architecture
-bâtir, construire;bauen;ville, architecture
-à la campagne;auf dem Land;ville, architecture
-ruelle;die Gasse-n;ville, architecture
-maire;der Bürgermeister-, die Bürgermeisterin-nen;ville, architecture
-église;die Kirche-n;ville, architecture
-pond;die Brücke-n;ville, architecture
-chemin;der Weg-e;ville, architecture
-sentier;der Pfad-e;ville, architecture
-puit, fontaine;der Brunnen-;ville, architecture
-gymnase;die Turnhalle-n;ville, architecture
-studio de fitness;das Fitnessstudio-s;ville, architecture
-boulangerie;die Bäckerei-en;ville, architecture
-supermarché;der Supermarkt-″e;ville, architecture
-marché;der Markt-″e;ville, architecture
-place;der Platz-″e;ville, architecture
-mosquée;die Moschee-n;ville, architecture
-tour (bâtiment);der Turm-″e;ville, architecture
-bâtiment;das Gebäude-;ville, architecture
-champs (agricole);das Feld-er;ville, architecture
-verger;der Obstgarten-″;ville, architecture
-pré;die Wiese-n;ville, architecture
-centreville;das Stadtzentrum-/en;ville, architecture
-château;das Schloss-″er;ville, architecture
-monument;das Denkmal-e;ville, architecture
-temple;der Tempel-;ville, architecture
-colonne (pilier cylindrique);die Säule-n;ville, architecture
-cimetière;der Friedhof-″e;ville, architecture
-tombe;das Grab-″er;ville, architecture
-fossé;der Graben-″;ville, architecture
-immeuble d'habitations;das Mehrfamilienhaus-″er;ville, architecture
-arche;der Bogen-″;ville, architecture
-statue;die Statue-n;ville, architecture
-voisin (habitant);der Nachbar-n, die Nachbarin-nen;ville, architecture
-début;der Anfang-″;location, quantité, géométrie
-juste, petit, rien que (adj.);knapp;location, quantité, géométrie
-couple, paire;das Paar-e;location, quantité, géométrie
-groupe;die Gruppe-n;location, quantité, géométrie
-plat, uni, egal;eben;location, quantité, géométrie
-horizontal;waagerecht;location, quantité, géométrie
-dépasser;überschreiten (itt-itt);location, quantité, géométrie
-passer en dessous;unterschreiten (itt-itt);location, quantité, géométrie
-vertical;senkrecht;location, quantité, géométrie
-plat (adj.);flach;location, quantité, géométrie
-long;lang;location, quantité, géométrie
-court (adj.);kurz;location, quantité, géométrie
-part, partie;der Teil-e;location, quantité, géométrie
-partie, pièce (indépendante d'un tout);das Teil-e;location, quantité, géométrie
-fin (terminaison);das Ende-n;location, quantité, géométrie
-fini, limité;endlich;location, quantité, géométrie
-structure;die Struktur-en;location, quantité, géométrie
-restant (surnuméraire);übrig;location, quantité, géométrie
-limité;begrenzt;location, quantité, géométrie
-chose;das Ding-e, die Sache-n;location, quantité, géométrie
-dans l’ensemble;insgesamt;location, quantité, géométrie
-tube;das Rohr-e;location, quantité, géométrie
-point;der Punkt-e;location, quantité, géométrie
-petit;klein;location, quantité, géométrie
-vide;leer;location, quantité, géométrie
-plein;voll;location, quantité, géométrie
-étroit, mince;schmal;location, quantité, géométrie
-grand;groß;location, quantité, géométrie
-énorme;riesig;location, quantité, géométrie
-proportionnel;proportional (zu/+D);location, quantité, géométrie
-contraire, inverse (adj.);umgekehrt;location, quantité, géométrie
-inversement proportionnel;umgekehrt proportional;location, quantité, géométrie
-quantité;die Menge-n;location, quantité, géométrie
-au minimum;mindestens, zumindest, minimal;location, quantité, géométrie
-minimal;minimal;location, quantité, géométrie
-maximal;maximal;location, quantité, géométrie
-au maximum;höchstens, maximal;location, quantité, géométrie
-supplémentaire;zusätzlich;location, quantité, géométrie
-beaucoup;viel;location, quantité, géométrie
-bas (opposé de haut);niedrig;location, quantité, géométrie
-cercle;der Kreis-e;location, quantité, géométrie
-bulle;die Blase-n;location, quantité, géométrie
-tranche, rondelle;die Scheibe-n;location, quantité, géométrie
-rond (adj.);rund;location, quantité, géométrie
-boucle;die Schlinge-n;location, quantité, géométrie
-rebord;der Rand-″er;location, quantité, géométrie
-lourd;schwer;location, quantité, géométrie
-léger;leicht;location, quantité, géométrie
-épais;dick;location, quantité, géométrie
-dehors;draußen;location, quantité, géométrie
-dedans;drinnen, drin;location, quantité, géométrie
-moyenne (statistique);der Durchschnitt-e;location, quantité, géométrie
-fin, ténu;dünn;location, quantité, géométrie
-diamètre;der Durchmesser-;location, quantité, géométrie
-se dilater;sich aus-dehnen;location, quantité, géométrie
-étendre, s'étendre (élastique);dehnen;location, quantité, géométrie
-moyen (median);durchschnittlich;location, quantité, géométrie
-étroit, serré;eng;location, quantité, géométrie
-surface (objet);die Fläche-n;location, quantité, géométrie
-surface (haut);die Oberfläche-n;location, quantité, géométrie
-lisse, poli;glatt;location, quantité, géométrie
-nombre;die Zahl-en;location, quantité, géométrie
-entier (adj., nombre sans fraction);ganzzahlig;location, quantité, géométrie
-entier, tout entier;ganz;location, quantité, géométrie
-multiple (adj.);vielfach;location, quantité, géométrie
-aire (nombre);der Flächeninhalt-e;location, quantité, géométrie
-volume, espace;der Raum-″e;location, quantité, géométrie
-augmenter (intr.);zu-nehmen (im-ah-om) (haben);location, quantité, géométrie
-augmenter, accroitre (tr.);steigern;location, quantité, géométrie
-volume (nombre);der Rauminhalt-e, das Volumen-;location, quantité, géométrie
-boule;die Kugel-n;location, quantité, géométrie
-approximatif;ungefähr;location, quantité, géométrie
-environ;etwa;location, quantité, géométrie
-trou;das Loch-″er;location, quantité, géométrie
-coin;die Ecke-n;location, quantité, géométrie
-carré;das Quadrat-e;location, quantité, géométrie
-triangle;das Dreieck-e;location, quantité, géométrie
-rectangle;das Rechteck-e;location, quantité, géométrie
-courbé, tordu;krumm;location, quantité, géométrie
-ligne (géométrique);die Linie-n;location, quantité, géométrie
-rangée;die Reihe-n;location, quantité, géométrie
-coté;die Seite-n;location, quantité, géométrie
-objet;der Gegenstand-″e;location, quantité, géométrie
-se trouver;sich finden (a-u);location, quantité, géométrie
-état;der Zustand-″e;location, quantité, géométrie
-distance;der Abstand-″e;location, quantité, géométrie
-endroit, lieu;die Stelle-n;location, quantité, géométrie
-endroit, lieu;der Ort-e;location, quantité, géométrie
-position;die Stellung-en;location, quantité, géométrie
-situation (spatiale, abstraite);die Lage-n;location, quantité, géométrie
-couche (surface);die Lage-n;location, quantité, géométrie
-reste;der Rest-e;location, quantité, géométrie
-longueur;die Länge-n;location, quantité, géométrie
-largeur;die Breite-n;location, quantité, géométrie
-large;breit;location, quantité, géométrie
-haut;hoch;location, quantité, géométrie
-hauteur;die Höhe-n;location, quantité, géométrie
-épaisseur;die Dicke-n;location, quantité, géométrie
-zone;die Zone-n;location, quantité, géométrie
-bout, pièce;das Stück-e;location, quantité, géométrie
-assez;genug;location, quantité, géométrie
-suffisant;reichend;location, quantité, géométrie
-changer (soi);sich verändern;identité, changement
-perdre;verlieren (o-o);identité, changement
-propriété (aspect propre);die Eigenschaft-en;identité, changement
-provenir;stammen (von/aus);identité, changement
-général (commun);allgemein;identité, changement
-tendance;die Tendenz-en;identité, changement
-unité;die Einheit-en;identité, changement
-croître, grandir;wachsen (ä-u-a);identité, changement
-adapter;an-passen;identité, changement
-s'adapter;sich an-passen (+D);identité, changement
-appartenir;gehören (+D);identité, changement
-changer (transitif);ändern, verändern;identité, changement
-condition (prerequis, termes, ...);die Bedingung-en;identité, changement
-devenir;werden (i-u-o);identité, changement
-le même (adj.);nämlich;identité, changement
-échanger, transformer, convertir;tauschen;identité, changement
-résultat;das Ergebnis-se;identité, changement
-propre, personnel, inhérent;eigen;identité, changement
-individuel, unique;einzeln;identité, changement
-remplacer;ersetzen;identité, changement
-correspondre (identité);entsprechen (i-a-o);identité, changement
-unique, seul (seulement);einzig;identité, changement
-sembler;scheinen (ie-ie);identité, changement
-contenir;enthalten (ä-ie-a);identité, changement
-contraire (nom);das Gegenteil-e;identité, changement
-ressembler;ähneln;identité, changement
-consister en;bestehen (aus) (and-and);identité, changement
-différer;ab-weichen (i-i);identité, changement
-différent;verschieden;identité, changement
-similaire;ähnlich;identité, changement
-identique;gleich;identité, changement
-sorte;die Art-en;identité, changement
-sorte, espèce;die Sorte-n;identité, changement
-certain, définit;bestimmt;identité, changement
-pareil;gleichartig;identité, changement
-différence;der Unterschied-e;identité, changement
-développement, évolution;die Entwicklung-en;identité, changement
-naturel, normal;natürlich;identité, changement
-authentique, véritable;echt;identité, changement
-casser;brechen (i-a-o), zerbrechen (i-a-o);identité, changement
-démonter;demontieren;identité, changement
-déchirer;reißen (i-i);identité, changement
-cassé;kaputt;identité, changement
-exister;bestehen (and-and), existieren;identité, changement
-énergie;die Energie-n;énergie
-électricité, courant;der Strom-″e;énergie
-barrage;die Talsperre-n;énergie
-panneau solaire;das Solarmodul-e;énergie
-énergie solaire;die Solarenergie-n;énergie
-éolienne;das Windrad-″er;énergie
-énergie renouvellable;die erneuerbare Energie;énergie
-fuel;der Brennstoff-e;énergie
-changement climatique;der Klimawandel-;énergie
-compteur (gas, élect...);der Stromzähler-, der Gaszähler-;énergie
-consommation (courant);der Verbrauch-″e;énergie
-lumière;das Licht-er;énergie
-rayonner;strahlen;énergie
-brûler (être en feu);brennen (a-a);énergie
-brûler (transitif);brennen (a-a);énergie
-incinérer;verbrennen (a-a);énergie
-lever;heben (o-o);concepts en relation avec l'étendue
-lâche, dénoué;locker;concepts en relation avec l'étendue
-superposer;überlägern;concepts en relation avec l'étendue
-courber (diffracter);beugen;concepts en relation avec l'étendue
-éparpiller, diffuser;streuen;concepts en relation avec l'étendue
-rigide;steif;concepts en relation avec l'étendue
-recouvrir;bedecken (+A, mit);concepts en relation avec l'étendue
-forme;die Form-en;concepts en relation avec l'étendue
-creuser;graben (ä-u-a);concepts en relation avec l'étendue
-plier;zusammen-legen;concepts en relation avec l'étendue
-ouvrir;öffnen;concepts en relation avec l'étendue
-pointu, tranchant;scharf;concepts en relation avec l'étendue
-fort, puissant, intensif;stark;concepts en relation avec l'étendue
-déplacer en poussant;verschieben (o-o);concepts en relation avec l'étendue
-fermer;schließen (o-o), zu machen;concepts en relation avec l'étendue
-pousser;stoßen (ö-ie-o);concepts en relation avec l'étendue
-mouvement;die Bewegung-en;concepts en relation avec l'étendue
-se balancer, osciller;schwingen (a-u);concepts en relation avec l'étendue
-tirer;ziehen (og-og);concepts en relation avec l'étendue
-appuyer, presser;drücken;concepts en relation avec l'étendue
-étendre sur une surface, augmenter la surface occupée;aus-breiten;concepts en relation avec l'étendue
-pas (marche);der Schritt-e;concepts en relation avec l'étendue
-limite;die Grenze-n;concepts en relation avec l'étendue
-accrocher, suspendre;auf-hängen;concepts en relation avec l'étendue
-jeter, lancer;werfen (i-a-o);concepts en relation avec l'étendue
-tenir;halten (ä-ie-a);concepts en relation avec l'étendue
-laisser tomber (sur le sol);fallen lassen (ä-ie-a);concepts en relation avec l'étendue
-tomber;fallen (ä-ie-a);concepts en relation avec l'étendue
-chute (fait de tomber);der Fall-″e;concepts en relation avec l'étendue
-sauter;springen (a-u);concepts en relation avec l'étendue
-attraper, agripper;greifen (if-if);concepts en relation avec l'étendue
-attraper (en vol), capturer;fangen (ä-i-a);concepts en relation avec l'étendue
-se lever;auf-stehen (and-and);concepts en relation avec l'étendue
-s’assoir;sich setzen;concepts en relation avec l'étendue
-se coucher;sich legen;concepts en relation avec l'étendue
-couper;schneiden (itt-itt);concepts en relation avec l'étendue
-grimper;klettern;concepts en relation avec l'étendue
-monter, escalader;steigen (ie-ie);concepts en relation avec l'étendue
-décoller;vom Boden ab-heben (o-o);concepts en relation avec l'étendue
-coller;kleben;concepts en relation avec l'étendue
-bouger (transitif ou réflexif);(sich) bewegen;concepts en relation avec l'étendue
-toucher;berühren, an-fassen;concepts en relation avec l'étendue
-aller à pied, marcher;laufen (äu-ie-au);concepts en relation avec l'étendue
-aller;gehen (ing-ang);concepts en relation avec l'étendue
-l'entrée (le fait d'entrer);der Eintritt-e;concepts en relation avec l'étendue
-marcher (sur), faire des pas;treten (it-a-e);concepts en relation avec l'étendue
-courrir;rennen (a-a);concepts en relation avec l'étendue
-étirer/s'étirer;strecken;concepts en relation avec l'étendue
-mettre sous tension, être tendu/étendu, s'étendre (statique);spannen;concepts en relation avec l'étendue
-pendre;hängen;concepts en relation avec l'étendue
-prendre;nehmen (im-ah-om);concepts en relation avec l'étendue
-s’écouler (liquide);fließen (o-o);concepts en relation avec l'étendue
-couler (sombrer);sinken (a-u);concepts en relation avec l'étendue
-rabaisser;senken;concepts en relation avec l'étendue
-fondre;schmelzen (o-o);concepts en relation avec l'étendue
-mélanger;mischen;concepts en relation avec l'étendue
-tourner (autour);sich drehen (um+A);concepts en relation avec l'étendue
-tourner (qqchose);drehen;concepts en relation avec l'étendue
-tourner (prendre un virage);ab-biegen (o-o);concepts en relation avec l'étendue
-traverser;über-queren;concepts en relation avec l'étendue
-traverser une étendue d'eau;über-setzen;concepts en relation avec l'étendue
-transmettre;übertragen (ä-u-a);concepts en relation avec l'étendue
-diriger, mettre/tourner dans une direction, guider;lenken;concepts en relation avec l'étendue
-vitesse;die Geschwindigkeit-en;concepts en relation avec l'étendue
-accélération;die Beschleudigung-en;concepts en relation avec l'étendue
-freiner;bremsen;concepts en relation avec l'étendue
-frein;die Bremse-n;concepts en relation avec l'étendue
-onde;die Welle-n;concepts en relation avec l'étendue
-puissance (énergie/temps);die Leistung-en;concepts en relation avec l'étendue
-force (Newton);die Kraft-″e;concepts en relation avec l'étendue
-pression (litérale & figurative);der Druck-″e;concepts en relation avec l'étendue
-accélérer;beschleudigen;concepts en relation avec l'étendue
-rapide;schnell;concepts en relation avec l'étendue
-lent;langsam;concepts en relation avec l'étendue
-voyager à pied;wandern;concepts en relation avec l'étendue
-retard;die Verspätung-en;concepts en relation avec l'étendue
-disparaître;verschwinden (a-u);concepts en relation avec l'étendue
-aspirer (air);saugen;concepts en relation avec l'étendue
-verser (arroser);gießen (o-o);concepts en relation avec l'étendue
-direction;die Richtung-en;concepts en relation avec l'étendue
-atteindre;erreichen;concepts en relation avec l'étendue
-urger, devoir être accompli rapidement;eilen (haben);concepts en relation avec l'étendue
-se dépêcher de faire quelquechose, faire vite;sich beeilen (haben);concepts en relation avec l'étendue
-se dépêcher d'aller quelquepart;sich eilen (sein);concepts en relation avec l'étendue
-limiter, restreindre;beschränken;concepts en relation avec l'étendue
-bloquer;sperren;concepts en relation avec l'étendue
-isoler;trennen;concepts en relation avec l'étendue
-fendre, séparer;spalten;concepts en relation avec l'étendue
-suivre;folgen (+D);concepts en relation avec l'étendue
-succéder (un évènement, une personne);nach-folgen (+D) (sein);concepts en relation avec l'étendue
-aller, conduire;fahren (ä-u-a);concepts en relation avec l'étendue
-poursuivre, suivre (une personne), suivre (avec attention);verfolgen;concepts en relation avec l'étendue
-quitter, abandonner;verlassen (ä-ie-a);concepts en relation avec l'étendue
-lointain, distant;fern;concepts en relation avec l'étendue
-loin, large;weit;concepts en relation avec l'étendue
-continuer (reprendre);weiter-machen, fort-fahren (ä-u-a);concepts en relation avec l'étendue
-percuter;auf-prallen;concepts en relation avec l'étendue
-image;das Bild-er;arts
-photo;das Foto-s;arts
-photographier;fotografieren;arts
-média;das Massmedium-/en;arts
-film (cinématographique);der Film-e;arts
-vidéo (clip);das Video-s;arts
-enregistrer (média);auf-zeichnen;arts
-enregistrement (résultat);die Aufnahme-n;arts
-chanson;das Lied-er;arts
-chanter;singen (a-u);arts
-parole (de musique);der Text-e;arts
-partition (musique);die Partitur-en;arts
-script (film);das Drehbuch-″er;arts
-synopsis;die Synopsis-/en;arts
-histoire (récit);die Geschichte-n;arts
-dessiner;zeichnen;arts
-écrire;schreiben (ie-ie);arts
-composer (un morceau de musique);komponieren;arts
-théâtre (performance et bâtiment);das Theater-;arts
-scène (théâtre);die Bühne-n;arts
-pièce de théâtre;das Bühnenstück-e;arts
-poésie (art);die Dichtung-en;arts
-poème;das Gedicht-e;arts
-litérature;die Belletristik;arts
-acteur;der Schauspieler-, die Schauspielerin-nen;arts
-présentateur, hôte (show);der Moderator-en, die Moderatorin-nen;arts
-compositeur;der Komponist-en, die Komponistin-nen;arts
-musicien;der Musiker-, die Musikerin-nen;arts
-note (de musique);die Note-n;arts
-cinéaste;der Filmemacher-, die Filmemacherin-nen;arts
-peinture (activité);die Malerei-en;arts
-peintre;der Maler-, die Malerin-nen;arts
-peindre;malen;arts
-peinture, teinte (substance);die Farbe-n;arts
-peinture (image);das Gemälde-;arts
-art;die Kunst-″e;arts
-pinceau;der Pinsel-;arts
-corde (d'un instrument de musique);die Saite-n;arts
-moderne;modern;arts
-démodé, vieilli;altmodisch;arts
-cuire au four;backen (ä-u-a);cuisine
-frire;braten (ä-ie-a);cuisine
-cuisiner;kochen;cuisine
-congeler;ein-frieren (o-o);cuisine
-bouilloire électrique;der Wasserkocher-;cuisine
-amer;bitter;cuisine
-sec;trocken;cuisine
-humide;feucht;cuisine
-plat (à manger);das Gericht-e;cuisine
-sécher;trocknen;cuisine
-réduire en poudre, moudre;mahlen (gemahlen);cuisine
-réduire en morceaux, moudre grossièrement (céréales);schroten;cuisine
-mouiller;nass machen;cuisine
-mouillé;nass;cuisine
-détergent;das Spülmittel-;cuisine
-éponge (absorbante);der Schwamm-″e;cuisine
-robinet;der WasserHahn-″e, der Hahn-″e;cuisine
-pâte (eg farine + liquide + ingrédients);der Teig-e;cuisine
-fourchette;die Gabel-n;cuisine
-couteau;das Messer-;cuisine
-cuillère;der Löffel-;cuisine
-petite cuillère;der Teelöffel-;cuisine
-plat (assiette);der Teller-;cuisine
-assiette;der Teller-;cuisine
-plat, bol, saladier;die Schüssel-n;cuisine
-bol, bassin;die Schale-n;cuisine
-coquille;die Schale-n;cuisine
-tasse, coupe;die Tasse-n;cuisine
-casserole;der Topf-″e;cuisine
-passoire;das Sieb-e;cuisine
-poelle à frire;die Pfanne-n;cuisine
-couvercle;der Deckel-;cuisine
-spatule;der Pfannewender-;cuisine
-spatule en silicone;der Teigschaber-;cuisine
-bouillir (être en ébullition);sieden;cuisine
-(faire) bouillir;sieden;cuisine
-remuer (cuisine);um-rühren;cuisine
-fouet (cuisine);der Schneebesen-;cuisine
-tablier;die Schürze-n;cuisine
-louche;der Schöpflöffel-;cuisine
-carafe, bouteille d'eau;die Wasserflasche-n;cuisine
-verre (récipient);das Glas-″er;cuisine
-récipient;der Behälter-;cuisine
-verre doseur;der Messbecher-;cuisine
-boite;die Schachtel-n, die Dose-n;cuisine
-petit récipient, bocal;das Gefäß-e;cuisine
-gourde;die Feldflasche-n;cuisine
-mixeur;der Mixer-;cuisine
-papier toilette;das Klopapier;hygiène
-lavabo;das Waschbecken-;hygiène
-douche;die Dusche-n;hygiène
-baignoire;die Badewanne-n;hygiène
-serviette (douche);das Handtuch-″er;hygiène
-brosse;die Bürste-n;hygiène
-balai;der Besen-;hygiène
-dentifrice;die Zahnpasta-/en;hygiène
-brosse à dent;die Zahnbürste-n;hygiène
-crème solaire;die Sonnencreme-s;hygiène
-prendre une douche;(sich) duschen;hygiène
-se laver;sich waschen (ä-u-a);hygiène
-pur, propre, sans mélange;rein;hygiène
-se brosser les dents;sich die Zähne putzen;hygiène
-nettoyer;reinigen;hygiène
-laver;waschen (ä-u-a);hygiène
-nettoyer, brosser;putzen;hygiène
-savon;die Seife-n;hygiène
-shampooing;das Haarwaschmittel-;hygiène
-crème;die Creme-n;hygiène
-propre;sauber;hygiène
-sale;schmutzig;hygiène
-mâcher;kauen;hygiène
-cracher;spucken;hygiène
-société;die Gesellschaft-en;société, histoire
-social;sozial;société, histoire
-liberté;die Freiheit-en;société, histoire
-commun, collectif;gemeinsam;société, histoire
-luxe;der Luxus;société, histoire
-poli (courtois);höflich;société, histoire
-fonder;gründen;société, histoire
-monnaie (d’un pays);die Währung-en;société, histoire
-guerre;der Krieg-e;société, histoire
-paix;der Frieden;société, histoire
-économie;die Wirtschaft-en;société, histoire
-histoire (passé);die Geschichte-n;société, histoire
-croque-mort;der Bestatter-, die Bestatterin-nen;société, histoire
-date;das Datum-/en;société, histoire
-valeur (idéogie);der Wert-e;société, histoire
-parti (politique);die Partei-en;société, histoire
-voter;ab-stimmen;société, histoire
-impôt, taxe;die Steuer-n;société, histoire
-habitant (de ville, pays…);der Einwohner-, die Einwohnerin-nen;société, histoire
-administration, gestion;die Verwaltung-en;société, histoire
-pouvoir, puissance;die Macht-″e;société, histoire
-drapeau;die Fahne-n;société, histoire
-constitution (document légal);die Verfassung-en;société, histoire
-ordre (opposé du désordre);die Ordnung-en;société, histoire
-loi;das Gesetz-e;société, histoire
-public;öffentlich;société, histoire
-parlement;das Parlament-e;société, histoire
-ministère;das Ministerium-/en;société, histoire
-land (état fédéré);das Bundesland-″er;société, histoire
-conseil fédéral;der Bundesrat-″e;société, histoire
-république fédérale;die Bundesrepublik-en;société, histoire
-chambre des députés;der Bundestag;société, histoire
-tuer;töten;crime, loi, jugement
-menacer;drohen;crime, loi, jugement
-mourir;sterben (i-a-o);crime, loi, jugement
-assassiner;ermorden;crime, loi, jugement
-tirer (jeter un projectile);schießen (o-o);crime, loi, jugement
-noyer (verbe);ertränken;crime, loi, jugement
-se noyer;ertrinken (a-u);crime, loi, jugement
-fraude, triche, escroquerie;der Betrug-″e;crime, loi, jugement
-poison, venin;das Gift-e;crime, loi, jugement
-meurtrier (personne qui a commis un meurtre);der Mörder-, die Mörderin-nen;crime, loi, jugement
-crime;die Straftat-en;crime, loi, jugement
-criminel (personne qui a commis un crime);der Verbrecher-, die Verbrecherin-nen;crime, loi, jugement
-réincarnation;die Wiedergeburt-en;crime, loi, jugement
-nuire;schaden;crime, loi, jugement
-détruire;zerstören;crime, loi, jugement
-anéantir;vernichten;crime, loi, jugement
-voler (prendre);stehlen (ie-a-o);crime, loi, jugement
-voleur;der Dieb-e, die Diebin-nen;crime, loi, jugement
-légal;gesetzlich;crime, loi, jugement
-interdire;verbieten (+A +D) (o-o);crime, loi, jugement
-paradis;der Himmel-;crime, loi, jugement
-enquêter;ermitteln;crime, loi, jugement
-procès;der Prozess-e;crime, loi, jugement
-jugement;das Urteil-e;crime, loi, jugement
-juge;der Richter-, die Richterin-nen;crime, loi, jugement
-frapper, taper;schlagen (ä-u-a);crime, loi, jugement
-punir;strafen;crime, loi, jugement
-tribunal;das Gericht-e;crime, loi, jugement
-dieu;der Gott-″er;crime, loi, jugement
-avocat (droit);der Rechtsanwalt-″e, die Rechtsanwältin-nen;crime, loi, jugement
-témoin;der Zeuge-n, die Zeugin-nen;crime, loi, jugement
-protection;der Schutz-e;crime, loi, jugement
-protéger;schützen;crime, loi, jugement
-déesse;die Göttin-nen;crime, loi, jugement
-témoignage;das Zeugnis-se;crime, loi, jugement
-enfer;die Hölle-n;crime, loi, jugement
-âme;die Seele-n;crime, loi, jugement
-héros;der Held-en, die Heldin-nen;crime, loi, jugement
-malfaisant;böse;crime, loi, jugement
-mauvais;übel;crime, loi, jugement
-libre;frei;crime, loi, jugement
-ennemi (nom);der Feind-e, die Feindin-nen;crime, loi, jugement
-impardonnable;unverzeihlich;crime, loi, jugement
-pardonner;verzeihen (+A+D) (ie-ie);crime, loi, jugement
-prison;das Gefängnis-se;crime, loi, jugement
-arrêter, appréhender;fest-nehmen (im-ah-om);crime, loi, jugement
-sécurité;die Sicherheit-en;crime, loi, jugement
-sorcière;die Hexe-n;crime, loi, jugement
-magie;der Zauber;crime, loi, jugement
-atelier (de travail);die Werkstatt-″e;outils
-écran (surface de protection);der Schirm-e;outils
-outil;das Werkzeug-e;outils
-grille;das Gitter-;outils
-planche;das Brett-er;outils
-planche épaisse;die Planke-n;outils
-seau;der Eimer-;outils
-tuyau;der Schlauch-″e;outils
-ferme, solide;fest;outils
-règle (instrument);das Lineal-e;outils
-marteau;der Hammer-;outils
-pile, batterie;die Batterie-n;outils
-batterie, accu;der Akku-s;outils
-tamis;das Sieb-e;outils
-vis (attache);die Schraube-n;outils
-clou;der Nagel-″;outils
-lame;die Klinge-n;outils
-connecter, mettre en contact;verbinden (a-u);outils
-visser;schrauben;outils
-pointe (bout);die Spitze-n;outils
-tournevis;der Schraubenzieher-;outils
-pince (pour fixer, pince à linge);die Klammer-n;outils
-pince;die Zange-n;outils
-ciseaux;die Schere-n;outils
-mètre (pour mesurer);das Metermaß-e;outils
-balance (pour mesurer);die Waage-n;outils
-échelle (pour monter);die Leiter-n;outils
-cable;das Seil-e;outils
-corde;die Schnur-″e;outils
-bâton;der Stock-″e;outils
-tige;die Stange-n;outils
-attacher, fixer;befestigen, fest-machen;outils
-nouer;knoten;outils
-lacer, ficeler;schnüren;outils
-noeud;der Knoten-;outils
-fil de métal;der Draht-″e;outils
-souder;schweißen;outils
-lacet;der Schnürsenkel-;outils
-fil (à coudre);der Faden-″;outils
-fibre;die Faser-n;outils
-aiguille;die Nadel-n;outils
-tissu;der Stoff-e;outils
-lentille (optique);die Linse-n;outils
-sel;das Salz-e;nourriture (végétal)
-sucré;süß;nourriture (végétal)
-poivre;der Pfeffer-;nourriture (végétal)
-crème;die Sahne;nourriture (végétal)
-huile;das Öl-e;nourriture (végétal)
-huile d’olive;das Olivenöl-e;nourriture (végétal)
-olive;die Olive-n;nourriture (végétal)
-patate douce;die Süßkartoffel-n;nourriture (végétal)
-huile de tournesol;das Sonnenblumenöl-e;nourriture (végétal)
-tournesol;die Sonnenblume-n;nourriture (végétal)
-graine;der Samen-;nourriture (végétal)
-noix (général);die Nuss-″e;nourriture (végétal)
-fruit;das Obst;nourriture (végétal)
-mûr (fruit);reif;nourriture (végétal)
-épautre;der Dinkel-;nourriture (végétal)
-fruit;die Frucht-″e;nourriture (végétal)
-baie (fruit);die Beere-n;nourriture (végétal)
-farine;das Mehl-e;nourriture (végétal)
-beurre;die Butter;nourriture (végétal)
-farine de blé;das Weizenmehl-e;nourriture (végétal)
-margarine;die Margarine-n;nourriture (végétal)
-lait;das Milch-en;nourriture (végétal)
-amande;die Mandel-n;nourriture (végétal)
-soja;die Soja-/en;nourriture (végétal)
-porridge;der Brei-e;nourriture (végétal)
-flocon;die Flocke-n;nourriture (végétal)
-flocon d’avoine;die Haferflocke-n;nourriture (végétal)
-blé;der Weizen;nourriture (végétal)
-légume (général);das Gemüse-;nourriture (végétal)
-patate;die Kartoffel-n;nourriture (végétal)
-bouillon;die Brühe-n;nourriture (végétal)
-bouillon de légumes;die Gemüsebrühe-n;nourriture (végétal)
-polenta;die Polenta;nourriture (végétal)
-maïs;der Mais;nourriture (végétal)
-carotte;die Möhre-n, die Karotte-n;nourriture (végétal)
-céréale;das Getreide-;nourriture (végétal)
-cueillir;pflücken;nourriture (végétal)
-pate à tartiner, paté;der Brotaufstrich-e;nourriture (végétal)
-gauffre;die Waffel-n;nourriture (végétal)
-raisin, grappe;die Traube-n;nourriture (végétal)
-sucre;der Zucker-;nourriture (végétal)
-noyau (de fruit);der Kern-e;nourriture (végétal)
-noix (noyer);die Walnuss-″e;nourriture (végétal)
-noisette;die Haselnuss-″e;nourriture (végétal)
-cacahuète;die Erdnuss-″e;nourriture (végétal)
-noix de cajou;die Cashewnuss-″e;nourriture (végétal)
-noix de macadamia;die Macadamianuss-″e;nourriture (végétal)
-noix du brésil;die Paranuss-″e;nourriture (végétal)
-herbe (cuisine);das Gewürzkraut-″er;nourriture (végétal)
-épice, condiment;das Gewürz-e;nourriture (végétal)
-beurre de cacahuète;die Erdnussbutter;nourriture (végétal)
-pain;das Brot-e;nourriture (végétal)
-miette;der Krümel-;nourriture (végétal)
-bière;das Bier-e;nourriture (végétal)
-vin;der Wein-e;nourriture (végétal)
-alcool (substance);der Alkohol-e;nourriture (végétal)
-vinaigre;der Essig-e;nourriture (végétal)
-levure chimique;das Backpulver-;nourriture (végétal)
-levure (organique);die Hefe-n;nourriture (végétal)
-pâte (nouilles);die Nudel-n;nourriture (végétal)
-ingrédient;die Zutat-en;nourriture (végétal)
-bretzel;die Laugenbrezel-n, die Bretzel-n;nourriture (végétal)
-vitamine;das Vitamin-e;nourriture (végétal)
-protéine;das Eiweiß-e;nourriture (végétal)
-graisse;das Fett-e;nourriture (végétal)
-gras;fett;nourriture (végétal)
-glucide;das Kohlenhydrat-e;nourriture (végétal)
-mineraux (alimentation);der Mineralstoff-e;nourriture (végétal)
-poudre;das Pulver-;nourriture (végétal)
-purée de pommes de terre;der Kartoffelbrei-e;nourriture (végétal)
-graine de tournesol;der Sonnenblumenkern-e;nourriture (végétal)
-graine de courge;der Kürbiskern-e;nourriture (végétal)
-lin;der Lein-e;nourriture (végétal)
-crêpe, pancake;der Pfannkuchen-;nourriture (végétal)
-gâteau, tarte;der Kuchen-;nourriture (végétal)
-spätzle;das Spätzle-;nourriture (végétal)
-spaghetti;die Spaghetti-s;nourriture (végétal)
-pizza;die Pizza-s;nourriture (végétal)
-avocat (aguacatl);die Avocado-s;nourriture (végétal)
-lasagne;die Lasagne-n;nourriture (végétal)
-brocoli;der Brokkoli-;nourriture (végétal)
-artichaut;die Artischocke-n;nourriture (végétal)
-chou-fleur;der Blumenkohl-e;nourriture (végétal)
-chou blanc;der Weißkohl-e;nourriture (végétal)
-chou;der Kohl-e;nourriture (végétal)
-chou rouge;der Rotkohl-e;nourriture (végétal)
-chocolat;die Schokolade-n;nourriture (végétal)
-vanille;die Vanille;nourriture (végétal)
-cacao;der Kakao-s;nourriture (végétal)
-pomme;der Apfel-″;nourriture (végétal)
-cerise;die Kirsche-n;nourriture (végétal)
-poire;die Birne-n;nourriture (végétal)
-banane;die Banane-n;nourriture (végétal)
-apricot;die Aprikose-n;nourriture (végétal)
-pêche;der Pfirsich-e;nourriture (végétal)
-figue;die Feige-n;nourriture (végétal)
-datte;die Dattel-n;nourriture (végétal)
-orange (fruit);die Orange-n;nourriture (végétal)
-mandarine;die Mandarine-n;nourriture (végétal)
-citron;die Zitrone-n;nourriture (végétal)
-clémentine;die Clementine-n;nourriture (végétal)
-melon;die Melone-n;nourriture (végétal)
-pamplemousse;die Pampelmuse-n;nourriture (végétal)
-pastèque;die Wassermelone-n;nourriture (végétal)
-courge, citrouille;der Kürbis-se;nourriture (végétal)
-courgette;die Zucchini-en;nourriture (végétal)
-aubergine;die Aubergine-n;nourriture (végétal)
-tomate;die Tomate-n;nourriture (végétal)
-concombre;die Gurke-n;nourriture (végétal)
-cornichon;die Gurke-n;nourriture (végétal)
-sauce;die Sauce-n, die Soße-n;nourriture (végétal)
-épinard;der Spinat-e;nourriture (végétal)
-salade;der Salat-e;nourriture (végétal)
-laitue;der Lattich-e;nourriture (végétal)
-aliment transformé;das verarbeitete-- Lebensmittel-;nourriture (végétal)
-aliment;die Kost;nourriture (végétal)
-mâche (salade);der Feldsalat-e;nourriture (végétal)
-poireau;der Lauch-e, der Porree-s;nourriture (végétal)
-oignon;die Zwiebel-n;nourriture (végétal)
-ail;der Knoblauch;nourriture (végétal)
-céléri rave;der Kohlrabi-s;nourriture (végétal)
-choux de Bruxelles;der Rosenkohl;nourriture (végétal)
-choux chinois;der Chinakohl-e;nourriture (végétal)
-chou frisé (kale);der Grünkohl-e;nourriture (végétal)
-prune;die Zwetschge-n, die Pflaume-n;nourriture (végétal)
-lentille (légume);die Linse-n;nourriture (végétal)
-lentille rouge;die rote-- Linse-n;nourriture (végétal)
-haricot (graine);die Bohne-n;nourriture (végétal)
-riz;der Reis-e;nourriture (végétal)
-mangue;die Mango-s;nourriture (végétal)
-pois chiche;die Kichererbse-n;nourriture (végétal)
-croûte (pain);die Kruste-n;nourriture (végétal)
-fromage;der Käse-;nourriture (végétal)
-croissant;das Croissant-s;nourriture (végétal)
-franzbrötchen;das Franzbrötchen-;nourriture (végétal)
-barre (de chocolat);der Riegel-;nourriture (végétal)
-jus (de fruit);der Saft-″e;nourriture (végétal)
-thym;der Thymian-e;nourriture (végétal)
-jus d’orange;der Orangensaft-″e;nourriture (végétal)
-jus de pomme;der Apfelsaft-″e;nourriture (végétal)
-romarin;der Rosmarin;nourriture (végétal)
-sauge;der Salbei-e;nourriture (végétal)
-basilic;das Basilikum-/en;nourriture (végétal)
-origan;der Oregano;nourriture (végétal)
-marjolaine;der Majoran-e;nourriture (végétal)
-curcuma;die Kurkuma-/en;nourriture (végétal)
-asefétide;der Asant-e;nourriture (végétal)
-fenouil;der Fenchel-;nourriture (végétal)
-poivron;die Paprika-(s);nourriture (végétal)
-piment;der Chili-s;nourriture (végétal)
-noix de coco;die Kokosnuss-″e;nourriture (végétal)
-paprika;der Paprika-(s);nourriture (végétal)
-fraise;die Erdbeere-n;nourriture (végétal)
-framboise;die Himbeere-n;nourriture (végétal)
-myrtille;die Blaubeere-n, die Heidelbeere-n;nourriture (végétal)
-mûre (fruit);die Brombeere-n;nourriture (végétal)
-cranberry;die Cranberry-s;nourriture (végétal)
-groseille;die Johannisbeere-n;nourriture (végétal)
-cassis;die schwarze-- Johannisbeere-n;nourriture (végétal)
-persil;die Petersilie-n;nourriture (végétal)
-céléri;der Sellerie-s, die Sellerie-n;nourriture (végétal)
-eau;das Wasser-;nourriture (végétal)
-boite de conserve;die Dose-n;nourriture (végétal)
-frais;frisch;nourriture (végétal)
-cuit;gekocht;nourriture (végétal)
-décongeler;auf-tauen;nourriture (végétal)
-petit pois;die Erbse-n;nourriture (végétal)
-sésame;der Sesam;nourriture (végétal)
-tahini;die Tahina;nourriture (végétal)
-tofu;der Tofu;nourriture (végétal)
-tempeh;das Tempeh;nourriture (végétal)
-menthe;die Minze-n;nourriture (végétal)
-thé (herbal);der Tee-s;nourriture (végétal)
-thé (noir);der Schwarztee-s;nourriture (végétal)
-pavot;der Mohn-e;nourriture (végétal)
-fleur;die Blume-n;plantes & champignons
-fleurir;blühen;plantes & champignons
-tronc;der Stamm-″e;plantes & champignons
-pollen;der Blütenstaub-″e;plantes & champignons
-feuille (plante);das Blatt-″er;plantes & champignons
-racine (plante);die Wurzel-n;plantes & champignons
-fougère;der Farn-e;plantes & champignons
-champignon;der Pilz-e;plantes & champignons
-lierre;der Efeu;plantes & champignons
-vigne;die Weinrebe-n;plantes & champignons
-vignoble;der Weinberg-e, der Weingarten-″;plantes & champignons
-herbe (plante graminée);das Gras-″er;plantes & champignons
-pétale;das Blütenblatt-″er;plantes & champignons
-cactus;der Kaktus-/een;plantes & champignons
-rose (fleur);die Rose-n;plantes & champignons
-jonquille;die Narzisse-n;plantes & champignons
-paquerette;das Gänseblümchen-;plantes & champignons
-pissenlit;der Löwenzahn-″e;plantes & champignons
-buisson;der Busch-″e, der Strauch-″er;plantes & champignons
-épine;der Dorn-″er;plantes & champignons
-écorce;die Rinde-n;plantes & champignons
-ronce;der Brombeerstrauch-″er;plantes & champignons
-herbe (plante aromatique);das Kraut-″er;plantes & champignons
-ortie;die Brennnessel-n;plantes & champignons
-sapin (Abies);die Tanne-n;plantes & champignons
-pin (Pinus, Strobus, longues aiguilles);die Kiefer-n;plantes & champignons
-conifère;der Nadelbaum-″e;plantes & champignons
-épine de conifère;die Nadel-n;plantes & champignons
-figuier;der Feigenbaum-″e;plantes & champignons
-palmier;die Palme-n;plantes & champignons
-algue;die Alge-n;plantes & champignons
-mousse (plante);das Moos-e;plantes & champignons
-lichen;die Flechte-n;plantes & champignons
-moisissure;der Schimmel;plantes & champignons
-plante;die Pflanze-n;plantes & champignons
-arbre;der Baum-″e;plantes & champignons
-forêt;der Wald-″er;plantes & champignons
-animal;das Tier-e;animaux
-espèce (bio.);die Spezies-;animaux
-dauphin (cétacé);der Delfin-e;animaux
-phoque;der Seehund-e;animaux
-hérisson;der Igel-;animaux
-oursin;der Seeigel-;animaux
-étoile de mer;der Seestern-e;animaux
-papillon;der Schmetterling-e;animaux
-mite, papillon de nuit;die Motte-n;animaux
-mouette;die Möwe-n;animaux
-chenille (animal);die Raupe-n;animaux
-baleine (animal);der Wal-e;animaux
-abeille;die Biene-n;animaux
-guêpe;die Wespe-n;animaux
-tortue;die Schildkröte-n;animaux
-hippocampe;das Seepferdchen-;animaux
-fourmi;die Ameise-n;animaux
-éponge (animal);der Schwamm-″e;animaux
-oie;die Gans-″e;animaux
-chouette, hibou;die Eule-n;animaux
-araignée;die Spinne-n;animaux
-aile;der Flügel-;animaux
-plume;die Feder-n;animaux
-aboyer;bellen;animaux
-corne (animal);das Horn-″er;animaux
-bec;der Schnabel-″;animaux
-loup;der Wolf-″e;animaux
-moustique;die Mücke-n;animaux
-mouche;die Fliege-n;animaux
-voler (se déplacer dans les airs);fliegen (o-o);animaux
-termite;die Termite-n;animaux
-millepatte;der Tausendfüßler-;animaux
-patte;das Bein-e;animaux
-scorpion;der Skorpion-e;animaux
-insecte;das Insekt-en;animaux
-mollusque;die Molluske-n;animaux
-manger (pour les animaux);fressen (i-a-e);animaux
-mamifère;das Säugetier-e;animaux
-reptile;das Reptil-ien;animaux
-vertébré;das Wirbeltier-e;animaux
-escargot;die Schnecke-n;animaux
-lapin;das Kaninchen-;animaux
-limace;die Nacktschnecke-n;animaux
-pigeon;die Taube-n;animaux
-rat;die Ratte-n;animaux
-souris;die Maus-″e;animaux
-écureuil;das Eichhörnchen-;animaux
-poisson;der Fisch-e;animaux
-requin;der Hai-e;animaux
-raie;der Rochen-;animaux
-ours;der Bär-en;animaux
-lion;der Löwe-n;animaux
-chien;der Hund-e;animaux
-corneille;die Krähe-n;animaux
-chat;die Katze-n;animaux
-tigre;der Tiger-;animaux
-panthère;der Panther-;animaux
-girafe;die Giraffe-n;animaux
-éléphant;der Elefant-en;animaux
-rhinocéros;das Nashorn-″er;animaux
-hippopotame;das Flusspferd-e;animaux
-grenouille;der Frosch-″e;animaux
-crapeau;die Kröte-n;animaux
-corbeau;der Rabe-n;animaux
-oiseau;der Vogel-″;animaux
-pie (oiseau);die Elster-n;animaux
-moineau;der Sperling-e, der Spatz-en;animaux
-poulet;das Huhn-″er;animaux
-cigogne;der Storch-″e;animaux
-chèvre;die Ziege-n;animaux
-mouton;das Schaf-e;animaux
-vache;die Kuh-″e;animaux
-bovin;das Rind-er;animaux
-taureau;der Bulle-n;animaux
-troupeau;die Herde-n;animaux
-cochon;das Schwein-e;animaux
-canard;die Ente-n;animaux
-crabe;der Krebs-e;animaux
-cocquillage, bivavle;die Muschel-n;animaux
-huitre;die Auster-n;animaux
-méduse;die Qualle-n;animaux
-dinosaure;der Dinosaurier-;animaux
-lézard;die Eidechse-n;animaux
-crocodile;das Krokodil-e;animaux
-alligator;der Alligator-en;animaux
-serpent;die Schlange-n;animaux
-ammonite;der Ammonit-en;animaux
-fossile;das Fossil-ien;animaux
-trilobite;der Trilobit-en;animaux
-aigle;der Adler-;animaux
-cygne;der Schwan-″e;animaux
-grogner;brummen;animaux
-chasser;jagen;animaux
-pêcher;fischen;animaux
-kangourou;das Känguru-s;animaux
-jaguar;der Jaguar-e;animaux
-lynx;der Luchs-e;animaux
-blaireau;der Dachs-e;animaux
-cerf;der Hirsch-e;animaux
-chevreuil;das Reh-e;animaux
-renard;der Fuchs-″e;animaux
-ver de terre;der Wurm-″er;animaux
-cheval;das Pferd-e;animaux
-poney;das Pony-s;animaux
-âne;der Esel-;animaux
-buffle;der Büffel-;animaux
-fer;das Eisen-;matériaux, chimie
-rouille;der Rost;matériaux, chimie
-rouiller;rosten;matériaux, chimie
-acier;der Stahl-″e;matériaux, chimie
-élément (catégorie chimique);das Element-e;matériaux, chimie
-argent (métal);das Silber;matériaux, chimie
-craie, calcite (matériau);der Kalk-e;matériaux, chimie
-or;das Gold;matériaux, chimie
-cuivre;das Kupfer;matériaux, chimie
-carbone (C);der Kohlenstoff;matériaux, chimie
-aluminium;das Aluminium;matériaux, chimie
-oxygène;der Sauerstoff;matériaux, chimie
-azote;der Stickstoff;matériaux, chimie
-hydrogène;der Wasserstoff-e;matériaux, chimie
-acide (substance);die Säure-n;matériaux, chimie
-officiel;offiziel;administration
-nécessiter, requérir;benötigen (+A);administration
-valide, valable;gültig;administration
-permettre, autoriser;erlauben;administration
-signer;unterschreiben (ie-ie);administration
-accepter, reconnaître, approuver;an-erkennen (a-a);administration
-demande, requête;der Antrag-″e;administration
-demander, faire une requête (pour faire quelquechose);auf-fordern;administration
-résidence (adm.);der Aufenthalt-e;administration
-étranger (nom);der Ausländer-, die Ausländerin-nen;administration
-fonctionnaire;der Beamter--, die Beamte--;administration
-confirmer, prouver;bestätigen;administration
-autorité (gouv.);die Behörde-n;administration
-assurance (contrat de garantie);die Versicherung-en;administration
-formulaire;das Formular-e;administration
-compte (utilisateur, bancaire);das Konto-/en;administration
-permis;die Genehmigung-en;administration
-visa;das Visum-/a;administration
-compétence, validité;die Zuständigkeit-en;administration
-remplir (un formulaire);aus-füllen;administration
-bienvenu;willkommen;rencontres
-(se) présenter (quelqu'un ou soi-même);(sich) vor-stellen;rencontres
-dire bonjour;sich begrüßen;rencontres
-bise, bisou;der Kuss-″e;rencontres
-faire la bise/un ou des bisou(s), embrasser;küssen;rencontres
-ami;der Freund-e, die Freundin-nen;rencontres
-accompagner;begleiten (+A);rencontres
-dire aurevoir;sich verabschieden;rencontres
-à plutard;bis später;rencontres
-à bientôt;bis bald;rencontres
-manifestation, évènement, cérémonie;die Veranstaltung-en;rencontres
-bye;tschüss;rencontres
-je suis désolé;es tut mir leid;rencontres
-rendez-vous;der Termin-e;rencontres
-arranger (un rendez-vous);vereinbaren, aus-machen;rencontres
-se rencontrer (quelqu'un connu);treffen (sich) (i-a-o);rencontres
-offrir, donner;verschenken;rencontres
-se rencontrer (suivant un rdv);sich treffen (mit) (i-a-o);rencontres
-rencontrer par hasard;begegnen (+D);rencontres
-inviter;ein-laden (ä-u-a);rencontres
-annuler (rdv);ab-sagen;rencontres
-rater (rdv);verpassen;rencontres
-il me tarde;ich freue mich (auf+A);rencontres
-s’appeler;heißen (ie-ei);rencontres
-nécessiter;bedürfen (+G);désirs, besoins
-volontaire (adj.);freiwillig;désirs, besoins
-avoir besoin de;brauchen (+A);désirs, besoins
-compréhension (=empathie);das Verständnis-se;désirs, besoins
-constater la perte;vermissen;désirs, besoins
-déplorer l'absence;vermissen;désirs, besoins
-remercier;danken (+D, für);désirs, besoins
-offrir (intrinsèquement);bieten (o-o);désirs, besoins
-être reconnaissant;sich bedanken;désirs, besoins
-récompenser;belohnen (für);désirs, besoins
-féliciter;gratulieren (+D, zu);désirs, besoins
-satisfaire;befriedigen (+A);désirs, besoins
-désirer, demander (s'attendre à);verlangen;désirs, besoins
-souhaiter, désirer;wünschen;désirs, besoins
-supporter, endurer;ertragen (ä-u-a);désirs, besoins
-supporter, faire avec;vertragen (ä-u-a);désirs, besoins
-en valoir la peine;sich lohnen;désirs, besoins
-valoir la peine de;lohnen;désirs, besoins
-opportunité;die Gelengenheit-en;désirs, besoins
-coincidence;der Zufall-″e;désirs, besoins
-chance;das Glück;désirs, besoins
-chance;die Chance;désirs, besoins
-profiter;profitieren;désirs, besoins
-soutenir, assister;unterstützen;désirs, besoins
-aider;helfen (+D, bei) (i-a-o);désirs, besoins
-suffire;reichen;désirs, besoins
-avantageux;günstig;désirs, besoins
-déranger, perturber;stören;désirs, besoins
-sauver;retten;désirs, besoins
-en espérant que (adv.);hoffentlich;désirs, besoins
-finir, terminer (une tâche, un produit);erledigen;persévérer, découvrir
-gêner, entraver;behindern;persévérer, découvrir
-survivre;überleben;persévérer, découvrir
-fuir;fliehen (o-o);persévérer, découvrir
-entreprendre (tâche);unternehmen (im-ah-om);persévérer, découvrir
-réussir;gelingen (a-u) (sujet/objet inversés);persévérer, découvrir
-rater, ne pas réussir;misslingen (a-u) (sujet/objet inversés);persévérer, découvrir
-victoire;der Sieg-e;persévérer, découvrir
-qui a beaucoup de succès (adj.);erfolgreich;persévérer, découvrir
-succès, réussite;der Erfolg-e;persévérer, découvrir
-faillir, échouer;versagen;persévérer, découvrir
-capable, apte;fähig;persévérer, découvrir
-persévérer;beharren (bei);persévérer, découvrir
-ennuyeux (intérêt);langweilig;persévérer, découvrir
-courage;der Mut;persévérer, découvrir
-se tromper;(sich) irren;persévérer, découvrir
-erreur;der Fehler-;persévérer, découvrir
-regretter;bedauern;persévérer, découvrir
-difficile;schwierig;persévérer, découvrir
-facile;einfach;persévérer, découvrir
-simple;einfach;persévérer, découvrir
-curieux (désirant connaître);neugierig;persévérer, découvrir
-essayer;versuchen;persévérer, découvrir
-essayer, tester (utiliser);aus-probieren;persévérer, découvrir
-essayer, tester (est-ce possible?), goûter;probieren;persévérer, découvrir
-tentative;der Versuch-e;persévérer, découvrir
-terminer, finir;beenden;persévérer, découvrir
-résoudre;lösen;persévérer, découvrir
-chercher;suchen;persévérer, découvrir
-améliorer;verbessern;persévérer, découvrir
-inventer;erfinden (a-u);persévérer, découvrir
-trouver;finden (a-u);persévérer, découvrir
-masquer;maskieren;persévérer, découvrir
-cacher, être caché;verdecken;persévérer, découvrir
-cacher (pour ne pas être trouvé);verstecken;persévérer, découvrir
-se cacher (pour ne pas être trouvé);sich verstecken (vor);persévérer, découvrir
-découvrir;entdecken;persévérer, découvrir
-but, objectif;das Ziel-e;persévérer, découvrir
-but, dessein;der Zweck-e;persévérer, découvrir
-secret (adj.);geheim;persévérer, découvrir
-secret, mystère;das Geheimnis-se;persévérer, découvrir
-danger, risque (possibilité de dammage);die Gefahr-en;persévérer, découvrir
-dangereux;gefährlich;persévérer, découvrir
-pénurie, manque;der Mangel-″;persévérer, découvrir
-attention!;Vorsicht!, Achtung!;persévérer, découvrir
-risque (possibilité de conséquences négatives);das Risiko-s;persévérer, découvrir
-responsable (adj.);verantwortlich (für);autorité, confiance
-fiable, digne de confiance;zuverlässig;autorité, confiance
-prendre charge, assumer;übernehmen (im-ah-om);autorité, confiance
-en règle;in Ordnung;autorité, confiance
-célèbre;berühmt;autorité, confiance
-mener;führen;autorité, confiance
-guider;führen;autorité, confiance
-influencer, avoir des répercussions;beeinflussen;autorité, confiance
-servir;dienen (+D), bedienen;autorité, confiance
-règle (principe);die Regel-n;autorité, confiance
-ordonner (donner un ordre);befehlen (ie-a-o);autorité, confiance
-laisser faire, autoriser;zu-lassen (ä-ie-a);autorité, confiance
-gérer, traiter d'une certaine façon;um-gehen (ing-ang);autorité, confiance
-controller;steuern;autorité, confiance
-confier (objet);an-vertrauen (+A, +D);autorité, confiance
-insérer;ein-fügen;placer
-contenu;der Inhalt-e;placer
-ordonner, arranger, organiser;an-ordnen;placer
-occuper;besetzen;placer
-enlever;entfernen;placer
-supprimer;auf-lösen;placer
-contribuer;bei-tragen (ä-u-a);placer
-copier (faire une copie);kopieren;placer
-sauvegarder (ordi);speichern;placer
-collecter, rassembler;sammeln;placer
-garder (retenir);behalten (ä-ie-a);placer
-assembler;montieren;placer
-poser;setzen, stellen, legen;placer
-changer, échanger;wechseln (von+D, auf+A);placer
-échanger (permuter, contre quelquechose);tauschen;placer
-partager, diviser;teilen;placer
-séparer;trennen;placer
-occupé (en parlant d'un lieu);besetzt;placer
-remplir;füllen;placer
-vider;leeren;placer
-vider, sortir des choses;aus-räumen;placer
-insérer, planter;stecken;placer
-pile, empilement;der Stapel-;placer
-charger;laden (ä-u-a);placer
-apporter;bringen (ach-ach);placer
-apporter, amener avec soi;mit-bringen (ach-ach);placer
-disponible;verfügbar;placer
-à la place;stattdessen;placer
-trier, organiser;sortieren;placer
-copier (imiter);nach-machen;placer
-sachet;die Tüte-n;placer
-poche, sacoche;die Tasche-n;placer
-sachet, bourse;der Beutel-;placer
-sac;der Sack-″e;placer
-omettre;aus-lassen (ä-ie-a);placer
-réparer;reparieren;utiliser
-utiliser;benutzen (+A, zu), verwenden (+A, zu);utiliser
-faire usage;Gebrauch machen (von);utiliser
-fonctionner;funktionieren;utiliser
-éviter (évènement ou action);vermeiden (ie-ie);utiliser
-empêcher (un évènement);verhindern;utiliser
-arrêter (de faire qqchose);auf-hören;utiliser
-machine;die Maschine-n;utiliser
-se servir (opérer);bedienen;utiliser
-pratique;praktisch;utiliser
-commode, confortable;bequem;utiliser
-utile;nützlich;utiliser
-être en marche;laufen (äu-ie-au);utiliser
-science (approche méthodique et rigoureuse du savoir);die Wissenschaft-en;
-science naturelle;die Naturwissenschaft-en;
-recherche scientifique;die Forschung-en;
-conductivité (électrique, etc.);die Leitfähigkeit-en;
-astronomie;die Astronomie;
-thermique;thermisch;
-système;das System-e;
-trajectoire;die Bahn-en;
-potentiel (duquel dérive une forme d'énergie);das Potential-e;
-méthode;die Methode-n;
-fusée, roquette;die Rakete-n;
-mathématiques (science);die Mathematik;
-particule (science);das Teilchen-;
-gaz;das Gas-e;
-atome;das Atom-e;
-molécule;das Molekül-e;
-elastique (adj.);elastisch;
-statistique (adj.);statistisch;
-statistique (discipline);die Statistik-en;
-équilibre (mécanique);das Gleichgewicht-e;
-démontrer, prouver, détecter (prouver l'existence);nach-weisen (ie-ie);
-cristal (physique, minéraux);der Kristall-e;
-rigide, indéformable;starr;
-solide indéformable;der starre- Körper-;
-vitesse angulaire;die Rotationsgeschwindigkeit-en;
-densité, masse volumique;die Dichte-n;
-lunette, téléscope;das Fernrohr-e;
-calculer;berechnen;
-déterminer;bestimmen;
-être vivant (créature);das Lebewesen-;
-rayonnement;die Strahlung-en;
-rayon gamma;der Gammastrahl-en;
-rayon X;der Röntgenstrahl-en;
-ultraviolet;ultraviolett;
-lumière visible;das sichtbare- Licht-er;
-infrarouge;infrarot;
-microonde (rayonnement);die Mikrowelle-n;
-onde radio;die Radiowelle-n;
-charge (électrique);die Ladung-en;
-mécanique (discipline physique);die Mechanik;
-stationnaire;stationär;
-diffraction;die Beugung-en;
-équation des ondes;die Wellengleichung-en;
-La vibration de la corde est décrite par le déplacement $\varphi(x,t)$ par rapport à la position d'équilibre en fonction de la position et du temps;"die Schwingung der Saite wird beschrieben durch die Auslenkung $\varphi(x,t)$ aus der Gleichgewichtslage als Funktion des Ortes und der Zeit""";
-exercer, appliquer (une force);wirken (auf+A);
-un corps n'est accéléré que lorsqu'une force lui est appliquée;ein Körper wird nur beschleudigt, wenn eine Kraft auf ihn wirkt;
-amplitude (phy.);die Amplitude-n;
-probabilité de présence;die Aufenthaltswahrscheinlichkeit-en;
-moment cinétique;der Drehimpuls-e;
-fréquence;die Frequenz-en;
-quantité de mouvement;der Impuls-e;
-oscillateur harmonique;der harmonische-- Oszillator-en;
-énergie potentielle;die potentielle-- Energie-n;
-potentiel (adj.);potentiell, potenziell;
-désintégration (particules);der Zerfall-″e;
-courbure (géométrique);die Krümmung;math
-axe;die Achse-n;math
-équidistant;äquidistant;math
-résoudre l'équation en utilisant les coordonnées polaires;die Gleichung in Polarkoordinaten lösen;math
-dériver (une fonction);ab-leiten (nach?);math
-une dérivée du premier ordre par rapport au temps;eine Ableitung erster Ordnung nach der Zeit;math
-fonction;die Funktion-en;math
-distribution, répartition;die Verteilung-en;math
-fonction constante;die stetige-- Funktion-en;math
-coordonnée (d'un vecteur);die Koordinate-n;math
-coordonnée polaire;die Polarkoordinate-n;math
-opérateur (mathématique);der Operator-en;math
-ellipse;die Ellipse-n;math
-hyperbole;die Hyperbel-n;math
-parabole;die Parabel-n;math
-formule (mathématique);die Formel-n;math
-équation;die Gleichung-en;math
-infini (adj.);unendlich;math
-infini, infinité;die Unendlichkeit-en;math
-théorème;der Satz-″e;math
-série (somme);die Reihe-n;math
-série entière;die Potenzreihe-n;math
-numérateur;der Zähler-;math
-dénominateur;der Nenner-;math
-division (arithmétique);die Division-en;math
-produit (arithmétique);das Produkt-e;math
-puissance (arithmétique);die Potenz-en;math
-décalage, perturbation;die Verrückung-en;math
-quadratique, carré (adj.);quadratisch;math
-racine (arithmétique);die Wurzel-n;math
-normer (math.);normieren;math
-module, norme;der Betrag-″e;math
-vecteur;der Vektor-en;math
-matrice;die Matrix-/zen;math
-somme, total;die Summe-n;math
-parallèle;parallel (zu);math
-perpendiculaire;rechtwinklig, senkrecht (zu);math
-angle;der Winkel-;math
-intégrale (math.);das Integral-e;math
-dérivée (math.);das Differential-e;math
-dénombrable;abzählbar;math
-nombre (quantité);die Anzahl-en;math
-infinité dénombrable (quantité);die abzählbar unendliche-- Anzahl-en;math
-infini dénombrable (en quantité infinie dénombrable);abzählbar unendlich viele;math
-équation différentielle;die Differentialgleichung-en;math
-sur, divisé par (fraction);durch;math
-factorielle;die Fakultät-en;math
-n factorielle;n Fakultät;math
-a exposant b;a hoch b;math
-partie imaginaire;der Imaginärteil-e;math
-partie réelle;der Realteil-e;math
-élément (d'un ensemble);das Element-e;math
-x appartient à M;x ist Element von M;math
-2 plus 2 est égal à 4;zwei plus zwei ist gleich vier;math
-intervalle (ensemble mathématique);das Intervall-e;math
-intervalle fermé;das abgeschlossene-- Intervall-e;math
-intervalle ouvert;das offene-- Intervall-e;math
-cardinalité;die Kardinalität-en;math
-imaginaire;imaginär;math
-réel (des nombres réels);reell;math
-complexe (des nombres complexes);komplex;math
-fois (multiplié);mal;math
-3 fois 3 font 9;drei mal drei ist neun;math
-ensemble (collection mathématique);die Menge-n;math
-strictement négatif;negativ;math
-positif;nichtnegativ;math
-strictement positif;positiv;math
-équation aux dérivées partielles;die partielle-- Differentialgleichung-en;math
-carré (puissance 2);Quadrat, zum Quadrat, hoch zwei;math
-différent (mathématique);ungleich;math
-f(x), f de x;f von x;math
-racine (carrée) de x;die Wurzel aus x;math
-racine n-ième de x;die n-te Wurzel aus x;math
-probabilité;die Wahrscheinlichkeit-en;math
-densité de probabilité;die Wahrscheinlichkeitsdichte-n;math
-chaque état ne peut être occupé qu'une seule fois;jeder Zustand kann nur einfach besetzt sein;math
-rude, vulgaire;derb;vulagrités
-foutre (baiser), aller se faire foutre;ficken 🤬;vulagrités
-merde;die Kacke 🤬, die Scheiße 🤬;vulagrités
-chier;kacken 🤬;vulagrités
-gerber, dégueuler;kotzen 🤬;vulagrités
-pisser;pissen 🤬;vulagrités
-chier;scheißen (i-i) 🤬;vulagrités
+#columns:Front;Back
+nom;der Name-n
+adresse;die Adresse-n
+adresse;die Anschrift-en
+numéro;die Nummer-n
+numéro de téléphone;die Telefonnummer-n
+date de naissance;das Geburtsdatum-/en
+lieu de naissance;der Geburtsort-e
+age;das Alter-
+genre/sexe;das Geschlecht-er
+statut marital;der Familienstand-″e
+relation (personnelle);die Beziehung-en
+nationalité;die Staatsangehörigkeit-en
+origine;die Herkunft-″e
+apparence;das Aussehen
+habitude;die Gewohnheit-en
+habitation;die Wohnung-en
+masse, prise de terre;die Erdung-en
+maison;das Haus-″er
+maison d'habitation;das Wohnhaus-″er
+pièce (d'un bâtiment);das Zimmer-
+éclairer;leuchten
+mur, partition (de l’intérieur);die Wand-″e
+mur (pierre ou ciment);die Mauer-n
+équipement;die Einrichtung-en
+meuble;das Möbel-
+pièce de mobilier;das Möbelstück-e
+loyer;die Miete-n
+locataire;der Mieter-, die Mieterin-nen
+contrat de location;der Mietvertrag-″e
+propriétaire;der Eigentümer-, die Eigentümerin-nen
+loueur/propriétaire;der Vermieter-, die Vermieterin-nen
+propriété (chose qui appartient);das Eigentum-″er
+déménagement;der Umzug-″e
+déménager;um-ziehen (og-og)
+emménager;ein-ziehen (og-og)
+animal de companie;das Haustier-e
+ménage (famille);der Haushalt-e
+escalier;die Treppe-n
+marche d'escalier;die Stufe-n
+couloir;der Korridor-e
+cuisine;die Küche-n
+chambre;das Schlafzimmer-
+salle de bain;das Badezimmer-
+entrée de maison;der Hauseingang-″e
+bain;das Bad-″er
+vestibule;der Flur-e, die Diele-n
+salon;das Wohnzimmer-
+toilette (endroit);die Toilette-n
+porte;die Tür-en
+fenêtre;das Fenster-
+jardin;der Garten-″
+portail;das Tor-e
+garage;die Garage-n
+pelouse;der Rasen-
+cloture;der Zaun-″e
+appareil;das Gerät-e
+four;der Ofen-″
+four à microondes;die Mikrowelle-n
+cuisinière/plaques (meuble);das Herd-e
+lit;das Bett-en
+linge;die Wäsche-n
+coussin, oreillet;das Kissen-
+linge de lit;die Bettwäsche-n
+réveil (horloge);der Wecker-
+couverture;die Decke-n
+table;der Tisch-e
+table de nuit;der Nachttisch-e
+placard;der Schrank-″e
+étagères;das Regal-e
+tiroir;die Schublade-n
+chaise;der Stuhl-″e
+miroir;der Spiegel-
+tabouret;der Hocker-
+frigo;der Kühlschrank-″e
+machine à laver;die Waschmaschine-n
+aspirateur;der Staubsauger-
+évier;die Spüle-n, das Spülbecken-
+cafetière;die Kaffeemaschine-n
+bibliothèque (meuble);das Bücherregal-e
+bureau (meuble);der Schreibtisch-e
+congélateur (compartiment & objet);der Gefrierschrank-″e
+lampe;die Lampe-n
+lumière;das Licht-er
+bougie (lumière);die Kerze-n
+ampoule (lumière);die Glühbirne-n
+cloche, sonnette;die Glocke-n
+rideau;der Vorhang-″e
+tapis;der Teppich-e
+tapis, paillasson;die Matte-n
+canapé;das Sofa-s
+fauteuil;der Sessel-
+lampe de bureau;die Schreibtischlampe-n
+radiateur (maison);der Heizkörper-
+cadre;der Rahmen-
+prise de courant;die Steckdose-n
+interrupteur;der Schalter-
+interrupteur d'éclairage;der Lichtschalter-
+clé;der Schlüssel-
+habiter;wohnen
+fermer à clé;ab-schließen (o-o)
+allumer;an-machen, ein-schalten
+éteindre;aus-machen, ab-schalten
+sol (parterre);der Boden-″
+carrelage;die Fliese-n
+moquette;der Teppichboden-″
+parquet;das Parkett-e
+plafond;die Decke-n
+lustre (lumière);der Kronleuchter-
+rebord de fenêtre;das Fensterbrett-er
+panneau de verre, vitre;die Scheibe-n
+vitre;die Fensterscheibe-n
+toit;das Dach-″er
+tuile;der Dachziegel-
+brique;der Ziegel-
+grenier;der Dachboden-″
+boite aux lettres;der Briefkasten-″
+coffre;der Kasten-″
+caisse;die Kiste-n
+cave;der Keller-
+visiter (quelqu’un);besuchen
+visite;der Besuch-e
+visiteur;der Besucher-, die Besucherin-nen
+invitation;die Einladung-en
+habitant;der Bewohner-, die Bewohnerin-nen
+grenier, dernier étage;das Dachgeschoss-e
+rez-de-chaussée;das Erdgeschoss-e
+région (environs);die Gegend-en
+terrain (immobilier);das Grundstück-e
+concierge;der Hausmeister-, die Haustmeisterin-nen
+gestion immobilière;die Hausverwaltung-en
+loyer sans les charges;die Kaltmiete-n
+loyer et charges;die Warmmiete-n
+caution;die Kaution-en
+situation (position);die Lage-n
+agent (immmobilier);der Makler-, die Maklerin-nen
+coûts additionnels;(pl.) Nebenkosten
+étage;das Obergeschoss-e
+étage (1er, etc.);der Stock-″e
+commission (charge);die Provision-en
+banlieue;der Vorort-e
+bureau du logement;das Wohnungsamt-″er
+"aide financière pour le paiement du loyer (""allocation de logement"")";das Wohngeld-er
+donner son congé (terminaison de contrat);kündigen
+rénover;renovieren
+ascenseur;der Fahrstuhl-″e
+ascenseur;der Aufzug-″e
+vêtement;die Kleidung-en
+habillement;die Bekleidung-en
+ceintre;der Bügel-
+tache;der Fleck-e
+bouton de vêtement;der Knopf-″e
+lacer les chaussures;die Schuhe schnüren
+pantalon;die Hose-n
+short;(pl.) Shorts
+chaussure;der Schuh-e
+chaussette;die Socke-n
+collant;die Strumpfhose-n
+botte;der Stiefel-
+sandale;die Sandale-n
+baskets;der Sportschuh-e
+ceinture;der Gürtel-
+chemise;das Hemd-en
+tshirt;das T-shirt-s
+robe;das Kleid-er
+jupe;der Rock-″e
+manteau;der Mantel-″
+parapluie;der Regenschirm-e
+hoodie;der Hoodie-s
+sweatshirt;das Sweatshirt-s
+pull;der Pullover-
+collier;die Halskette-n
+bijou;der Schmuck-e
+chaine;die Kette-n
+anneau;der Ring-e
+pullover;der Pulli-s
+boucle d'oreille;der Ohrring-e
+"habit (“fringues"")";die Klamotte-n
+bague;der Ring-e
+montre, horloge;die Uhr-en
+montre-bracelet;die Armbanduhr-en
+bracelet;das Armband-″er
+chapeau;der Hut-″e
+casquette;die Mütze-n
+rayé (motif);gestreift
+motif à pois;das Punktmuster-
+à carreaux;kariert
+motif;das Muster-
+jeans;die Jeans-
+élégant (chic);schick
+pijama;das/der Pyjama-s
+porter (habit);tragen (ä-u-a)
+lunettes;die Brille-n
+lunettes de soleil;die Sonnenbrille-n
+porter (lunettes, chapeau);haben (auf)
+environnement;die Umwelt-en
+climat;das Klima-ta
+temps (météo);das Wetter-
+vague (masse de fluide);die Welle-n
+planète;der Planet-en
+la terre (planète);die Erde-n
+terre, sol;die Erde-n
+sol (parterre);der Grund-″e
+sable;der Sand-e
+sauvage;wild
+rocher;der Fels-en
+caillou;der Stein-e
+boue;der Match
+froid;kalt
+chaud;warm
+chaud brûlant;heiß
+nuageux;bewölkt
+ensoleillé;sonnig
+briller (emmettre de la lumière);scheinen (ie-ie)
+briller, luire;glühen
+pluie;der Regen
+pleuvoir;regnen
+neige;der Schnee
+neiger;schneien
+grêle;der Hagel-
+lune;der Mond-e
+soleil;die Sonne
+ombre;der Schatten-
+grêler;hageln
+brumeux;nebelig
+brume;der Nebel-
+montagne;der Berg-e
+colline;der Hügel-
+prairie;die Wiese-n
+ruisseau;der Bach-″e
+rivière;der Fluss-″e
+désert (endroit);die Wüste-n
+source;die Quelle-n
+grotte;die Höhle-n
+flocon de neige;die Schneeflocke-n
+ciel;der Himmel-
+étoile;der Stern-e
+vallée;das Tal-″er
+vent;der Wind-e
+air (gaz);die Luft-″e
+liquide, fluide (substance);die Flüssigkeit-en
+résistant, visqueux;zäh
+feu;das Feuer-
+glace (eau gelée);das Eis-e
+nuage;die Wolke-n
+goutte (objet liquide);der Tropfen-
+nature (l'environnement naturel);die Natur-e
+déchet, poubelle (à jeter);der Müll
+déchet (reste);der Abfall-″e
+ranger;auf-räumen
+recycler;recyceln, wieder-verwerten
+recyclage;das Recycling, die Wiederverwertung
+corbeille à papier;der Papierkorb-″e
+papier;das Papier-e
+carton;der Karton-e
+métal;das Metall-e
+verre (matériau);das Glas-″er
+plastique (matériau);der Kunststoff-e
+matériau mélangés;der Verbundstoff-e
+trier (déchets);trennen
+papier à recycler;das Altpapier-e
+poubelle (conteneur cylindrique);die Tonne-n
+(sac jaune);der gelb(e) Sack-″e
+poussière;der Staub-″e
+benne (à ordure);der Müllcontainer-
+déchets organiques;der Biomüll
+détritus non recyclables;der Restmüll
+collecte des ordures;die Müllabfuhr-en
+écologique;ökologisch
+protection de l'environnement;der Umweltschutz
+description;die Beschreibung-en
+décrire;beschreiben (ie-ie)
+représenter (de façon graphique);dar-stellen
+représentation (graphique);die Darstellung-en
+paysage;die Landschaft-en
+situation;die Situation-en
+atmosphère (psy);die Stimmung-en
+comparaison;der Vergleich-e
+en comparaison;im Vergleich
+il me semble;es scheint mir
+sembler;aus-sehen (ie-a-e), scheinen (ie-ie)
+avant plan;der Vordergrund-″e
+arrière plan;der Hintergrund-″e
+milieu (centre);die Mitte-n
+au milieu;in der Mitte
+à droite;rechts
+à gauche;links
+devant (adv.);vorne
+derrière (adv.);hinten
+c'est different;es ist anders (als)
+en particulier;besonders
+expérience (vécue);die Erfahrung-en
+faire l'expérience, obtenir de l'expérience;erfahren (ä-u-a)
+faire l'expérience, vivre;erleben
+vie de tout les jours;der Alltag
+typique;typisch 
+normal, ordinaire;gewöhnlich
+normal;normal
+inhabituel;ungewöhnlich
+étrange;seltsam
+exceptionnel;außergewöhnlich
+remarquable;merkwürdig
+rare;selten
+régulier (suivant la règle);regelmäßig
+surprenant;überraschend
+surprendre;überraschen
+surprise;die Überraschung-en
+incroyable;wahnsinnig
+vivre;leben
+humeur;die Laune-n
+blague;der Witz-e
+rage, colère;die Wut
+colère (contre quelquechose considéré comme injuste ou contraire à sa volonté);der Zorn
+en colère;wütend
+faché, amer;sauer
+énervé;verärgert
+ennuyé, énervé;genervt
+passion, ardeur;die Leidenschaft-en
+jaloux;eifersüchtig
+jalousie;die Eifersucht
+reprocher;vor-werfen (i-a-o)
+grossier;grob
+aimer;lieben
+aimer (quelquechose), bien aimer;mögen (a-och-och)
+sourire (verbe);lächeln
+déguster, jouir, bénéficier;genießen (o-o)
+rire;lachen
+comportement;das Verhalten-
+larme, pleur;die Träne-n
+pleurer;weinen
+souffrir;leiden (itt-itt)
+terrible, affreux;schrecklich
+beau;schön
+joli;hübsch
+gentil;nett
+fier (adj.);stolz
+heureux;froh
+laid;hässlich
+joyeux;fröhlich
+souci, préoccupation;die Sorge-n
+s'inquiéter;sich sorgen
+heureux;glücklich
+relaxé;entspannt
+intéressé;interessiert
+être intéressé par;sich interessieren (für)
+enthousiasmé;begeistert
+fasciner;faszinieren
+triste;traurig
+content;zufrieden
+stressé;gestresst
+ennuyé (qui s'ennuie);gelangweilt
+pensif;nachdenklich
+déprimé;deprimiert
+malheureux;unglücklich
+mécontent;unzufrieden
+excité;aufgeregt
+tendu;gespannt
+calme, sans excitation;ruhig
+impulsion;der Impuls-e
+honte (sentiment);die Scham
+honte (objet);die Schande
+plaisant;angenehm
+plaisir, amusement;der Spaß-″e an+D
+drôle, amusant;lustig
+drôle, bizarre;komisch
+personnel;persönlich
+géner (émotion);unangenehm sein
+déplaisant;unangenehm
+humilier;demütigen
+dommage;schade
+malheureusement;leider
+décevoir (ne pas être à la hauteur);enttäuschen
+espérer;hoffen
+sérieux;ernst
+crier;schreien (ie-geschrien)
+ressentir, sentir;fühlen
+être dans un état émotionnel;sich fühlen
+se réjouir;sich freuen
+exciter;auf-regen
+énerver;nerven
+peur (émotion);die Angst-″e
+avoir peur (émotion);Angst haben (vor+D)
+malgrès tout;trotzdem
+en outre, de plus;ferner
+pourtant;dennoch
+pourtant;jedoch
+en même temps;gleichzeitig
+lier, combiner;verknüpfen
+négliger;vernachlässigen
+probable, vraisemblable;wahrscheinlich
+nécessaire;notwendig
+prémisse;die Voraussetzung-en
+diagramme;das Diagramm-e
+symbolique;symbolisch
+esquisser;skizzieren
+comparer;vergleichen
+dans le sens où/que;in dem Sinne, dass
+avis;die Ansicht-en
+avantage;der Vorteil-e
+vérité;die Wahrheit-en
+mensonge;die Lüge-n
+conscient, réfléchi;bewusst
+c'est exact;das stimmt
+exception;die Ausnahme-n
+relation (lien, rapport);die Beziehung-en
+réfléchir;nach-denken (ach-ach)
+comprendre;greifen (if-if)
+paraître, sembler;vor-kommen (a-o)
+défaut, inconvénient;der Nachteil-e
+savoir;wissen (ei-u-u)
+prendre connaissance de;erfahren (ä-u-a)
+se rendre compte;merken
+connaître;kennen (a-a)
+contradiction (incompatibilité logique);der Widerspruch-″e
+contradiction (action de contredire);der Widerspruch-″e
+réel, véritable;wirklich
+vrai, véritable;wahr
+faux, erroné;falsch
+vérifier, examiner;überprüfen
+sûrement;sicherlich
+valeur (caractère intrinsèque désirable);der Wert-e
+s'opposer, resister;sich widersetzen (+D)
+peut-être;vielleicht
+cause;die Ursache-n
+possiblement;möglicherweise
+supposemment;vermutlich
+présumer;vermuten
+suspecter;verdächtigen
+être de l'avis;meinen
+incertain;unsicher
+convaincu;überzeugt
+douter;zweifeln (an+D)
+défendre, justifier;verteidigen
+justifier;rechtfertigen
+concerner, porter sur;betreffen (+A) (i-a-o)
+considérer (comme);halten (für, als) (ä-ie-a)
+trouver (opinion);finden (a-u)
+impression;der Eindruck-″e
+avoir l'impression;den Eindruck haben
+selon moi;meiner Meinung nach
+opinion;die Meinung-en
+croire;glauben
+il se pourrait;es könnte sein
+faire l’hypothèse;an-nehmen (im-ah-om)
+supposer;vermuten
+s’étonner;sich wundern (über)
+celà m’étonne;es wundert mich
+précisément;genauso (wie)
+idée;die Idee-n, die Ahnung-en
+oublier;vergessen (i-a-e)
+se souvenir;sich erinnern (an+A)
+clair (visible);klar
+penser;denken (ach-ach)
+confus (désorienté);verwirrt
+confondre, dérouter;verwirren
+sens, signification;der Sinn-e
+évident, naturel;selbstverständlich
+faculté de comprendre;das Verständnis-se
+sensé, rationnel;sinnvoll
+absurde;sinnlos
+venir à l'esprit;ein-fallen (+D) (ä-ie-a)
+important;wichtig
+sans importance;egal
+cas;der Fall-″e
+craindre (rationnellement);fürchten
+faire attention;auf-passen (auf+A)
+imaginer, se représenter;sich vor-stellen
+sûr;sicher
+s’attendre;erwarten
+intéressant;interessant
+super;super, toll
+être valable;gelten (i-a-o)
+super;hammer
+excellent;hervorragend
+bon;gut
+indépendant (sans rapport avec);unabhängig
+super (de première classe);prima
+prévoir, prédire;vorher-sagen
+plan (projet);der Plan-″e
+planifier;planen
+dépendre de;ab-hängen (von)
+reconnaitre, identifier;erkennen (a-a)
+comprendre;verstehen (and-and)
+ignorer (délibérement);ignorieren
+raisonnable;vernünftig
+estimer (évaluer);schätzen
+sousestimer;unterschätzen, unterbewerten
+surestimer;überschätzen
+remarquer, noter, se rendre compte;bemerken
+évident, apparent;offensichtlich
+manifeste, évident;offenbar
+voyager;reisen
+voyage;die Reise-n
+moyen de transport;das Verkehrsmittel-
+transport public;das öffentliche Verkehrsmittel-
+logement transitoire (hotel, etc);die Unterkunft-″e
+bagage;das Gepäck-e
+sac à dos;der Rucksack-″e
+départ;die Abfahrt-en
+partir (départ);ab-fahren (ä-u-a)
+arriver;an-kommen (a-o)
+arrivée;die Ankunft-″e
+avion;das Flugzeug-e
+vol (avion);der Flug-″e
+aéroport;der Flughafen-″
+gare;der Bahnhof-″e
+train;der Zug-″e
+wagon;der Wagen-″
+voie (de chemin de fer);der Gleis-e
+porte d'embarquement;das Gate-s
+papier d'identité;der Ausweis-e
+visiter (tourisme);besichtigen
+tourisme;der Tourismus
+réserver;buchen
+bus;der Bus-se
+ligne (de bus);die Linie-n
+camping;das Camping
+lieu de rassemblement, campement;das Lager-″
+étranger (adj.);fremd
+language étrangère;die Fremdsprache-n
+hotel;das Hotel-s
+sites d'intérêt;die Sehenswürdigkeit-en
+musée;das Museum-/en
+guide (tourisme);der Reiseführer-, die Reiseführerin-nen
+passeport;der Reisepass-″e
+plage;der Strand-″e
+fuseau horaire;die Zeitzone-n
+tente;das Zelt-e
+arrêt de bus;die Bushaltestelle-n
+terminus;die Endstation-en
+monter (train etc);ein-steigen (ie-ie)
+changer (de train);um-steigen (ie-ie)
+descendre (train etc);aus-steigen (ie-ie)
+voiture;das Auto-s
+pneu;der Reifen-
+traffic;der Verkehr-e
+bouchon (traffic);der Stau-s
+autoroute;die Autobahn-en
+route, voie;die Bahn-en
+chemin de fer;die Bahn-en
+plateforme (gare);der Bahnsteig-e
+ferry;die Fähre-n
+bateau, barque;das Boot-e
+bateau, navire;der Schiff-e
+ticket (titre de transport);die Fahrkarte-n
+véhicule (transport);das Fahrzeug-e
+permis de conduire;der Führeschein-e
+arrêt (de bus);die Haltestelle-n
+ICE (tgv allemand);der ICE-s (Intercity-Express)
+véhicule à moteur;das Kraftfahrzeug-e
+camion, poid lourd (familier);der Laster-
+camion;der Lastkraftwagen-″, der LKW-s
+moto;das Motorrad-″er
+parking (bâtiment);das Parkhaus-″er
+véhicule personel;der Personalkraftwagen-″, der PKW-s
+agence de voyage;das Reisebüro-s
+retour (voyage);die Rückfahrt-en
+partir, commencer à voyager;los-fahren (ä-u-a), weg-fahren (ä-u-a)
+aller/venir chercher;ab-holen
+être en mouvement;sich bewegen
+s'arrêter, être immobile;an-halten (ä-ie-a) (haben)
+emporter (porter quelquechose);mit-nehmen (im-ah-om)
+se garer;parken
+atterrir;landen
+transporter;transportieren
+rester;bleiben (ie-ie)
+rester en arrière, ne pas accompagner;zurück-bleiben (ie-ie)
+tourner (qqchose);wenden
+vers le haut (adv.);aufwärts
+vers le bas (adv.);abwärts
+en avant (adv.);vorwärts
+en arrière (adv.);rückwärts
+en haut;oben
+en bas;unten
+tout droit;geradeaus
+accessible;erreichbar
+pressé, urgent;eilig
+manger;essen (i-a-e)
+soupe;die Suppe-n
+boire;trinken (a-u)
+nourriture, repas;das Essen
+repas;die Mahlzeit-en
+plat (aliment);die Speise-n
+boisson;das Getränk-e
+café (boisson);der Kaffee
+établissement gastronomique;der Lokal-e
+café (endroit);das Café-s
+bistro;die Kneipe-n
+restaurant;das Restaurant-s
+menu (carte);die Speisekarte-n
+acheter;kaufen
+vendre;verkaufen
+faire les courses;ein-kaufen
+magasin;das Geschäft-e
+magasin (endroit);der Laden-″
+prix;der Preis-e
+habit;die Kleindung-en
+commerce (achat et vente de biens);der Handel-″
+emballage;die Packung-en
+louer (mettre à disposition en échange d'argent);vermieten
+louer (payer pour utiliser);mieten
+emprunter;leihen (ie-ie)
+donner;geben (i-a-e)
+prêter;leihen (ie-ie)
+recevoir, obtenir;bekommen (a-o)
+recevoir;erhalten (ä-ie-a)
+obtenir (après un effort ou une attente);erlangen
+recevoir (invité, cadeau);empfangen (ä-i-a)
+coûter;kosten
+caisse;die Kasse-n
+reçu;der Beleg-e
+payer;bezahlen
+paiement;die Bezahlung-en
+revenu (argent);das Einkommen-
+rabat;der Rabatt-e
+publicité;die Werbung-en
+monnaie (pièces & billets);das Bargeld-er
+pièce de monnaie;die Münze-n
+argent (monnaie);das Geld-er
+riche;reich
+pauvre;arm
+pauvreté;die Armut
+billet de banque;der Geldschein-e
+taxe, frais;die Gebühr-en
+salaire, récompense;der Lohn-″e
+trésor;der Schatz-″e
+cher (prix);teuer
+gratuit;frei
+gratuitement;umsonst
+pas cher (prix);billig
+département (division);die Abteilung-en
+articles pour la maison;die Haushaltware-n
+offre (produits disponibles);das Angebot-e
+zone piétonne;die Fußgängerzone-n
+ticket de caisse;der Kassenbeleg-e
+grand magasin;das Kaufhaus-″er
+denrées alimentaires;das Lebensmittel-
+marque (TM);die Marke-n
+facture;die Rechnung-en
+vitrine;das Schaufenster-
+fournitures de bureau;(pl.) Schreibwaren
+offre spéciale;das Sonderangebot-e
+marché hebdomadaire;der Wochenmarkt-″e
+qualité;die Qualität-en
+reçu, quittance;die Quittung-en
+commander (acheter);bestellen
+se charger de, procurer;besorgen
+échanger (achat);um-tauschen
+rendre, restituer;zurück-geben (i-a-e)
+de bon rapport qualité-prix;preiswert
+regarder (chercher);um-schauen
+annonce (petite annonce);die Anzeige-n
+virement permanent;der Dauerauftrag-″e
+distributeur automatique de billets;der Geldautomat-en
+compte courrant;das Girokonto-/en
+relevé de compte;der Kontoauszug-″e
+transfer bancaire;die Überweisung-en
+intérêt (bancaire);der Zins-en
+transférer (banque);überweisen (ie-ie)
+effectuer un retrait d’argent;ab-heben (o-o)
+telecommunication;die Telekommunikation-en
+poste (courier);die Post-en
+c'est-à-dire;das heißt
+rapporter, annoncer, signaler, déclarer;melden
+lettre (message écrit);der Brief-e
+enveloppe (de lettre);der Umschlag-″e
+déclarer;an-geben (i-a-e)
+stylo, crayon;der Stift-e
+crayon;der Bleistift-e
+gomme (pour effacer);das Gummi-s
+admettre, avouer;zu-geben (i-a-e)
+livrer (collis);liefern
+annoncer;an-kündigen
+envoyer, expédier;schicken
+envoyer, diffuser;senden
+téléphone;das Telefon-e
+internet;das Internet
+connection;die Verbindung-en
+téléphone portable;das Handy-s
+radio (appareil);der Radio-s
+journal;die Zeitung-en
+presse (journaux & magasines);die Presse
+émission (de tv, radio);die Sendung-en
+magazine, revue;die Zeitschrift-en
+série (tv);die Serie-n
+radio (diffusion);der Rundfunk
+page;die Seite-n
+feuille (page);das Blatt-″er
+ligne (texte);die Zeile-n
+texte;der Text-e
+phrase;der Satz-″e
+lettre (alphabet);der Buchstabe-n
+épeler;buchstabieren
+symbole, caractère, signe;das Zeichen-
+dictionnaire;das Wörterbuch-″er
+instruction (ordre);die Anweisung-en
+section, paragraphe;der Abschnitt-e
+parenthèse, crochet;die Klammer-n
+marquer;markieren
+noter (faire une note);auf-schreiben (ie-ie)
+article;der Artikel-
+annonce (radio ou haut-parleur);die Durchsage-n
+détail;die Einzelheit-en
+email;die E-Mail-s
+sujet (d'une lettre, d'un email);der Betreff-e
+conseil, indication, indice;der Hinweis-e
+nouvelle, information;die Nachricht-en
+titre, intitulé;die Überschrift-en
+imprimer;drucken
+imprimante;der Drucker-
+expression;der Ausdruck-″e
+rester silencieux;schweigen (ie-ie)
+note, pièce de papier;der Zettel-
+appeler (donner un nom);nennen (a-a)
+parler;sprechen (i-a-o)
+certitude;die Sicherheit-en
+renoncer;verzichten (auf+A)
+droit à quelquechose, exigeance;der Anspruch-″e (auf+A)
+demander, prier;bitten (a-e)
+souligner (accentuer);betonen
+convaincre (logiquement);überzeugen
+convaincre, persuader (en parlant beaucoup);überreden
+au contraire, plutôt;vielmehr
+en tout cas;auf jeden Fall
+de toute façon, de toute manière;ohnehin
+analogie;die Analogie-n
+avoir raison;recht haben
+promettre;versprechen (i-a-o)
+retour (=réponse);die Rückmeldung-en
+dire;sagen
+parler, converser;reden
+influence, impact;der Einfluss-″e
+avoir une conversation;besprechen (i-a-o)
+discuter;besprechen (i-a-o)
+prononciation;die Aussprache-n
+signifier;bedeuten
+exagérer (l'importance);übertreiben (ie-ie)
+signification;die Bedeutung-en
+clair, considérable;deutlich
+offre (proposition);das Angebot-e
+absolu;unbedingt
+offrir, proposer;an-bieten (o-o)
+d'ailleurs;übrigens
+motiver;motivieren
+plaire;gefallen (ä-ie-a)
+mutuel;gegenseitig
+répondre à (tr.);beantworten
+discuter, conseiller;beraten (ä-ie-a)
+exhorter, admonester;ermahnen (zu)
+avertir;warnen (+A, vor)
+s’excuser (de);sich entschuldigen (bei)
+plutôt;eher
+même, voire;sogar
+option, possibilité;die Möglichkeit-en
+choisir, opter;aus-wählen, wählen, aus-suchen
+se décider;sich beschließen (o-o), sich entscheiden
+décision;die Entscheidung-en
+option;die Option-en
+choix;die Wahl-en
+choisir, sélectionner;wählen
+proposer;vor-schlagen (ä-u-a)
+proposition;der Vorschlag-″e
+accepter;zu-stimmen (+D)
+refuser;ab-lehnen
+contre-proposition;der Gegenvorschlag-″e
+convenir d'une activité/rdv;sich verabreden
+se mettre d’accord;sich einigen
+fixer, convenir;aus-machen
+d'accord (adj.);einverstanden
+considérer;überlegen
+avoir envie;Lust haben (auf+A/zu)
+envie (désir);die Lust-″e
+plutôt (adv. opposition);lieber
+convenir (être compatible);passen
+aller bien, marcher;klappen
+parfait;perfekt
+à cause de moi;meinetwegen
+demander (question);fragen (+A, +A, nach, zu)
+répondre (intr.);antworten
+réponse;die Antwort-en
+mentir;lügen (o-o)
+recommander;empfehlen (ie-a-o)
+alléguer, formuler;vor-bringen (ach-ach)
+faire pression;unter Druck setzen
+exprimer;äußern
+informer, rapporter;berichten
+inciter, encourager, inspirer à;an-regen (+A, zu)
+démontrer, prouver;beweisen (ie-ie)
+faire confiance;vertrauen
+se fier;sich verlassen (auf+A)
+maintenir (que);behaupten
+confier (secret);an-vertrauen (+A, +D)
+communiquer (informer);mit-teilen
+contredire;widersprechen (i-a-o)
+nier ce qui a été dit par quelqu'un d'autre;leugnen
+démentir officiellement;dementieren
+supposer;an-nehmen (im-ah-om)
+question;die Frage-n
+se disputer;streiten (it-it)
+se plaindre (auprès de qqun);sich beschweren
+insister;beharren (auf+D)
+confronter;gegenüber-stellen
+raconter;erzählen
+expliquer;erklären
+répéter;wiederholen
+traduire;übertragen (ä-u-a)
+traduire;übersetzen
+service, secteur tertiaire;die Dienstleistung-en
+banque;die Bank-en
+guichet;der Schalter-
+police;die Polizei-en
+commissariat;das Revier-e
+mairie;das Rathaus-″er
+administration;das Amt-″er
+collecte des ordures;die Abfuhr-en
+bibliothèque (service/lieu);die Bibliothek-en
+éducation;die Erziehung-en
+remarque;die Anmerkung-en
+définir;definieren
+élever (éduquer);erziehen (og-og)
+s'exercer;üben
+test, épeuvre, contrôle;die Prüfung-en
+faire passer un test, épouvrer;prüfen
+exercice;die Übung-en
+formation (éducation);die Ausbildung-en zu
+corriger (une erreur);korrigieren
+apprendre;lernen
+enseigner;lehren
+enseignant;der Lehrer-, die Lehrerin-nen
+garde d’enfant;die Kinderbetreuung-en
+rater (exam);durch-fallen (bei/in+D) (ä-ie-a) (sein)
+réussir (exam);bestehen (and-and) (haben)
+école;die Schule-n
+tableau (surface pour écrire);die Tafel-n
+craie (pour écrire sur le tableau);die Kreide-n
+université;die Universität-en
+étudiant;der Student-en, die Studentin-nen
+cours (ensemble d'heures);der Kurs-e
+classe (groupe d'élèves);die Klasse-n
+étudier;studieren
+lycée, collège;das Gymnasium-/en
+baccalauréat (équivalent);das Abitur-e
+terminaison, en part. fin d’études;der Abschluss-″e
+école professionnelle;die Berufsschule-n
+prise en charge, soin;die Betreuung-en
+éducateur;der Erzieher-, die Erzieherin-nen
+école primaire, école élémentaire;die Grundschule-n
+garderie, école maternelle;der Kindergarten-″
+garderie, crèche;die Kita-s
+note (d’examen);die Note-n
+pause;die Pause-n
+école secondaire;die Realschule-n
+emploi du temps;der Stundenplan-″e
+babysitter;der Tagesvater-″, die Tagesmutter-″
+garderie, crèche;die Tagesstätte-n
+leçon;der Unterricht-e
+s’enroler;sich an-melden
+être absent;fehlen
+présent (présence);anwesend
+attentif;aufmerksam
+intelligent;schlau, intelligent
+programme;das Programm-e
+semestre;das Semester-
+étude (le fait d'étudier, études supérieures);das Studium-/en
+présenter, faire une présentation;präsentieren
+solution (de problème);die Lösung-en
+problème;das Problem-e
+travail;die Arbeit-en
+occupé (avec des activités);beschäftigt
+être occupé (avec une tâche);sich beschäftigen (mit)
+remplacer (quelqu'un au travail);vertreten (itt-a-e)
+métier;der Beruf-e
+emploi, poste;die Arbeitsstelle-n
+participer;teil-nehmen (im-ah-om)
+bureau;das Büro-s
+contrat;der Vertrag-″e
+faire, effectuer, fabriquer;machen
+faire;tun (a-a)
+créer;schaffen (u-a)
+contrat de travail;der Arbeitsvertrag-″e
+temps complet;die Vollzeit-en
+temps partiel;die Teilzeit-en
+à durée indéterminée, permanent;unbefristet
+à durée déterminée;befristet
+sans emploi;arbeitslos
+se préparer;sich vor-bereiten
+préparer;vor-bereiten
+prêt (adj.);bereit
+employeur;der Arbeitgeber-, die Arbeitgeberin-nen
+employé, travailleur;der Arbeitnehmer-, die Arbeitnehmerin-nen
+employé, agent;der Angestellter--, die Angestellte--
+tâche (de travail);die Aufgabe-n
+postuler;sich bewerben (bei, für) (i-a-o)
+application (emploi);die Bewerbung-en
+entreprise;das Unternehmen
+patron;der Chef-s, die Chefin-nen
+service (restaurant...);die Bedienung-en
+expérience (professionnelle);die Erfahrung-en
+firme;die Firma-/en
+salaire;der Gehalt-e
+commerce (entreprise commerciale);das Geschäft-e
+interview;das Vorstellungsgespräch-e
+job;der Job-s
+stage (de fin d'étude);das Praktikum-/a
+client;der Kunde-n, die Kundin-nen
+indépendant (emploi), autonome;selbstständig
+hopital;das Krankenhaus-″er
+industrie;die Industrie-n
+agriculture;die Landwirtschaft-en
+ordinateur;der Computer
+écran (de TV, d'ordinateur);der Bildschirm-e
+clavier;die Tastatur-en
+touche de clavier;die Taste-n
+cahier;das Heft-e
+travail à domicile;die Telearbeit-en
+mine;die Grube-n
+réunion;die Besprechung-en
+site de production, entreprise;der Betrieb-e
+fonctionnement, opération;der Betrieb-e
+fin de journée (congé, fin de travail);der Feierabend-e
+formation continue;die Fortbildung-en
+syndicat (organisation);die Gewerkschaft-en
+produire;erzeugen
+ingénieur;der Ingenieur-e, die Ingenieurin-nen
+collègue;der Kollege-n, die Kollegin-nen
+prestation, performance;die Leistung-en
+employé, collaborateur;der Mitarbeiter-, die Mitarbeiterin-nen
+département des ressources humaines;die Personalabteilung-en
+qualification;die Qualifikation-en
+retraite (travail);die Rente-n
+poste, durée de travail accomplie;die Schicht-en
+poste de travail;die Stelle-n
+heure supplémentaire;die Überstunde-n
+supérieur hiérarchique;der Vorgesetzter--, die Vorgesetzte--
+éditer, travailler sur quelquechose;bearbeiten
+employer, embaucher;ein-stellen
+virer, renvoyer;entlassen (ä-ie-a)
+faire un petit boulot, travailler;jobben
+mettre en congé maladie (note écrite par le dr);krank-schreiben (ie-ie)
+se déclarer en congé maladie;sich krank-melden
+gagner de l’argent (en travaillant), mériter (tr.);verdienen
+employé, actif, ayant un travail;berufstätig
+spécialiste, expert;der Fachmann-″er, die Fachfrau-en, (pl.) Fachleute
+carrière (professionnelle);die Karriere-n
+projet;das Projekt-s
+industrieux;fleißig
+soigneux, minutieux;sorgfällig
+paraisseux;faul
+vacance;der Urlaub-e
+temps libre;die Freizeit-en
+intérêt;das Interesse-n an+D
+faire du sport;Sport treiben (ie-ie)
+sport;der Sport-e
+yoga;das Yoga
+radio;das Radio-s
+télé;der Fernseher-
+regarder la télé;fern-sehen (ie-a-e)
+lecture;die Lektüre-n
+jouet;das Spielzeug-e
+tricher (jeu);schummeln
+amusement, divertissement;die Unterhaltung-en
+excursion;der Ausflug-″e
+jeu de société;das Brettspiel-e
+livre;das Buch-″er
+jeu vidéo;das Computerspiel-e
+vélo;das Fahrrad-″er
+nager;schwimmen (a-o)
+piscine (extérieur);das Freibad-″er
+piscine (intérieur);das Schwimmbad-″er
+FKK;die Freikörperkultur-en
+football;der Fußball-″e
+guitare;die Gitarre-n
+violon;die Geige-n
+handball;der Handball-″e
+intrument de musique;das Instrument-s
+carte (à jouer);die Spielkarte-n
+cinéma;das Kino-s
+lire;lesen (ie-a-e)
+entrée, admission (exposition, concert...);der Eintritt-e
+musique;die Musik-en
+piano;das Piano-s
+aller se promener;spazieren gehen
+promenade;der Spaziergang-″e
+jouer;spielen
+streaming;das Streaming-s
+tennis;das Tennis
+dé;der Würfel-
+congés et jours fériés, vacances (temps);(pl.) Ferien
+fête;das Fest-e
+fêter;feiern
+temps;die Zeit-en
+constant;stetig
+à chaque fois;jeweils
+en même temps, simultané (adj.);gleichzeitig
+ultérieur, à postériori;nachträglich
+entre temps, depuis lors;inzwischen
+fois (point dans le temps);das Mal-e
+aujourd'hui;heute
+avant-hier;vorgestern
+régulier (dans le temps);regelmäßig
+ponctuel;pünktlich
+immédiatement;sofort
+abrupt, soudain;plötzlich
+d'aujourd'hui (=maintenant, ce jour);heutig
+actuel (d'aujourd'hui);heutig
+de l'époque;damalig
+d'avance;im Voraus
+finalement;schließlich
+calendrier (système);der Kalender-
+calendrier (document);der Kalender-
+heure (durée);die Stunde-n
+heure (horloge);die Uhr-en
+seconde;die Sekunde-n
+évènement;das Ereignis-se
+suivant, prochain;nächst
+minute;die Minute-n
+jour;der Tag-e
+semaine;die Woche-n
+mois;der Monat-e
+année;das Jahr-e
+jour de la semaine;der Wochentag-e
+lundi;der Montag-e
+mardi;der Dienstag-e
+mercredi;der Mittwoch-e
+jeudi;der Donnerstag-e
+vendredi;der Freitag-e
+samedi;der Samstag-e
+dimanche;der Sonntag-e
+soir;der Abend-e
+matin;der Morgen-
+démarrer (processus de commencement);starten
+commencer;beginnen (a-o), an-fangen (ä-i-a)
+s’arrêter;enden
+passer du temps;verbringen (ach-ach)
+midi;der Mittag-e
+après-midi;der Nachmittag-e
+fin de semaine;das Wochenende-n
+demain;morgen
+hier;gestern
+après demain;übermorgen
+nuit;die Nacht-″er
+janvier;der Januar-e
+février;der Februar-e
+mars;der März-e
+avril;der April-e
+mai;der Mai-e
+juin;der Juni-s
+juillet;der Juli-s
+aout;der August-e
+septembre;der September-
+octobre;der Oktober-
+novembre;der November-
+décembre;der Dezember-
+printemps;der Frühling-e
+automne;der Herbst-e
+durer;dauern
+intervalle de temps;der Zeitraum-″e
+saison;die Jahreszeit-en
+hivers;der Winter-
+été;der Sommer-
+délai, terme;die Frist-en
+passé (temps);die Vergangenheit-en
+futur (temps);die Zukunft-″e
+présent (temps);die Gegenwart
+éternel;ewig
+éternité;die Ewigkeit-en
+temporaire;zeitweilig
+à nouveau;wieder
+permanent;ständig
+constamment;stets
+avoir lieu (de façon organisée);statt-finden (a-u)
+se passer, avoir lieu;geschehen (ie-a-e), sich ereignen
+arriver, survenir, se produire (inattendu);vor-kommen (a-o)
+se passer (quelquechose d'involontaire ou de déplaisant, etc.);passieren
+actuel;aktuell
+dernier;letzt
+ancien, précédent;ehemalig
+reporter (à plus tard);verschieben (o-o)
+avoir le temps;Zeit haben
+unité de mesure;die Einheit-en, das Maß-e
+mesure (processus);die Vermessung-en
+mètre;der Meter-
+longueur mesurée;die Länge-n
+température;die Temperatur-en
+degré (centigrade);der Grad-e
+thermomètre;das Thermometer-
+poid;das Gewicht-e
+peser;wiegen (o-o)
+centimètre;das/der Zentimeter-
+mètre carré;das/der Quadratmeter-
+moins (degré négatif);minus
+plus (addition);plus
+pour cent;das Prozent-e
+litre;der Liter-
+gramme;das Gramm-e
+kilogramme;das Kilogramm-e
+pays;das Land-″er
+carte (géo);die Karte-n, die Landkarte-n
+mer;das Meer-e
+lac;der See-n
+étang, mare;der Teich-e
+océan;der Ozean-e
+frontière;die Grenze-n
+continent;der Kontinent-e
+rive, bord;das Ufer-
+région;das Gebiet-e
+Europe;das Europa
+Asie;das Asien
+île;die Insel-n
+Afrique;das Afrika
+Océanie;das Ozeanien
+Amérique;das Amerika-
+Amérique du Nord;das Nordamerika
+Amérique du Sud;das Südamerika
+européen;europäisch
+Nord;der Nord
+Sud;der Süd
+Est;der Ost
+Ouest;der West
+côte (littoral);die Küste-n
+couleur;die Farbe-n
+blanc;weiß
+monochromatique;monochromatisch
+noir;schwarz
+voilet;lila
+pâle;blass
+rose (couleur);rosa
+rouge;rot
+orange (adj.);orange
+jaune;gelb
+vert;grün
+cyan (nom);das Cyan
+bleu;blau
+transparent;durchsichtig
+gris;grau
+brun;braun
+sombre;dunkel
+clair;hell
+personne;die Person-en
+gens;(pl.) Leute
+seul;allein
+personne, humain;der Mensch-en
+ensemble;zusammen
+jumeau;der Zwilling-e
+enfant;das Kind-er
+adulte;der Erwachsener--, die Erwachsenere--
+vieux;alt
+jeune;jung
+type, mec;der Kerl-e
+femme;die Frau-en
+s'occuper, prendre soin;sich kümmern (um), sorgen (für)
+homme;der Mann-″er
+garçon;der Junge-n
+fille (jeune personne du sexe féminin);das Mädchen-
+enfance;die Kindheit-en
+durant mon enfance;in meiner Kindheit
+famille;die Familie-n
+bébé;das Baby-s
+frère;der Bruder-″
+cousin;der Cousin-s
+cousine;die Cousine-n
+épouse;die Ehefrau-en, die Gattin-nen
+époux;der Ehemann-″er, der Gatte-n
+parents;(pl.) Eltern
+élever (enfants);erziehen
+petit-fils;der Enkel-
+petite-fille;die Enkelin-nen
+fils;der Sohn-″e
+fille (descendante directe);die Tochter-″
+hériter;erben
+frère ou soeur;das Geschwister-
+séparé (mariage);getrennt
+mariage;die Ehe-n
+célibataire;ledig
+dans une relation (en couple);in einer Beziegung
+mère;die Mutter-″
+grand-mère;die Oma-s
+grand-père;der Opa-s
+enceinte;schwanger
+soeur;die Schwester-n
+tante;die Tante-n
+père;der Vater-″
+oncle;der Onkel-
+se marier;verheiraten
+marié;verheiratet (mit)
+parent, apparenté;der Verwandter, die Verwandte
+allergie;die Allergie-n
+cellule;die Zelle-n
+assurance maladie;die Krankenversicherung-en
+virus;das Virus-/en
+circulation (sanguine);der Kreislauf
+faible;schwach
+bactérie;die Bakterie-n
+toucher, affecter;betreffen (+A) (i-a-o)
+pharmacie;die Apotheke-n
+se reposer;sich aus-ruhen
+pharmacien;der Apother-, die Apothekerin-nen
+docteur (méd.);der Arzt-″e, die Ärztin-nen
+respirer;atmen
+sang;das Blut-e
+saigner;bluten
+attraper (maladie);ein-fangen (ä-i-a)
+rhume;die Erkältung-en
+urgence (méd.);der Notfall-″e
+pansement;das Heftpflaster-, das Pflaster-
+soins (care);die Pflege
+traiter (soigner);behandeln
+traitement;die Behandlung-en
+médicamment;das Medikament-e
+poul;der Puls-e
+fumer;rauchen
+désinfecter;desinfizieren
+douleur;der Schmerz-en
+faire mal;schmerzen, weh tun (a-a)
+accident;der Unfall-″e
+bandage;der Verband-″e
+blessé;verletzt
+blessure;die Wunde-n
+dentiste;der Zahnarzt-″e, die Zahnärztin-nen
+alimentation;die Ernährung-en
+grippe;die Grippe-n
+toux;der Husten-
+certificat de maladie;der Krankenschein-e
+infirmier;der Krankenpfleger-, die Krankenpflegerin-nen
+médecine;die Medizin-en
+appel d’urgence (112);der Notruf-e
+notice (de médicament);die Packungsbeilage-n
+patient (de docteur);der Patient-en, die Patientin-nen
+cabinet de médecin;die Praxis-/en
+prescription;das Rezept-e
+pommade;die Salbe-n
+faim;der Hunger
+rassasié;satt
+soif;der Durst
+avoir faim;Hunger haben
+avoir soif;Durst haben
+rhume;der Schnupfen-
+examen (médical);die Untersuchung-en
+perdre du poids;ab-nehmen (im-ah-om)
+prendre un médicament;ein-nehmen (im-ah-om)
+guérir;heilen
+tousser;husten
+opérer (méd.);operieren
+soigner, prendre soin;pflegen
+examiner (méd.);untersuchen
+prescrire (méd.);verschreiben (ie-ie)
+prendre du poid;zu-nehmen (im-ah-om)
+sain, en forme;gesund
+santé;die Gesundheit
+canne;der Stock-″e
+dormir;schlafen (ä-ie-a)
+s'endormir;ein-schlafen (ä-ie-a) (sein)
+réveiller (tr.);wecken, auf-wecken
+se réveiller;auf-wachen
+éveillé;wach
+bruit (nuisance);der Lärm
+malade;krank
+vacciner;imfpen
+maladie;die Krankheit-en
+comprimé, caché;die Tablette-n
+diarrhée;der Durchfall-″e
+vomir;(sich) erbrechen (i-a-o)
+cheveu, poil;das Haar-e
+uriner;urinieren
+boucle de cheveux;die Locke-n
+esprit;der Geist-er
+cheveu (coiffe);das Haar-e
+long (cheveux);lang
+court (cheveux);kurz
+mordre;beißen (i-i)
+blond;blond
+brun, noir (couleur de cheveux);dunkel
+brun (couleur de cheveux);braun
+jambe;das Bein-e
+cou;der Hals-″e
+doigt;der Finger-
+pied;der Fuß-″e
+hanche;die Hüfte-n
+membre (partie du corps);das Glied-er
+tête;der Kopf-″e
+mince (adj.);schlank
+orteil;der Zeh-en
+visage;das Gesicht-er
+ongle;der Nagel-″
+main;die Hand-″e
+pouce;der Daumen-
+poing;die Faust-″e
+oreille;das Ohr-en
+bouche;der Mund-″er
+dent;der Zahn-″e
+langue (bouche);die Zunge-n
+nez;die Nase-n
+narine;das Nasenloch-″er
+joue;die Wange-n
+lèvre;die Lippe-n
+oeil;das Auge-n
+sourcil;die Augenbraue-n
+cil;die Wimper-n
+tempe;die Schläfe-n
+machoîre;der Kiefer-
+front (visage);die Stirn-en
+menton;das Kinn-e
+frange;die Franse-n
+poignet;das Handgelenk-e
+cheville;der Enkel-
+genou;das Knie-e
+coude;der Ellbogen-
+ventre;der Bauch-″e
+estomac;der Magen-″
+dos;der Rücken-
+poitrine;die Brust-″e
+nuque;der Nacken-
+épaule;die Schulter-n
+coeur;das Herz-en
+foie;die Leber-n
+intestin;der Darm-″e
+poumon;die Lunge-n
+rein;die Niere-n
+gorge;die Kehle-n
+voix (sons produit par les cordes vocales);die Stimme-n
+cerveau;das Gehirn-e
+peau;die Haut-″e
+corps;der Körper-
+rapport sexuel;der Geschlechtsverkehr
+organe (partir du corps ayant une fonction spécifique);das Organ-e
+organe sexuel;das Geschlechtsorgan-e
+vulve;das weibliche-- Geschlechtsorgan-e
+vagin;die Vagina-/en
+clitoris;der Kitzler-
+testicule;der Hoden-
+veine (vaisseau sanguin);die Vene-n
+penis;der Penis-se
+séant, derrière;das Gesäß-e
+sur les genoux;auf dem Schoß
+exténuant;anstrengend
+fort (costaud);kräftig
+force;die Kraft-″e
+nu;nackt
+cadavre;die Leiche-n
+os (élément & matériau);der Knochen-
+squelette;das Skelett-e
+crâne;der Schädel-
+adn;die DNS
+gène (adn);das Gen-e
+muscle;der Muskel-n
+odeur;der Geruch-″e
+symétrique;symmetrisch
+imprécis, flou;unscharf
+percevoir, discerner;wahr-nehmen (im-ah-om)
+point de vue;der Punkt-e der Sicht
+visible;sichtbar
+parfum;das Parfüm-s
+sonner, retentir;klingen
+silence;die Stille
+bruit;das Geräusch-e
+fort (pour le son), bruyant;laut
+de faible intensité sonore;leise
+calme, sans bruit;ruhig
+percevoir un goût;schmecken
+avoir un goût;schmecken
+sens (perception);der Sinn-e
+avoir un bon goût (saveur, intr.);schmecken
+goût (saveur);der Geschmack-″er
+délicieux;lecker
+odorat;der Geruch-″e
+doux, tendre;sanft
+mou, mouelleux, doux;weich
+délicat, tendre;zart
+dur;hart
+rêver;träumen
+rêve;der Traum-″e
+cauchemar;der Albtraum-″e
+regarder (=diriger le regard);blicken
+regarder;an-schauen, an-sehen (ie-a-e)
+voir, regarder dans une direction;schauen
+examiner, analyser;betrachten
+regarder, contempler;betrachten
+observer;beobachten
+regard;der Blick-e
+vue, panomara;der Ausblick-e
+voir;sehen (ie-a-e)
+montrer;zeigen
+entendre;hören
+écouter;zu-hören
+sentir (percevoir odeur);riechen (+A) (o-o)
+sentir (émettre odeur);riechen (adv./nach) (o-o)
+puer;stinken (a-u)
+ressentir (sens);spüren, fühlen
+trace;die Spur-en
+pressentir;ahnen
+ville;die Stadt-″e
+rue;die Straße-n
+intersection, croisement;die Kreuzung-en
+village;das Dorf-″er
+bâtir, construire;bauen
+à la campagne;auf dem Land
+ruelle;die Gasse-n
+maire;der Bürgermeister-, die Bürgermeisterin-nen
+église;die Kirche-n
+pond;die Brücke-n
+chemin;der Weg-e
+sentier;der Pfad-e
+puit, fontaine;der Brunnen-
+gymnase;die Turnhalle-n
+studio de fitness;das Fitnessstudio-s
+boulangerie;die Bäckerei-en
+supermarché;der Supermarkt-″e
+marché;der Markt-″e
+place;der Platz-″e
+mosquée;die Moschee-n
+tour (bâtiment);der Turm-″e
+bâtiment;das Gebäude-
+champs (agricole);das Feld-er
+verger;der Obstgarten-″
+pré;die Wiese-n
+centreville;das Stadtzentrum-/en
+château;das Schloss-″er
+monument;das Denkmal-e
+temple;der Tempel-
+colonne (pilier cylindrique);die Säule-n
+cimetière;der Friedhof-″e
+tombe;das Grab-″er
+fossé;der Graben-″
+immeuble d'habitations;das Mehrfamilienhaus-″er
+arche;der Bogen-″
+statue;die Statue-n
+voisin (habitant);der Nachbar-n, die Nachbarin-nen
+début;der Anfang-″
+juste, petit, rien que (adj.);knapp
+couple, paire;das Paar-e
+groupe;die Gruppe-n
+plat, uni, egal;eben
+horizontal;waagerecht
+dépasser;überschreiten (itt-itt)
+passer en dessous;unterschreiten (itt-itt)
+vertical;senkrecht
+plat (adj.);flach
+long;lang
+court (adj.);kurz
+part, partie;der Teil-e
+partie, pièce (indépendante d'un tout);das Teil-e
+fin (terminaison);das Ende-n
+fini, limité;endlich
+structure;die Struktur-en
+restant (surnuméraire);übrig
+limité;begrenzt
+chose;das Ding-e, die Sache-n
+dans l’ensemble;insgesamt
+tube;das Rohr-e
+point;der Punkt-e
+petit;klein
+vide;leer
+plein;voll
+étroit, mince;schmal
+grand;groß
+énorme;riesig
+proportionnel;proportional (zu/+D)
+contraire, inverse (adj.);umgekehrt
+inversement proportionnel;umgekehrt proportional
+quantité;die Menge-n
+au minimum;mindestens, zumindest, minimal
+minimal;minimal
+maximal;maximal
+au maximum;höchstens, maximal
+supplémentaire;zusätzlich
+beaucoup;viel
+bas (opposé de haut);niedrig
+cercle;der Kreis-e
+bulle;die Blase-n
+tranche, rondelle;die Scheibe-n
+rond (adj.);rund
+boucle;die Schlinge-n
+rebord;der Rand-″er
+lourd;schwer
+léger;leicht
+épais;dick
+dehors;draußen
+dedans;drinnen, drin
+moyenne (statistique);der Durchschnitt-e
+fin, ténu;dünn
+diamètre;der Durchmesser-
+se dilater;sich aus-dehnen
+étendre, s'étendre (élastique);dehnen
+moyen (median);durchschnittlich
+étroit, serré;eng
+surface (objet);die Fläche-n
+surface (haut);die Oberfläche-n
+lisse, poli;glatt
+nombre;die Zahl-en
+entier (adj., nombre sans fraction);ganzzahlig
+entier, tout entier;ganz
+multiple (adj.);vielfach
+aire (nombre);der Flächeninhalt-e
+volume, espace;der Raum-″e
+augmenter (intr.);zu-nehmen (im-ah-om) (haben)
+augmenter, accroitre (tr.);steigern
+volume (nombre);der Rauminhalt-e, das Volumen-
+boule;die Kugel-n
+approximatif;ungefähr
+environ;etwa
+trou;das Loch-″er
+coin;die Ecke-n
+carré;das Quadrat-e
+triangle;das Dreieck-e
+rectangle;das Rechteck-e
+courbé, tordu;krumm
+ligne (géométrique);die Linie-n
+rangée;die Reihe-n
+coté;die Seite-n
+objet;der Gegenstand-″e
+se trouver;sich finden (a-u)
+état;der Zustand-″e
+distance;der Abstand-″e
+endroit, lieu;die Stelle-n
+endroit, lieu;der Ort-e
+position;die Stellung-en
+situation (spatiale, abstraite);die Lage-n
+couche (surface);die Lage-n
+reste;der Rest-e
+longueur;die Länge-n
+largeur;die Breite-n
+large;breit
+haut;hoch
+hauteur;die Höhe-n
+épaisseur;die Dicke-n
+zone;die Zone-n
+bout, pièce;das Stück-e
+assez;genug
+suffisant;reichend
+changer (soi);sich verändern
+perdre;verlieren (o-o)
+propriété (aspect propre);die Eigenschaft-en
+provenir;stammen (von/aus)
+général (commun);allgemein
+tendance;die Tendenz-en
+unité;die Einheit-en
+croître, grandir;wachsen (ä-u-a)
+adapter;an-passen
+s'adapter;sich an-passen (+D)
+appartenir;gehören (+D)
+changer (transitif);ändern, verändern
+condition (prerequis, termes, ...);die Bedingung-en
+devenir;werden (i-u-o)
+le même (adj.);nämlich
+échanger, transformer, convertir;tauschen
+résultat;das Ergebnis-se
+propre, personnel, inhérent;eigen
+individuel, unique;einzeln
+remplacer;ersetzen
+correspondre (identité);entsprechen (i-a-o)
+unique, seul (seulement);einzig
+sembler;scheinen (ie-ie)
+contenir;enthalten (ä-ie-a)
+contraire (nom);das Gegenteil-e
+ressembler;ähneln
+consister en;bestehen (aus) (and-and)
+différer;ab-weichen (i-i)
+différent;verschieden
+similaire;ähnlich
+identique;gleich
+sorte;die Art-en
+sorte, espèce;die Sorte-n
+certain, définit;bestimmt
+pareil;gleichartig
+différence;der Unterschied-e
+développement, évolution;die Entwicklung-en
+naturel, normal;natürlich
+authentique, véritable;echt
+casser;brechen (i-a-o), zerbrechen (i-a-o)
+démonter;demontieren
+déchirer;reißen (i-i)
+cassé;kaputt
+exister;bestehen (and-and), existieren
+énergie;die Energie-n
+électricité, courant;der Strom-″e
+barrage;die Talsperre-n
+panneau solaire;das Solarmodul-e
+énergie solaire;die Solarenergie-n
+éolienne;das Windrad-″er
+énergie renouvellable;die erneuerbare Energie
+fuel;der Brennstoff-e
+changement climatique;der Klimawandel-
+compteur (gas, élect...);der Stromzähler-, der Gaszähler-
+consommation (courant);der Verbrauch-″e
+lumière;das Licht-er
+rayonner;strahlen
+brûler (être en feu);brennen (a-a)
+brûler (transitif);brennen (a-a)
+incinérer;verbrennen (a-a)
+lever;heben (o-o)
+lâche, dénoué;locker
+superposer;überlägern
+courber (diffracter);beugen
+éparpiller, diffuser;streuen
+rigide;steif
+recouvrir;bedecken (+A, mit)
+forme;die Form-en
+creuser;graben (ä-u-a)
+plier;zusammen-legen
+ouvrir;öffnen
+pointu, tranchant;scharf
+fort, puissant, intensif;stark
+déplacer en poussant;verschieben (o-o)
+fermer;schließen (o-o), zu machen
+pousser;stoßen (ö-ie-o)
+mouvement;die Bewegung-en
+se balancer, osciller;schwingen (a-u)
+tirer;ziehen (og-og)
+appuyer, presser;drücken
+étendre sur une surface, augmenter la surface occupée;aus-breiten
+pas (marche);der Schritt-e
+limite;die Grenze-n
+accrocher, suspendre;auf-hängen
+jeter, lancer;werfen (i-a-o)
+tenir;halten (ä-ie-a)
+laisser tomber (sur le sol);fallen lassen (ä-ie-a)
+tomber;fallen (ä-ie-a)
+chute (fait de tomber);der Fall-″e
+sauter;springen (a-u)
+attraper, agripper;greifen (if-if)
+attraper (en vol), capturer;fangen (ä-i-a)
+se lever;auf-stehen (and-and)
+s’assoir;sich setzen
+se coucher;sich legen
+couper;schneiden (itt-itt)
+grimper;klettern
+monter, escalader;steigen (ie-ie)
+décoller;vom Boden ab-heben (o-o)
+coller;kleben
+bouger (transitif ou réflexif);(sich) bewegen
+toucher;berühren, an-fassen
+aller à pied, marcher;laufen (äu-ie-au)
+aller;gehen (ing-ang)
+l'entrée (le fait d'entrer);der Eintritt-e
+marcher (sur), faire des pas;treten (it-a-e)
+courrir;rennen (a-a)
+étirer/s'étirer;strecken
+mettre sous tension, être tendu/étendu, s'étendre (statique);spannen
+pendre;hängen
+prendre;nehmen (im-ah-om)
+s’écouler (liquide);fließen (o-o)
+couler (sombrer);sinken (a-u)
+rabaisser;senken
+fondre;schmelzen (o-o)
+mélanger;mischen
+tourner (autour);sich drehen (um+A)
+tourner (qqchose);drehen
+tourner (prendre un virage);ab-biegen (o-o)
+traverser;über-queren
+traverser une étendue d'eau;über-setzen
+transmettre;übertragen (ä-u-a)
+diriger, mettre/tourner dans une direction, guider;lenken
+vitesse;die Geschwindigkeit-en
+accélération;die Beschleudigung-en
+freiner;bremsen
+frein;die Bremse-n
+onde;die Welle-n
+puissance (énergie/temps);die Leistung-en
+force (Newton);die Kraft-″e
+pression (litérale & figurative);der Druck-″e
+accélérer;beschleudigen
+rapide;schnell
+lent;langsam
+voyager à pied;wandern
+retard;die Verspätung-en
+disparaître;verschwinden (a-u)
+aspirer (air);saugen
+verser (arroser);gießen (o-o)
+direction;die Richtung-en
+atteindre;erreichen
+urger, devoir être accompli rapidement;eilen (haben)
+se dépêcher de faire quelquechose, faire vite;sich beeilen (haben)
+se dépêcher d'aller quelquepart;sich eilen (sein)
+limiter, restreindre;beschränken
+bloquer;sperren
+isoler;trennen
+fendre, séparer;spalten
+suivre;folgen (+D)
+succéder (un évènement, une personne);nach-folgen (+D) (sein)
+aller, conduire;fahren (ä-u-a)
+poursuivre, suivre (une personne), suivre (avec attention);verfolgen
+quitter, abandonner;verlassen (ä-ie-a)
+lointain, distant;fern
+loin, large;weit
+continuer (reprendre);weiter-machen, fort-fahren (ä-u-a)
+percuter;auf-prallen
+image;das Bild-er
+photo;das Foto-s
+photographier;fotografieren
+média;das Massmedium-/en
+film (cinématographique);der Film-e
+vidéo (clip);das Video-s
+enregistrer (média);auf-zeichnen
+enregistrement (résultat);die Aufnahme-n
+chanson;das Lied-er
+chanter;singen (a-u)
+parole (de musique);der Text-e
+partition (musique);die Partitur-en
+script (film);das Drehbuch-″er
+synopsis;die Synopsis-/en
+histoire (récit);die Geschichte-n
+dessiner;zeichnen
+écrire;schreiben (ie-ie)
+composer (un morceau de musique);komponieren
+théâtre (performance et bâtiment);das Theater-
+scène (théâtre);die Bühne-n
+pièce de théâtre;das Bühnenstück-e
+poésie (art);die Dichtung-en
+poème;das Gedicht-e
+litérature;die Belletristik
+acteur;der Schauspieler-, die Schauspielerin-nen
+présentateur, hôte (show);der Moderator-en, die Moderatorin-nen
+compositeur;der Komponist-en, die Komponistin-nen
+musicien;der Musiker-, die Musikerin-nen
+note (de musique);die Note-n
+cinéaste;der Filmemacher-, die Filmemacherin-nen
+peinture (activité);die Malerei-en
+peintre;der Maler-, die Malerin-nen
+peindre;malen
+peinture, teinte (substance);die Farbe-n
+peinture (image);das Gemälde-
+art;die Kunst-″e
+pinceau;der Pinsel-
+corde (d'un instrument de musique);die Saite-n
+moderne;modern
+démodé, vieilli;altmodisch
+cuire au four;backen (ä-u-a)
+frire;braten (ä-ie-a)
+cuisiner;kochen
+congeler;ein-frieren (o-o)
+bouilloire électrique;der Wasserkocher-
+amer;bitter
+sec;trocken
+humide;feucht
+plat (à manger);das Gericht-e
+sécher;trocknen
+réduire en poudre, moudre;mahlen (gemahlen)
+réduire en morceaux, moudre grossièrement (céréales);schroten
+mouiller;nass machen
+mouillé;nass
+détergent;das Spülmittel-
+éponge (absorbante);der Schwamm-″e
+robinet;der WasserHahn-″e, der Hahn-″e
+pâte (eg farine + liquide + ingrédients);der Teig-e
+fourchette;die Gabel-n
+couteau;das Messer-
+cuillère;der Löffel-
+petite cuillère;der Teelöffel-
+plat (assiette);der Teller-
+assiette;der Teller-
+plat, bol, saladier;die Schüssel-n
+bol, bassin;die Schale-n
+coquille;die Schale-n
+tasse, coupe;die Tasse-n
+casserole;der Topf-″e
+passoire;das Sieb-e
+poelle à frire;die Pfanne-n
+couvercle;der Deckel-
+spatule;der Pfannewender-
+spatule en silicone;der Teigschaber-
+bouillir (être en ébullition);sieden
+(faire) bouillir;sieden
+remuer (cuisine);um-rühren
+fouet (cuisine);der Schneebesen-
+tablier;die Schürze-n
+louche;der Schöpflöffel-
+carafe, bouteille d'eau;die Wasserflasche-n
+verre (récipient);das Glas-″er
+récipient;der Behälter-
+verre doseur;der Messbecher-
+boite;die Schachtel-n, die Dose-n
+petit récipient, bocal;das Gefäß-e
+gourde;die Feldflasche-n
+mixeur;der Mixer-
+papier toilette;das Klopapier
+lavabo;das Waschbecken-
+douche;die Dusche-n
+baignoire;die Badewanne-n
+serviette (douche);das Handtuch-″er
+brosse;die Bürste-n
+balai;der Besen-
+dentifrice;die Zahnpasta-/en
+brosse à dent;die Zahnbürste-n
+crème solaire;die Sonnencreme-s
+prendre une douche;(sich) duschen
+se laver;sich waschen (ä-u-a)
+pur, propre, sans mélange;rein
+se brosser les dents;sich die Zähne putzen
+nettoyer;reinigen
+laver;waschen (ä-u-a)
+nettoyer, brosser;putzen
+savon;die Seife-n
+shampooing;das Haarwaschmittel-
+crème;die Creme-n
+propre;sauber
+sale;schmutzig
+mâcher;kauen
+cracher;spucken
+société;die Gesellschaft-en
+social;sozial
+liberté;die Freiheit-en
+commun, collectif;gemeinsam
+luxe;der Luxus
+poli (courtois);höflich
+fonder;gründen
+monnaie (d’un pays);die Währung-en
+guerre;der Krieg-e
+paix;der Frieden
+économie;die Wirtschaft-en
+histoire (passé);die Geschichte-n
+croque-mort;der Bestatter-, die Bestatterin-nen
+date;das Datum-/en
+valeur (idéogie);der Wert-e
+parti (politique);die Partei-en
+voter;ab-stimmen
+impôt, taxe;die Steuer-n
+habitant (de ville, pays…);der Einwohner-, die Einwohnerin-nen
+administration, gestion;die Verwaltung-en
+pouvoir, puissance;die Macht-″e
+drapeau;die Fahne-n
+constitution (document légal);die Verfassung-en
+ordre (opposé du désordre);die Ordnung-en
+loi;das Gesetz-e
+public;öffentlich
+parlement;das Parlament-e
+ministère;das Ministerium-/en
+land (état fédéré);das Bundesland-″er
+conseil fédéral;der Bundesrat-″e
+république fédérale;die Bundesrepublik-en
+chambre des députés;der Bundestag
+tuer;töten
+menacer;drohen
+mourir;sterben (i-a-o)
+assassiner;ermorden
+tirer (jeter un projectile);schießen (o-o)
+noyer (verbe);ertränken
+se noyer;ertrinken (a-u)
+fraude, triche, escroquerie;der Betrug-″e
+poison, venin;das Gift-e
+meurtrier (personne qui a commis un meurtre);der Mörder-, die Mörderin-nen
+crime;die Straftat-en
+criminel (personne qui a commis un crime);der Verbrecher-, die Verbrecherin-nen
+réincarnation;die Wiedergeburt-en
+nuire;schaden
+détruire;zerstören
+anéantir;vernichten
+voler (prendre);stehlen (ie-a-o)
+voleur;der Dieb-e, die Diebin-nen
+légal;gesetzlich
+interdire;verbieten (+A +D) (o-o)
+paradis;der Himmel-
+enquêter;ermitteln
+procès;der Prozess-e
+jugement;das Urteil-e
+juge;der Richter-, die Richterin-nen
+frapper, taper;schlagen (ä-u-a)
+punir;strafen
+tribunal;das Gericht-e
+dieu;der Gott-″er
+avocat (droit);der Rechtsanwalt-″e, die Rechtsanwältin-nen
+témoin;der Zeuge-n, die Zeugin-nen
+protection;der Schutz-e
+protéger;schützen
+déesse;die Göttin-nen
+témoignage;das Zeugnis-se
+enfer;die Hölle-n
+âme;die Seele-n
+héros;der Held-en, die Heldin-nen
+malfaisant;böse
+mauvais;übel
+libre;frei
+ennemi (nom);der Feind-e, die Feindin-nen
+impardonnable;unverzeihlich
+pardonner;verzeihen (+A+D) (ie-ie)
+prison;das Gefängnis-se
+arrêter, appréhender;fest-nehmen (im-ah-om)
+sécurité;die Sicherheit-en
+sorcière;die Hexe-n
+magie;der Zauber
+atelier (de travail);die Werkstatt-″e
+écran (surface de protection);der Schirm-e
+outil;das Werkzeug-e
+grille;das Gitter-
+planche;das Brett-er
+planche épaisse;die Planke-n
+seau;der Eimer-
+tuyau;der Schlauch-″e
+ferme, solide;fest
+règle (instrument);das Lineal-e
+marteau;der Hammer-
+pile, batterie;die Batterie-n
+batterie, accu;der Akku-s
+tamis;das Sieb-e
+vis (attache);die Schraube-n
+clou;der Nagel-″
+lame;die Klinge-n
+connecter, mettre en contact;verbinden (a-u)
+visser;schrauben
+pointe (bout);die Spitze-n
+tournevis;der Schraubenzieher-
+pince (pour fixer, pince à linge);die Klammer-n
+pince;die Zange-n
+ciseaux;die Schere-n
+mètre (pour mesurer);das Metermaß-e
+balance (pour mesurer);die Waage-n
+échelle (pour monter);die Leiter-n
+cable;das Seil-e
+corde;die Schnur-″e
+bâton;der Stock-″e
+tige;die Stange-n
+attacher, fixer;befestigen, fest-machen
+nouer;knoten
+lacer, ficeler;schnüren
+noeud;der Knoten-
+fil de métal;der Draht-″e
+souder;schweißen
+lacet;der Schnürsenkel-
+fil (à coudre);der Faden-″
+fibre;die Faser-n
+aiguille;die Nadel-n
+tissu;der Stoff-e
+lentille (optique);die Linse-n
+sel;das Salz-e
+sucré;süß
+poivre;der Pfeffer-
+crème;die Sahne
+huile;das Öl-e
+huile d’olive;das Olivenöl-e
+olive;die Olive-n
+patate douce;die Süßkartoffel-n
+huile de tournesol;das Sonnenblumenöl-e
+tournesol;die Sonnenblume-n
+graine;der Samen-
+noix (général);die Nuss-″e
+fruit;das Obst
+mûr (fruit);reif
+épautre;der Dinkel-
+fruit;die Frucht-″e
+baie (fruit);die Beere-n
+farine;das Mehl-e
+beurre;die Butter
+farine de blé;das Weizenmehl-e
+margarine;die Margarine-n
+lait;das Milch-en
+amande;die Mandel-n
+soja;die Soja-/en
+porridge;der Brei-e
+flocon;die Flocke-n
+flocon d’avoine;die Haferflocke-n
+blé;der Weizen
+légume (général);das Gemüse-
+patate;die Kartoffel-n
+bouillon;die Brühe-n
+bouillon de légumes;die Gemüsebrühe-n
+polenta;die Polenta
+maïs;der Mais
+carotte;die Möhre-n, die Karotte-n
+céréale;das Getreide-
+cueillir;pflücken
+pate à tartiner, paté;der Brotaufstrich-e
+gauffre;die Waffel-n
+raisin, grappe;die Traube-n
+sucre;der Zucker-
+noyau (de fruit);der Kern-e
+noix (noyer);die Walnuss-″e
+noisette;die Haselnuss-″e
+cacahuète;die Erdnuss-″e
+noix de cajou;die Cashewnuss-″e
+noix de macadamia;die Macadamianuss-″e
+noix du brésil;die Paranuss-″e
+herbe (cuisine);das Gewürzkraut-″er
+épice, condiment;das Gewürz-e
+beurre de cacahuète;die Erdnussbutter
+pain;das Brot-e
+miette;der Krümel-
+bière;das Bier-e
+vin;der Wein-e
+alcool (substance);der Alkohol-e
+vinaigre;der Essig-e
+levure chimique;das Backpulver-
+levure (organique);die Hefe-n
+pâte (nouilles);die Nudel-n
+ingrédient;die Zutat-en
+bretzel;die Laugenbrezel-n, die Bretzel-n
+vitamine;das Vitamin-e
+protéine;das Eiweiß-e
+graisse;das Fett-e
+gras;fett
+glucide;das Kohlenhydrat-e
+mineraux (alimentation);der Mineralstoff-e
+poudre;das Pulver-
+purée de pommes de terre;der Kartoffelbrei-e
+graine de tournesol;der Sonnenblumenkern-e
+graine de courge;der Kürbiskern-e
+lin;der Lein-e
+crêpe, pancake;der Pfannkuchen-
+gâteau, tarte;der Kuchen-
+spätzle;das Spätzle-
+spaghetti;die Spaghetti-s
+pizza;die Pizza-s
+avocat (aguacatl);die Avocado-s
+lasagne;die Lasagne-n
+brocoli;der Brokkoli-
+artichaut;die Artischocke-n
+chou-fleur;der Blumenkohl-e
+chou blanc;der Weißkohl-e
+chou;der Kohl-e
+chou rouge;der Rotkohl-e
+chocolat;die Schokolade-n
+vanille;die Vanille
+cacao;der Kakao-s
+pomme;der Apfel-″
+cerise;die Kirsche-n
+poire;die Birne-n
+banane;die Banane-n
+apricot;die Aprikose-n
+pêche;der Pfirsich-e
+figue;die Feige-n
+datte;die Dattel-n
+orange (fruit);die Orange-n
+mandarine;die Mandarine-n
+citron;die Zitrone-n
+clémentine;die Clementine-n
+melon;die Melone-n
+pamplemousse;die Pampelmuse-n
+pastèque;die Wassermelone-n
+courge, citrouille;der Kürbis-se
+courgette;die Zucchini-en
+aubergine;die Aubergine-n
+tomate;die Tomate-n
+concombre;die Gurke-n
+cornichon;die Gurke-n
+sauce;die Sauce-n, die Soße-n
+épinard;der Spinat-e
+salade;der Salat-e
+laitue;der Lattich-e
+aliment transformé;das verarbeitete-- Lebensmittel-
+aliment;die Kost
+mâche (salade);der Feldsalat-e
+poireau;der Lauch-e, der Porree-s
+oignon;die Zwiebel-n
+ail;der Knoblauch
+céléri rave;der Kohlrabi-s
+choux de Bruxelles;der Rosenkohl
+choux chinois;der Chinakohl-e
+chou frisé (kale);der Grünkohl-e
+prune;die Zwetschge-n, die Pflaume-n
+lentille (légume);die Linse-n
+lentille rouge;die rote-- Linse-n
+haricot (graine);die Bohne-n
+riz;der Reis-e
+mangue;die Mango-s
+pois chiche;die Kichererbse-n
+croûte (pain);die Kruste-n
+fromage;der Käse-
+croissant;das Croissant-s
+franzbrötchen;das Franzbrötchen-
+barre (de chocolat);der Riegel-
+jus (de fruit);der Saft-″e
+thym;der Thymian-e
+jus d’orange;der Orangensaft-″e
+jus de pomme;der Apfelsaft-″e
+romarin;der Rosmarin
+sauge;der Salbei-e
+basilic;das Basilikum-/en
+origan;der Oregano
+marjolaine;der Majoran-e
+curcuma;die Kurkuma-/en
+asefétide;der Asant-e
+fenouil;der Fenchel-
+poivron;die Paprika-(s)
+piment;der Chili-s
+noix de coco;die Kokosnuss-″e
+paprika;der Paprika-(s)
+fraise;die Erdbeere-n
+framboise;die Himbeere-n
+myrtille;die Blaubeere-n, die Heidelbeere-n
+mûre (fruit);die Brombeere-n
+cranberry;die Cranberry-s
+groseille;die Johannisbeere-n
+cassis;die schwarze-- Johannisbeere-n
+persil;die Petersilie-n
+céléri;der Sellerie-s, die Sellerie-n
+eau;das Wasser-
+boite de conserve;die Dose-n
+frais;frisch
+cuit;gekocht
+décongeler;auf-tauen
+petit pois;die Erbse-n
+sésame;der Sesam
+tahini;die Tahina
+tofu;der Tofu
+tempeh;das Tempeh
+menthe;die Minze-n
+thé (herbal);der Tee-s
+thé (noir);der Schwarztee-s
+pavot;der Mohn-e
+fleur;die Blume-n
+fleurir;blühen
+tronc;der Stamm-″e
+pollen;der Blütenstaub-″e
+feuille (plante);das Blatt-″er
+racine (plante);die Wurzel-n
+fougère;der Farn-e
+champignon;der Pilz-e
+lierre;der Efeu
+vigne;die Weinrebe-n
+vignoble;der Weinberg-e, der Weingarten-″
+herbe (plante graminée);das Gras-″er
+pétale;das Blütenblatt-″er
+cactus;der Kaktus-/een
+rose (fleur);die Rose-n
+jonquille;die Narzisse-n
+paquerette;das Gänseblümchen-
+pissenlit;der Löwenzahn-″e
+buisson;der Busch-″e, der Strauch-″er
+épine;der Dorn-″er
+écorce;die Rinde-n
+ronce;der Brombeerstrauch-″er
+herbe (plante aromatique);das Kraut-″er
+ortie;die Brennnessel-n
+sapin (Abies);die Tanne-n
+pin (Pinus, Strobus, longues aiguilles);die Kiefer-n
+conifère;der Nadelbaum-″e
+épine de conifère;die Nadel-n
+figuier;der Feigenbaum-″e
+palmier;die Palme-n
+algue;die Alge-n
+mousse (plante);das Moos-e
+lichen;die Flechte-n
+moisissure;der Schimmel
+plante;die Pflanze-n
+arbre;der Baum-″e
+forêt;der Wald-″er
+animal;das Tier-e
+espèce (bio.);die Spezies-
+dauphin (cétacé);der Delfin-e
+phoque;der Seehund-e
+hérisson;der Igel-
+oursin;der Seeigel-
+étoile de mer;der Seestern-e
+papillon;der Schmetterling-e
+mite, papillon de nuit;die Motte-n
+mouette;die Möwe-n
+chenille (animal);die Raupe-n
+baleine (animal);der Wal-e
+abeille;die Biene-n
+guêpe;die Wespe-n
+tortue;die Schildkröte-n
+hippocampe;das Seepferdchen-
+fourmi;die Ameise-n
+éponge (animal);der Schwamm-″e
+oie;die Gans-″e
+chouette, hibou;die Eule-n
+araignée;die Spinne-n
+aile;der Flügel-
+plume;die Feder-n
+aboyer;bellen
+corne (animal);das Horn-″er
+bec;der Schnabel-″
+loup;der Wolf-″e
+moustique;die Mücke-n
+mouche;die Fliege-n
+voler (se déplacer dans les airs);fliegen (o-o)
+termite;die Termite-n
+millepatte;der Tausendfüßler-
+patte;das Bein-e
+scorpion;der Skorpion-e
+insecte;das Insekt-en
+mollusque;die Molluske-n
+manger (pour les animaux);fressen (i-a-e)
+mamifère;das Säugetier-e
+reptile;das Reptil-ien
+vertébré;das Wirbeltier-e
+escargot;die Schnecke-n
+lapin;das Kaninchen-
+limace;die Nacktschnecke-n
+pigeon;die Taube-n
+rat;die Ratte-n
+souris;die Maus-″e
+écureuil;das Eichhörnchen-
+poisson;der Fisch-e
+requin;der Hai-e
+raie;der Rochen-
+ours;der Bär-en
+lion;der Löwe-n
+chien;der Hund-e
+corneille;die Krähe-n
+chat;die Katze-n
+tigre;der Tiger-
+panthère;der Panther-
+girafe;die Giraffe-n
+éléphant;der Elefant-en
+rhinocéros;das Nashorn-″er
+hippopotame;das Flusspferd-e
+grenouille;der Frosch-″e
+crapeau;die Kröte-n
+corbeau;der Rabe-n
+oiseau;der Vogel-″
+pie (oiseau);die Elster-n
+moineau;der Sperling-e, der Spatz-en
+poulet;das Huhn-″er
+cigogne;der Storch-″e
+chèvre;die Ziege-n
+mouton;das Schaf-e
+vache;die Kuh-″e
+bovin;das Rind-er
+taureau;der Bulle-n
+troupeau;die Herde-n
+cochon;das Schwein-e
+canard;die Ente-n
+crabe;der Krebs-e
+cocquillage, bivavle;die Muschel-n
+huitre;die Auster-n
+méduse;die Qualle-n
+dinosaure;der Dinosaurier-
+lézard;die Eidechse-n
+crocodile;das Krokodil-e
+alligator;der Alligator-en
+serpent;die Schlange-n
+ammonite;der Ammonit-en
+fossile;das Fossil-ien
+trilobite;der Trilobit-en
+aigle;der Adler-
+cygne;der Schwan-″e
+grogner;brummen
+chasser;jagen
+pêcher;fischen
+kangourou;das Känguru-s
+jaguar;der Jaguar-e
+lynx;der Luchs-e
+blaireau;der Dachs-e
+cerf;der Hirsch-e
+chevreuil;das Reh-e
+renard;der Fuchs-″e
+ver de terre;der Wurm-″er
+cheval;das Pferd-e
+poney;das Pony-s
+âne;der Esel-
+buffle;der Büffel-
+fer;das Eisen-
+rouille;der Rost
+rouiller;rosten
+acier;der Stahl-″e
+élément (catégorie chimique);das Element-e
+argent (métal);das Silber
+craie, calcite (matériau);der Kalk-e
+or;das Gold
+cuivre;das Kupfer
+carbone (C);der Kohlenstoff
+aluminium;das Aluminium
+oxygène;der Sauerstoff
+azote;der Stickstoff
+hydrogène;der Wasserstoff-e
+acide (substance);die Säure-n
+officiel;offiziel
+nécessiter, requérir;benötigen (+A)
+valide, valable;gültig
+permettre, autoriser;erlauben
+signer;unterschreiben (ie-ie)
+accepter, reconnaître, approuver;an-erkennen (a-a)
+demande, requête;der Antrag-″e
+demander, faire une requête (pour faire quelquechose);auf-fordern
+résidence (adm.);der Aufenthalt-e
+étranger (nom);der Ausländer-, die Ausländerin-nen
+fonctionnaire;der Beamter--, die Beamte--
+confirmer, prouver;bestätigen
+autorité (gouv.);die Behörde-n
+assurance (contrat de garantie);die Versicherung-en
+formulaire;das Formular-e
+compte (utilisateur, bancaire);das Konto-/en
+permis;die Genehmigung-en
+visa;das Visum-/a
+compétence, validité;die Zuständigkeit-en
+remplir (un formulaire);aus-füllen
+bienvenu;willkommen
+(se) présenter (quelqu'un ou soi-même);(sich) vor-stellen
+dire bonjour;sich begrüßen
+bise, bisou;der Kuss-″e
+faire la bise/un ou des bisou(s), embrasser;küssen
+ami;der Freund-e, die Freundin-nen
+accompagner;begleiten (+A)
+dire aurevoir;sich verabschieden
+à plutard;bis später
+à bientôt;bis bald
+manifestation, évènement, cérémonie;die Veranstaltung-en
+bye;tschüss
+je suis désolé;es tut mir leid
+rendez-vous;der Termin-e
+arranger (un rendez-vous);vereinbaren, aus-machen
+se rencontrer (quelqu'un connu);treffen (sich) (i-a-o)
+offrir, donner;verschenken
+se rencontrer (suivant un rdv);sich treffen (mit) (i-a-o)
+rencontrer par hasard;begegnen (+D)
+inviter;ein-laden (ä-u-a)
+annuler (rdv);ab-sagen
+rater (rdv);verpassen
+il me tarde;ich freue mich (auf+A)
+s’appeler;heißen (ie-ei)
+nécessiter;bedürfen (+G)
+volontaire (adj.);freiwillig
+avoir besoin de;brauchen (+A)
+compréhension (=empathie);das Verständnis-se
+constater la perte;vermissen
+déplorer l'absence;vermissen
+remercier;danken (+D, für)
+offrir (intrinsèquement);bieten (o-o)
+être reconnaissant;sich bedanken
+récompenser;belohnen (für)
+féliciter;gratulieren (+D, zu)
+satisfaire;befriedigen (+A)
+désirer, demander (s'attendre à);verlangen
+souhaiter, désirer;wünschen
+supporter, endurer;ertragen (ä-u-a)
+supporter, faire avec;vertragen (ä-u-a)
+en valoir la peine;sich lohnen
+valoir la peine de;lohnen
+opportunité;die Gelengenheit-en
+coincidence;der Zufall-″e
+chance;das Glück
+chance;die Chance
+profiter;profitieren
+soutenir, assister;unterstützen
+aider;helfen (+D, bei) (i-a-o)
+suffire;reichen
+avantageux;günstig
+déranger, perturber;stören
+sauver;retten
+en espérant que (adv.);hoffentlich
+finir, terminer (une tâche, un produit);erledigen
+gêner, entraver;behindern
+survivre;überleben
+fuir;fliehen (o-o)
+entreprendre (tâche);unternehmen (im-ah-om)
+réussir;gelingen (a-u) (sujet/objet inversés)
+rater, ne pas réussir;misslingen (a-u) (sujet/objet inversés)
+victoire;der Sieg-e
+qui a beaucoup de succès (adj.);erfolgreich
+succès, réussite;der Erfolg-e
+faillir, échouer;versagen
+capable, apte;fähig
+persévérer;beharren (bei)
+ennuyeux (intérêt);langweilig
+courage;der Mut
+se tromper;(sich) irren
+erreur;der Fehler-
+regretter;bedauern
+difficile;schwierig
+facile;einfach
+simple;einfach
+curieux (désirant connaître);neugierig
+essayer;versuchen
+essayer, tester (utiliser);aus-probieren
+essayer, tester (est-ce possible?), goûter;probieren
+tentative;der Versuch-e
+terminer, finir;beenden
+résoudre;lösen
+chercher;suchen
+améliorer;verbessern
+inventer;erfinden (a-u)
+trouver;finden (a-u)
+masquer;maskieren
+cacher, être caché;verdecken
+cacher (pour ne pas être trouvé);verstecken
+se cacher (pour ne pas être trouvé);sich verstecken (vor)
+découvrir;entdecken
+but, objectif;das Ziel-e
+but, dessein;der Zweck-e
+secret (adj.);geheim
+secret, mystère;das Geheimnis-se
+danger, risque (possibilité de dammage);die Gefahr-en
+dangereux;gefährlich
+pénurie, manque;der Mangel-″
+attention!;Vorsicht!, Achtung!
+risque (possibilité de conséquences négatives);das Risiko-s
+responsable (adj.);verantwortlich (für)
+fiable, digne de confiance;zuverlässig
+prendre charge, assumer;übernehmen (im-ah-om)
+en règle;in Ordnung
+célèbre;berühmt
+mener;führen
+guider;führen
+influencer, avoir des répercussions;beeinflussen
+servir;dienen (+D), bedienen
+règle (principe);die Regel-n
+ordonner (donner un ordre);befehlen (ie-a-o)
+laisser faire, autoriser;zu-lassen (ä-ie-a)
+gérer, traiter d'une certaine façon;um-gehen (ing-ang)
+controller;steuern
+confier (objet);an-vertrauen (+A, +D)
+insérer;ein-fügen
+contenu;der Inhalt-e
+ordonner, arranger, organiser;an-ordnen
+occuper;besetzen
+enlever;entfernen
+supprimer;auf-lösen
+contribuer;bei-tragen (ä-u-a)
+copier (faire une copie);kopieren
+sauvegarder (ordi);speichern
+collecter, rassembler;sammeln
+garder (retenir);behalten (ä-ie-a)
+assembler;montieren
+poser;setzen, stellen, legen
+changer, échanger;wechseln (von+D, auf+A)
+échanger (permuter, contre quelquechose);tauschen
+partager, diviser;teilen
+séparer;trennen
+occupé (en parlant d'un lieu);besetzt
+remplir;füllen
+vider;leeren
+vider, sortir des choses;aus-räumen
+insérer, planter;stecken
+pile, empilement;der Stapel-
+charger;laden (ä-u-a)
+apporter;bringen (ach-ach)
+apporter, amener avec soi;mit-bringen (ach-ach)
+disponible;verfügbar
+à la place;stattdessen
+trier, organiser;sortieren
+copier (imiter);nach-machen
+sachet;die Tüte-n
+poche, sacoche;die Tasche-n
+sachet, bourse;der Beutel-
+sac;der Sack-″e
+omettre;aus-lassen (ä-ie-a)
+réparer;reparieren
+utiliser;benutzen (+A, zu), verwenden (+A, zu)
+faire usage;Gebrauch machen (von)
+fonctionner;funktionieren
+éviter (évènement ou action);vermeiden (ie-ie)
+empêcher (un évènement);verhindern
+arrêter (de faire qqchose);auf-hören
+machine;die Maschine-n
+se servir (opérer);bedienen
+pratique;praktisch
+commode, confortable;bequem
+utile;nützlich
+être en marche;laufen (äu-ie-au)
+science (approche méthodique et rigoureuse du savoir);die Wissenschaft-en
+science naturelle;die Naturwissenschaft-en
+recherche scientifique;die Forschung-en
+conductivité (électrique, etc.);die Leitfähigkeit-en
+astronomie;die Astronomie
+thermique;thermisch
+système;das System-e
+trajectoire;die Bahn-en
+potentiel (duquel dérive une forme d'énergie);das Potential-e
+méthode;die Methode-n
+fusée, roquette;die Rakete-n
+mathématiques (science);die Mathematik
+particule (science);das Teilchen-
+gaz;das Gas-e
+atome;das Atom-e
+molécule;das Molekül-e
+elastique (adj.);elastisch
+statistique (adj.);statistisch
+statistique (discipline);die Statistik-en
+équilibre (mécanique);das Gleichgewicht-e
+démontrer, prouver, détecter (prouver l'existence);nach-weisen (ie-ie)
+cristal (physique, minéraux);der Kristall-e
+rigide, indéformable;starr
+solide indéformable;der starre- Körper-
+vitesse angulaire;die Rotationsgeschwindigkeit-en
+densité, masse volumique;die Dichte-n
+lunette, téléscope;das Fernrohr-e
+calculer;berechnen
+déterminer;bestimmen
+être vivant (créature);das Lebewesen-
+rayonnement;die Strahlung-en
+rayon gamma;der Gammastrahl-en
+rayon X;der Röntgenstrahl-en
+ultraviolet;ultraviolett
+lumière visible;das sichtbare- Licht-er
+infrarouge;infrarot
+microonde (rayonnement);die Mikrowelle-n
+onde radio;die Radiowelle-n
+charge (électrique);die Ladung-en
+mécanique (discipline physique);die Mechanik
+stationnaire;stationär
+diffraction;die Beugung-en
+équation des ondes;die Wellengleichung-en
+La vibration de la corde est décrite par le déplacement $\varphi(x,t)$ par rapport à la position d'équilibre en fonction de la position et du temps;"die Schwingung der Saite wird beschrieben durch die Auslenkung $\varphi(x,t)$ aus der Gleichgewichtslage als Funktion des Ortes und der Zeit"""
+exercer, appliquer (une force);wirken (auf+A)
+un corps n'est accéléré que lorsqu'une force lui est appliquée;ein Körper wird nur beschleudigt, wenn eine Kraft auf ihn wirkt
+amplitude (phy.);die Amplitude-n
+probabilité de présence;die Aufenthaltswahrscheinlichkeit-en
+moment cinétique;der Drehimpuls-e
+fréquence;die Frequenz-en
+quantité de mouvement;der Impuls-e
+oscillateur harmonique;der harmonische-- Oszillator-en
+énergie potentielle;die potentielle-- Energie-n
+potentiel (adj.);potentiell, potenziell
+désintégration (particules);der Zerfall-″e
+courbure (géométrique);die Krümmung
+axe;die Achse-n
+équidistant;äquidistant
+résoudre l'équation en utilisant les coordonnées polaires;die Gleichung in Polarkoordinaten lösen
+dériver (une fonction);ab-leiten (nach?)
+une dérivée du premier ordre par rapport au temps;eine Ableitung erster Ordnung nach der Zeit
+fonction;die Funktion-en
+distribution, répartition;die Verteilung-en
+fonction constante;die stetige-- Funktion-en
+coordonnée (d'un vecteur);die Koordinate-n
+coordonnée polaire;die Polarkoordinate-n
+opérateur (mathématique);der Operator-en
+ellipse;die Ellipse-n
+hyperbole;die Hyperbel-n
+parabole;die Parabel-n
+formule (mathématique);die Formel-n
+équation;die Gleichung-en
+infini (adj.);unendlich
+infini, infinité;die Unendlichkeit-en
+théorème;der Satz-″e
+série (somme);die Reihe-n
+série entière;die Potenzreihe-n
+numérateur;der Zähler-
+dénominateur;der Nenner-
+division (arithmétique);die Division-en
+produit (arithmétique);das Produkt-e
+puissance (arithmétique);die Potenz-en
+décalage, perturbation;die Verrückung-en
+quadratique, carré (adj.);quadratisch
+racine (arithmétique);die Wurzel-n
+normer (math.);normieren
+module, norme;der Betrag-″e
+vecteur;der Vektor-en
+matrice;die Matrix-/zen
+somme, total;die Summe-n
+parallèle;parallel (zu)
+perpendiculaire;rechtwinklig, senkrecht (zu)
+angle;der Winkel-
+intégrale (math.);das Integral-e
+dérivée (math.);das Differential-e
+dénombrable;abzählbar
+nombre (quantité);die Anzahl-en
+infinité dénombrable (quantité);die abzählbar unendliche-- Anzahl-en
+infini dénombrable (en quantité infinie dénombrable);abzählbar unendlich viele
+équation différentielle;die Differentialgleichung-en
+sur, divisé par (fraction);durch
+factorielle;die Fakultät-en
+n factorielle;n Fakultät
+a exposant b;a hoch b
+partie imaginaire;der Imaginärteil-e
+partie réelle;der Realteil-e
+élément (d'un ensemble);das Element-e
+x appartient à M;x ist Element von M
+2 plus 2 est égal à 4;zwei plus zwei ist gleich vier
+intervalle (ensemble mathématique);das Intervall-e
+intervalle fermé;das abgeschlossene-- Intervall-e
+intervalle ouvert;das offene-- Intervall-e
+cardinalité;die Kardinalität-en
+imaginaire;imaginär
+réel (des nombres réels);reell
+complexe (des nombres complexes);komplex
+fois (multiplié);mal
+3 fois 3 font 9;drei mal drei ist neun
+ensemble (collection mathématique);die Menge-n
+strictement négatif;negativ
+positif;nichtnegativ
+strictement positif;positiv
+équation aux dérivées partielles;die partielle-- Differentialgleichung-en
+carré (puissance 2);Quadrat, zum Quadrat, hoch zwei
+différent (mathématique);ungleich
+f(x), f de x;f von x
+racine (carrée) de x;die Wurzel aus x
+racine n-ième de x;die n-te Wurzel aus x
+probabilité;die Wahrscheinlichkeit-en
+densité de probabilité;die Wahrscheinlichkeitsdichte-n
+chaque état ne peut être occupé qu'une seule fois;jeder Zustand kann nur einfach besetzt sein
+rude, vulgaire;derb
+foutre (baiser), aller se faire foutre;ficken 🤬
+merde;die Kacke 🤬, die Scheiße 🤬
+chier;kacken 🤬
+gerber, dégueuler;kotzen 🤬
+pisser;pissen 🤬
+chier;scheißen (i-i) 🤬
