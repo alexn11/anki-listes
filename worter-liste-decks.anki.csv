@@ -346,7 +346,7 @@ heureux;glücklich;humeur, émotions
 relaxé;entspannt;humeur, émotions
 intéressé;interessiert;humeur, émotions
 être intéressé par;sich interessieren (für);humeur, émotions
-enthousiasmé;begeistert;humeur, émotions
+enthousiasmé;begeistert (von);humeur, émotions
 fasciner;faszinieren;humeur, émotions
 triste;traurig;humeur, émotions
 content;zufrieden;humeur, émotions
@@ -406,7 +406,7 @@ conscient, réfléchi;bewusst;raisonnement, opinion
 c'est exact;das stimmt;raisonnement, opinion
 exception;die Ausnahme-n;raisonnement, opinion
 relation (lien, rapport);die Beziehung-en;raisonnement, opinion
-réfléchir;nach-denken (ach-ach);raisonnement, opinion
+réfléchir;nach-denken (über) (ach-ach);raisonnement, opinion
 comprendre;greifen (if-if);raisonnement, opinion
 paraître, sembler;vor-kommen (a-o);raisonnement, opinion
 défaut, inconvénient;der Nachteil-e;raisonnement, opinion
@@ -772,7 +772,7 @@ fixer, convenir;aus-machen;parler, convaincre
 d'accord (adj.);einverstanden (mit);parler, convaincre
 considérer;überlegen;parler, convaincre
 avoir envie;Lust haben (auf+A/zu);parler, convaincre
-envie (désir);die Lust-″e;parler, convaincre
+envie (désir);die Lust-″e (auf+A);parler, convaincre
 plutôt (adv. opposition);lieber;parler, convaincre
 convenir (être compatible);passen;parler, convaincre
 aller bien, marcher;klappen;parler, convaincre
@@ -1032,7 +1032,7 @@ dimanche;der Sonntag-e;concepts temporels
 soir;der Abend-e;concepts temporels
 matin;der Morgen-;concepts temporels
 démarrer (processus de commencement);starten;concepts temporels
-commencer;beginnen (a-o), an-fangen (ä-i-a);concepts temporels
+commencer;beginnen (a-o), an-fangen (mit) (ä-i-a);concepts temporels
 s’arrêter;enden;concepts temporels
 passer du temps;verbringen (ach-ach);concepts temporels
 midi;der Mittag-e;concepts temporels
