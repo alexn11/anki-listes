@@ -994,6 +994,7 @@ fêter;feiern;temps libre
 temps;die Zeit-en;concepts temporels
 constant;stetig;concepts temporels
 à chaque fois;jeweils;concepts temporels
+nouveau;neu;concepts temporels
 en même temps, simultané (adj.);gleichzeitig;raisonnement, opinion
 ultérieur, à postériori;nachträglich;concepts temporels
 entre temps, depuis lors;inzwischen;concepts temporels
@@ -1514,7 +1515,7 @@ rangée;die Reihe-n;location, quantité, géométrie
 coté;die Seite-n;location, quantité, géométrie
 objet;der Gegenstand-″e;location, quantité, géométrie
 se trouver;sich finden (a-u);location, quantité, géométrie
-état;der Zustand-″e;location, quantité, géométrie
+état (disposition);der Zustand-″e;location, quantité, géométrie
 distance;der Abstand-″e;location, quantité, géométrie
 endroit, lieu;die Stelle-n;location, quantité, géométrie
 endroit, lieu;der Ort-e;location, quantité, géométrie
