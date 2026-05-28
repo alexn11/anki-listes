@@ -752,7 +752,7 @@ mutuel;gegenseitig;parler, convaincre
 répondre à (tr.);beantworten;parler, convaincre
 discuter, conseiller;beraten (ä-ie-a);parler, convaincre
 exhorter, admonester;ermahnen (zu);parler, convaincre
-avertir;warnen (+A, vor);parler, convaincre
+avertir;warnen (+A, vor+D);parler, convaincre
 s’excuser (de);sich entschuldigen (bei);parler, convaincre
 plutôt;eher;parler, convaincre
 même, voire;sogar;parler, convaincre
@@ -889,8 +889,8 @@ temps partiel;die Teilzeit-en;travail
 à durée indéterminée, permanent;unbefristet;travail
 à durée déterminée;befristet;travail
 sans emploi;arbeitslos;travail
-se préparer;sich vor-bereiten;travail
-préparer;vor-bereiten;travail
+se préparer;sich vor-bereiten (auf+A);travail
+préparer;vor-bereiten (auf+A);travail
 prêt (adj.);bereit;travail
 employeur;der Arbeitgeber-, die Arbeitgeberin-nen;travail
 employé, travailleur;der Arbeitnehmer-, die Arbeitnehmerin-nen;travail
