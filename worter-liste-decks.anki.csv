@@ -381,7 +381,7 @@ ressentir, sentir;fühlen;humeur, émotions
 se réjouir;sich freuen (auf+A, an+A);humeur, émotions
 exciter;auf-regen;humeur, émotions
 énerver;nerven;humeur, émotions
-peur (émotion);die Angst-″e;humeur, émotions
+peur (émotion);die Angst-″e (vor+D);humeur, émotions
 avoir peur (émotion);Angst haben (vor+D);humeur, émotions
 malgrès tout;trotzdem;raisonnement, opinion
 en outre, de plus;ferner;raisonnement, opinion
@@ -721,7 +721,7 @@ parler;sprechen (i-a-o);parler, convaincre
 certitude;die Sicherheit-en;parler, convaincre
 renoncer;verzichten (auf+A);parler, convaincre
 droit à quelquechose, exigeance;der Anspruch-″e (auf+A);parler, convaincre
-demander, prier;bitten (a-e) (um);parler, convaincre
+demander, prier;(jemanden) bitten (a-e) (um);parler, convaincre
 souligner (accentuer);betonen;parler, convaincre
 convaincre (logiquement);überzeugen;parler, convaincre
 convaincre, persuader (en parlant beaucoup);überreden;parler, convaincre
@@ -781,8 +781,8 @@ aller bien, marcher;klappen;parler, convaincre
 parfait;perfekt;parler, convaincre
 à cause de moi;meinetwegen;parler, convaincre
 demander (question);fragen (+A, +A, nach, zu);parler, convaincre
-répondre (intr.);antworten;parler, convaincre
-réponse;die Antwort-en;parler, convaincre
+répondre (intr.);antworten (auf+A);parler, convaincre
+réponse;die Antwort-en (auf+A);parler, convaincre
 mentir;lügen (o-o);parler, convaincre
 recommander;empfehlen (ie-a-o);parler, convaincre
 alléguer, formuler;vor-bringen (ach-ach);parler, convaincre
@@ -871,6 +871,7 @@ présenter, faire une présentation;präsentieren;éducation
 solution (de problème);die Lösung-en;éducation
 problème;das Problem-e;éducation
 travail;die Arbeit-en;travail
+travailler;arbeiten (an+D);travail
 occupé (avec des activités);beschäftigt;travail
 être occupé (avec une tâche);sich beschäftigen (mit);travail
 remplacer (quelqu'un au travail);vertreten (itt-a-e);travail
@@ -2267,7 +2268,7 @@ valide, valable;gültig;administration
 permettre, autoriser;erlauben;administration
 signer;unterschreiben (ie-ie);administration
 accepter, reconnaître, approuver;an-erkennen (a-a);administration
-demande, requête;der Antrag-″e;administration
+demande, requête;der Antrag-″e (auf+A);administration
 demander, faire une requête (pour faire quelquechose);auf-fordern;administration
 résidence (adm.);der Aufenthalt-e;administration
 étranger (nom);der Ausländer-, die Ausländerin-nen;administration
