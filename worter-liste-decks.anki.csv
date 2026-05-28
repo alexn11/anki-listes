@@ -709,7 +709,7 @@ détail;die Einzelheit-en;communication
 email;die E-Mail-s;communication
 sujet (d'une lettre, d'un email);der Betreff-e;communication
 conseil, indication, indice;der Hinweis-e;communication
-nouvelle, information;die Nachricht-en;communication
+nouvelle, information;die Nachricht-en (von);communication
 titre, intitulé;die Überschrift-en;communication
 imprimer;drucken;communication
 imprimante;der Drucker-;communication
@@ -2334,7 +2334,7 @@ aider;helfen (+D, bei) (i-a-o);désirs, besoins
 suffire;reichen;désirs, besoins
 avantageux;günstig;désirs, besoins
 déranger, perturber;stören;désirs, besoins
-sauver;retten;désirs, besoins
+sauver;retten (vor+D);désirs, besoins
 en espérant que (adv.);hoffentlich;désirs, besoins
 finir, terminer (une tâche, un produit);erledigen;persévérer, découvrir
 gêner, entraver;behindern;persévérer, découvrir
