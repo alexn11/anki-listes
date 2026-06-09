@@ -314,8 +314,8 @@ humeur;die Laune-n;humeur, émotions
 blague;der Witz-e;humeur, émotions
 rage, colère;die Wut;humeur, émotions
 colère (contre quelquechose considéré comme injuste ou contraire à sa volonté);der Zorn;humeur, émotions
-en colère;wütend;humeur, émotions
-faché, amer;sauer;humeur, émotions
+en colère;wütend (auf+A);humeur, émotions
+faché, amer;sauer (auf+A);humeur, émotions
 énervé;verärgert;humeur, émotions
 ennuyé, énervé;genervt;humeur, émotions
 passion, ardeur;die Leidenschaft-en;humeur, émotions
@@ -336,7 +336,7 @@ terrible, affreux;schrecklich;humeur, émotions
 beau;schön;humeur, émotions
 joli;hübsch;humeur, émotions
 gentil;nett;humeur, émotions
-fier (adj.);stolz;humeur, émotions
+fier (adj.);stolz (auf+A);humeur, émotions
 heureux;froh;humeur, émotions
 laid;hässlich;humeur, émotions
 joyeux;fröhlich;humeur, émotions
@@ -349,7 +349,7 @@ intéressé;interessiert;humeur, émotions
 enthousiasmé;begeistert (von);humeur, émotions
 fasciner;faszinieren;humeur, émotions
 triste;traurig;humeur, émotions
-content;zufrieden;humeur, émotions
+content;zufrieden (mit);humeur, émotions
 stressé;gestresst;humeur, émotions
 ennuyé (qui s'ennuie);gelangweilt;humeur, émotions
 pensif;nachdenklich;humeur, émotions
@@ -431,7 +431,7 @@ présumer;vermuten;raisonnement, opinion
 suspecter;verdächtigen;raisonnement, opinion
 être de l'avis;meinen;raisonnement, opinion
 incertain;unsicher;raisonnement, opinion
-convaincu;überzeugt;raisonnement, opinion
+convaincu;überzeugt (von);raisonnement, opinion
 douter;zweifeln (an+D);raisonnement, opinion
 défendre, justifier;verteidigen;raisonnement, opinion
 justifier;rechtfertigen;raisonnement, opinion
@@ -476,7 +476,7 @@ super;super, toll;raisonnement, opinion
 super;hammer;raisonnement, opinion
 excellent;hervorragend;raisonnement, opinion
 bon;gut;raisonnement, opinion
-indépendant (sans rapport avec);unabhängig;raisonnement, opinion
+indépendant (sans rapport avec);unabhängig (von);raisonnement, opinion
 super (de première classe);prima;raisonnement, opinion
 prévoir, prédire;vorher-sagen;raisonnement, opinion
 plan (projet);der Plan-″e;raisonnement, opinion
@@ -871,6 +871,7 @@ présenter, faire une présentation;präsentieren;éducation
 solution (de problème);die Lösung-en;éducation
 problème;das Problem-e;éducation
 travail;die Arbeit-en;travail
+prêt, fini, terminé;fertig (mit);travail
 travailler;arbeiten (an+D);travail
 occupé (avec des activités);beschäftigt;travail
 être occupé (avec une tâche);sich beschäftigen (mit);travail
@@ -891,7 +892,7 @@ temps partiel;die Teilzeit-en;travail
 sans emploi;arbeitslos;travail
 se préparer;sich vor-bereiten (auf+A);travail
 préparer;vor-bereiten (auf+A);travail
-prêt (adj.);bereit;travail
+prêt (adj.);bereit (zu);travail
 employeur;der Arbeitgeber-, die Arbeitgeberin-nen;travail
 employé, travailleur;der Arbeitnehmer-, die Arbeitnehmerin-nen;travail
 employé, agent;der Angestellter--, die Angestellte--;travail
@@ -2347,7 +2348,7 @@ victoire;der Sieg-e;persévérer, découvrir
 qui a beaucoup de succès (adj.);erfolgreich;persévérer, découvrir
 succès, réussite;der Erfolg-e;persévérer, découvrir
 faillir, échouer;versagen;persévérer, découvrir
-capable, apte;fähig;persévérer, découvrir
+capable, apte;fähig (zu);persévérer, découvrir
 persévérer;beharren (bei);persévérer, découvrir
 ennuyeux (intérêt);langweilig;persévérer, découvrir
 courage;der Mut;persévérer, découvrir
@@ -2357,7 +2358,7 @@ regretter;bedauern;persévérer, découvrir
 difficile;schwierig;persévérer, découvrir
 facile;einfach;persévérer, découvrir
 simple;einfach;persévérer, découvrir
-curieux (désirant connaître);neugierig;persévérer, découvrir
+curieux (désirant connaître);neugierig (auf+A);persévérer, découvrir
 essayer;versuchen;persévérer, découvrir
 essayer, tester (utiliser);aus-probieren;persévérer, découvrir
 essayer, tester (est-ce possible?), goûter;probieren;persévérer, découvrir

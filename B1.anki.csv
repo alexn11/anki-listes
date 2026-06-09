@@ -314,8 +314,8 @@ humeur;die Laune-n
 blague;der Witz-e
 rage, colère;die Wut
 colère (contre quelquechose considéré comme injuste ou contraire à sa volonté);der Zorn
-en colère;wütend
-faché, amer;sauer
+en colère;wütend (auf+A)
+faché, amer;sauer (auf+A)
 énervé;verärgert
 ennuyé, énervé;genervt
 passion, ardeur;die Leidenschaft-en
@@ -336,7 +336,7 @@ terrible, affreux;schrecklich
 beau;schön
 joli;hübsch
 gentil;nett
-fier (adj.);stolz
+fier (adj.);stolz (auf+A)
 heureux;froh
 laid;hässlich
 joyeux;fröhlich
@@ -349,7 +349,7 @@ intéressé;interessiert
 enthousiasmé;begeistert (von)
 fasciner;faszinieren
 triste;traurig
-content;zufrieden
+content;zufrieden (mit)
 stressé;gestresst
 ennuyé (qui s'ennuie);gelangweilt
 pensif;nachdenklich
@@ -431,7 +431,7 @@ présumer;vermuten
 suspecter;verdächtigen
 être de l'avis;meinen
 incertain;unsicher
-convaincu;überzeugt
+convaincu;überzeugt (von)
 douter;zweifeln (an+D)
 défendre, justifier;verteidigen
 justifier;rechtfertigen
@@ -476,7 +476,7 @@ super;super, toll
 super;hammer
 excellent;hervorragend
 bon;gut
-indépendant (sans rapport avec);unabhängig
+indépendant (sans rapport avec);unabhängig (von)
 super (de première classe);prima
 prévoir, prédire;vorher-sagen
 plan (projet);der Plan-″e
@@ -871,6 +871,7 @@ présenter, faire une présentation;präsentieren
 solution (de problème);die Lösung-en
 problème;das Problem-e
 travail;die Arbeit-en
+prêt, fini, terminé;fertig (mit)
 travailler;arbeiten (an+D)
 occupé (avec des activités);beschäftigt
 être occupé (avec une tâche);sich beschäftigen (mit)
@@ -891,7 +892,7 @@ temps partiel;die Teilzeit-en
 sans emploi;arbeitslos
 se préparer;sich vor-bereiten (auf+A)
 préparer;vor-bereiten (auf+A)
-prêt (adj.);bereit
+prêt (adj.);bereit (zu)
 employeur;der Arbeitgeber-, die Arbeitgeberin-nen
 employé, travailleur;der Arbeitnehmer-, die Arbeitnehmerin-nen
 employé, agent;der Angestellter--, die Angestellte--
@@ -2347,7 +2348,7 @@ victoire;der Sieg-e
 qui a beaucoup de succès (adj.);erfolgreich
 succès, réussite;der Erfolg-e
 faillir, échouer;versagen
-capable, apte;fähig
+capable, apte;fähig (zu)
 persévérer;beharren (bei)
 ennuyeux (intérêt);langweilig
 courage;der Mut
@@ -2357,7 +2358,7 @@ regretter;bedauern
 difficile;schwierig
 facile;einfach
 simple;einfach
-curieux (désirant connaître);neugierig
+curieux (désirant connaître);neugierig (auf+A)
 essayer;versuchen
 essayer, tester (utiliser);aus-probieren
 essayer, tester (est-ce possible?), goûter;probieren
