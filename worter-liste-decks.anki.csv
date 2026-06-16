@@ -735,7 +735,7 @@ promettre;versprechen (i-a-o);parler, convaincre
 retour (=réponse);die Rückmeldung-en;parler, convaincre
 dire;sagen;parler, convaincre
 parler, converser;reden;parler, convaincre
-influence, impact;der Einfluss-″e;parler, convaincre
+influence, impact;der Einfluss-″e (auf+A);parler, convaincre
 avoir une conversation;besprechen (i-a-o);parler, convaincre
 discuter;besprechen (i-a-o);parler, convaincre
 prononciation;die Aussprache-n;parler, convaincre
@@ -1540,6 +1540,7 @@ bout, pièce;das Stück-e;location, quantité, géométrie
 assez;genug;location, quantité, géométrie
 suffisant;reichend;location, quantité, géométrie
 changer (soi);sich verändern;identité, changement
+changement, modification;die Änderung-en;identité, changement
 perdre;verlieren (o-o);identité, changement
 propriété (aspect propre);die Eigenschaft-en;identité, changement
 provenir;stammen (von/aus);identité, changement
