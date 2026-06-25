@@ -364,7 +364,7 @@ honte (sentiment);die Scham;humeur, émotions
 honte (objet);die Schande;humeur, émotions
 plaisant;angenehm;humeur, émotions
 plaisir, amusement;der Spaß-″e an+D;humeur, émotions
-drôle, amusant;lustig;humeur, émotions
+drôle, amusant;lustig, witzig;humeur, émotions
 drôle, bizarre;komisch;humeur, émotions
 personnel;persönlich;humeur, émotions
 géner (émotion);unangenehm sein;humeur, émotions
@@ -1437,9 +1437,11 @@ arche;der Bogen-″;ville, architecture
 statue;die Statue-n;ville, architecture
 voisin (habitant);der Nachbar-n, die Nachbarin-nen;ville, architecture
 début;der Anfang-″;location, quantité, géométrie
+plusieurs;mehrere;location, quantité, géométrie
 peu (adj.);wenig;location, quantité, géométrie
 juste, petit, rien que (adj.);knapp;location, quantité, géométrie
 couple, paire;das Paar-e;location, quantité, géométrie
+proche;nah (an);location, quantité, géométrie
 groupe;die Gruppe-n;location, quantité, géométrie
 plat, uni, egal;eben;location, quantité, géométrie
 horizontal;waagerecht;location, quantité, géométrie
